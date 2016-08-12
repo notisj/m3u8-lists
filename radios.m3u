@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,arena fm 89.4
+http://www.arenafm.gr:45054/;stream.mp3
+#EXTINF:0,ertopen
+http://radio.ertopen.com/erasport
 #EXTINF:0,1055 ROCK 105.5
 http://radio.onweb.gr:8078/;listen.pls
 #EXTINF:0,1431 AM 1431
