@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:0, group-title="Sports" tvg-logo="",Sport Time 1
+http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Sport Time 2
+http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/playlist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Sport Time 3
+http://sporttimelive1.content-cdn.net/livechannel3/smil:switch3.smil/playlist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Sport Time 4
+http://sporttimelive1.content-cdn.net/livechannel4/smil:switch4.smil/playlist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Eurosport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Eurosport 2
+http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, group-title="Sports" tvg-logo="",Redbull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",NBA TV
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_h.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",NFL Now SD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_d.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",CDO - Canal del Deporte Olimpico
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",FIGHT Sport
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",FIGHT Sport
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",TYCSPORTS ARG
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",USA-PAC 12 Net. (Arizona) 1080P
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",USA-PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Arizona HD
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Bay Area HD
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Los Angeles HD
+http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Oregon HD
+http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Mountain HD
+http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Washington HD
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 National
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Gol TV USA
+http://live-823.gv2.edge.filmon.com/live/374.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d395c1aa710e57109caccc17aec839c9fb85fd9ddc9f60a202afd6fd93cd97f609f42c9f36aa1a5fd82e41f476ea9cb226161dcf2ebc4da3c8a6e55f794113f80ee2d93f6cf8df864b8651a6f1e9de35c265c244928fff155b706a5eb86cb0ca31576580942a5048b73525eab4e255b9c7922cf3cbafb1dbf5
+#EXTINF:0, group-title="Sports" tvg-logo="",Gol TV 
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Fox Soccer USA
+http://live-1124.la2.edge.filmon.com/live/3557.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d395c1aa710e57109ccacef28b2afa29e81998f350fba152b63088566163edee9fa4371e9d087bb10162fabc67f94998f4b7376883fc6b2ce3526f4d1ea6b12881336d11673883789b8b3a0b09da1df6315addd5acfd6191b398759976abf0aa11d232bcb99d38547ccf9c5412431ff6ab0df0b9e7e679fc28
+#EXTINF:0, group-title="Sports" tvg-logo="",Sharjah Sport AR
+rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
+#EXTINF:0, group-title="Sports" tvg-logo="",Telekanal Futbol RU
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Fox Sports 506 HD
+http://motorsport.hopto.org:8080/
+#EXTINF:0, group-title="Sports" tvg-logo="",AutoSport TV
+mms://100automoto.tv/100livesport
+#EXTINF:0, group-title="Sports" tvg-logo="",MMA BAY TV
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+#EXTINF:0, group-title="Sports" tvg-logo="",PORSCHE CHANNEL
+rtsp://100automoto.tv/channel_porsche
+#EXTINF:0, group-title="Sports" tvg-logo="",LEQUIPE 21
+http://streaming-hub.com/stream/lequipe21.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",UFC Network
+http://grilla.gigared.com.ar/streams/166V3/6/1.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",CBC SPORT
+http://149.255.152.110/cbcsport/index.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",SUPER TENNIS
+http://bit.do/b2tWA
+#EXTINF:0, group-title="Sports" tvg-logo="",TRUE SPORT 2
+rtmp://216.185.103.158/live2/chthaipremier31
+#EXTINF:0, group-title="Sports" tvg-logo="",FOX SPORTS
+http://213.163.65.9:8081/live/foxsportk/playlist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",TV ALL SPORT
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",TV ESPORTE MAIS
+http://srv7.zoeweb.tv:1935/esportemais/esportemais.smil/chunklist_b1200000.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",DXTV
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",NFL Network
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",TVJ SPORTS (JAMAICA)
+http://univ-i.akamaihd.net/hls/live/222635/HLS12/chunklist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",BFM SPORT
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-1.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",RETE SPORT 8
+http://rm-edge-1.cdn2.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",TV Mas HD
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:0, group-title="Sports" tvg-logo="",COMBATE
+http://213.163.65.9:8081/live/combatez/playlist.m3u8
