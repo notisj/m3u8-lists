@@ -1,276 +1,228 @@
 #EXTM3U
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/diaw2h4r7/ert1.png",ERT1
-http://136.243.89.70/jr_ert_1_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/diaw2h4r7/ert1.png",ERT1 (2)
-http://136.243.89.70/r_ert_1_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/diaw2h4r7/ert1.png",ERT1 (3)
+#EXTINF:0,Πανελλαδικά:  ERT1 
 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/diaw2h4r7/ert1.png",ERT1 (4)
+#EXTINF:0,Πανελλαδικά: ERT1 (2)
 plugin://plugin.video.youtube.com/watch?v=wyBm8cFiUp0
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/diaw2h4r7/ert1.png",ERT1 (5)
+#EXTINF:0,Πανελλαδικά: ERT1 (3)
 http://38.140.63.250:1935/gr-live/et1.sdp/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/diaw2h4r7/ert1.png",ERT1 WEB
+#EXTINF:0,Πανελλαδικά: ERT1 WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/wyBm8cFiUp0.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r3---sn-4g57knkk.googlevideo.com/playlist_type/DVR/gcr/de/mm/32/mn/sn-4g57knkk/ms/lv/mv/m/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/upn/aGao3RuAhG8/fexp/9422596,9428398,9431012,9433096,9433221,9433946,9435526,9436963,9437553,9438327,9438662,9438805,9439580,9442424/sver/3/mt/1470741496/ip/84.63.12.39/ipbits/0/expire/1470763154/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/1CA2C7E30FA566F3636CF49F86A4AB9CB3793154.47145CF89B8C2CDB39B061B7A738D16245D65ABC/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/u7cbye1cj/ert2.png",ERT2 
-http://136.243.89.70/jr_ert_2_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/u7cbye1cj/ert2.png",ERT2 (2)
-http://136.243.89.70/r_ert_2_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/u7cbye1cj/ert2.png",ERT2 (3)
+#EXTINF:0,Πανελλαδικά: ERT2 
 http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/u7cbye1cj/ert2.png",ERT2 (4)
+#EXTINF:0,Πανελλαδικά: ERT2 (2)
 plugin://plugin.video.youtube.com/watch?v=Zjbwf5QE7aI
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/u7cbye1cj/ert2.png",ERT2 (5)
+#EXTINF:0,Πανελλαδικά: ERT2 (3)
 http://38.140.63.250:1935/gr-live/neritplus.sdp/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/u7cbye1cj/ert2.png",ERT2 WEB 
+#EXTINF:0,Πανελλαδικά: ERT2 WEB 
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/Zjbwf5QE7aI.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r1---sn-4g57knlz.googlevideo.com/gcr/de/playlist_type/DVR/mm/32/mn/sn-4g57knlz/ms/lv/mv/m/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/fexp/9415950,9417828,9418403,9418778,9419452,9422596,9427833,9428398,9431012,9433096,9433221,9433946,9435526,9436725,9437553,9438327,9438479,9438662,9438804,9439580,9439699,9439881,9439890,9440009,9441213,9441536,9441560,9441911,9442424,9443420,9443841,9443913,9444003/upn/umm0DolG328/sver/3/mt/1470741555/ip/84.63.12.39/ipbits/0/expire/1470763238/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/24B570860CE766A9AEEBFD1A21DC6DEDC118DBDD.295E7A9C6D74E7BD66F5F3612E4A30C4640C33C0/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/y8tf41tn7/er3.png",ERT3
-http://136.243.89.70/r_ert_3_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/y8tf41tn7/er3.png",ERT3 (2)
-http://136.243.89.70/v_ert_3_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/y8tf41tn7/er3.png",ERT3 (3)
+#EXTINF:0,Πανελλαδικά: ERT3 
 http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/y8tf41tn7/er3.png",ERT3 (4)
+#EXTINF:0,Πανελλαδικά: ERT3 (2)
 plugin://plugin.video.youtube.com/watch?v=TAPQISON4YM
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/y8tf41tn7/er3.png",ERT3 WEB
+#EXTINF:0,Πανελλαδικά: ERT3 WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/nxebm_-DkF0.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r12---sn-4g57kned.googlevideo.com/playlist_type/DVR/gcr/de/mm/32/mn/sn-4g57kned/ms/lv/mv/m/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/fexp/9407157,9419452,9422596,9427833,9428398,9431012,9431477,9432564,9433096,9433221,9433946,9435526,9436565,9437552,9438313,9438327,9438662,9438805,9438969,9439580,9439597,9439882,9440848,9440928,9442424,9444056,9444369/upn/XCEDzjHSulk/sver/3/mt/1470741620/ip/84.63.12.39/ipbits/0/expire/1470763303/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/04977E0697517879CBF7B4218A1939E4F84BF2EC.1D576E174EF0E1117080D47138EAEF24F05F17B2/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/9d4kuawcz/mega.png",MEGA
-http://136.243.89.70/r_mega_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/9d4kuawcz/mega.png",MEGA (2)
-http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/9d4kuawcz/mega.png",MEGA (3)
+#EXTINF:0,Πανελλαδικά: MEGA 
 http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/9d4kuawcz/mega.png",MEGA (4)
-https://www.youtube.com/watch?v=2Y8qsS_xH2Y
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/9d4kuawcz/mega.png",MEGA (5)
+#EXTINF:0,Πανελλαδικά: MEGA (2)
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:0,Πανελλαδικά: MEGA (3)
+plugin://plugin.video.youtube.com/watch?v=2Y8qsS_xH2Y
+#EXTINF:0,Πανελλαδικά: MEGA (4)
 http://38.140.63.250:1935/gr-live/mega.sdp/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/9d4kuawcz/mega.png",MEGA WEB
+#EXTINF:0,Πανελλαδικά: MEGA WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/2Y8qsS_xH2Y.2/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D135/hls_chunk_host/r19---sn-4g57kn7e.googlevideo.com/playlist_type/LIVE/gcr/de/mm/32/mn/sn-4g57kn7e/ms/lv/mv/m/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/upn/OG1KaEVxsYI/fexp/9419452,9422596,9428398,9431012,9431890,9433096,9433223,9433946,9435039,9435526,9435667,9435672,9437553,9438327,9438662,9438804,9439414,9439581,9439605,9440141,9440334,9440927,9441143,9441159,9441226,9441740,9441920,9442424,9442710,9442733,9443941/sver/3/mt/1470742340/ip/84.63.12.39/ipbits/0/expire/1470764021/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/4C38415F5E7DFB873055ED7A9CE3CCA9CFEB07D0.51BF7D6F359980E7B15DCFCF3A295A8C0A3DDA26/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/8c4c56fdf/ant1.png",ANT1 
-http://136.243.89.70/r_ant_1_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/8c4c56fdf/ant1.png",ANT1 (2)
+#EXTINF:0,Πανελλαδικά: ANT1 
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/8c4c56fdf/ant1.png",ANT1 (3)
+#EXTINF:0,Πανελλαδικά: ANT1 (2)
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/8c4c56fdf/ant1.png",ANT1 (4)
+#EXTINF:0,Πανελλαδικά:http://s19.postimg.org/8c4c56fdf/ant1.png",ANT1 (3)
 http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/z10ogzn83/alpha.png",ALPHA
-http://136.243.89.70/r_alpha_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/z10ogzn83/alpha.png",ALPHA (2)
+#EXTINF:0,Πανελλαδικά: ALPHA 
 http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/z10ogzn83/alpha.png",ALPHA (3)
+#EXTINF:0,Πανελλαδικά: ALPHA (2)
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/z10ogzn83/alpha.png",ALPHA (4)
+#EXTINF:0,Πανελλαδικά: ALPHA (3)
 http://193.92.37.235:1935/liveedge/live@720/manifest.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/z10ogzn83/alpha.png",ALPHA (5)
+#EXTINF:0,Πανελλαδικά:  ALPHA (4)
 http://38.140.63.250:1935/gr-live/alpha.sdp/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/59cstaf6b/star.png",STAR 
-http://136.243.89.70/jr_star_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/59cstaf6b/star.png",STAR (2)
+#EXTINF:0,Πανελλαδικά: STAR 
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/59cstaf6b/star.png",STAR (3)
+#EXTINF:0,Πανελλαδικά: STAR (2)
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/59cstaf6b/star.png",STAR (4)
+#EXTINF:0,Πανελλαδικά: STAR (3)
 http://38.140.63.250:1935/gr-live/star.sdp/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/hj9a4eo2b/skai.png",SKAI 
-http://136.243.89.70/jr_skai_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/hj9a4eo2b/skai.png",SKAI (2)
+#EXTINF:0,Πανελλαδικά: SKAI 
 plugin://plugin.video.youtube.com/watch?v=1LU3T8FYnYc
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/hj9a4eo2b/skai.png",SKAI (3)
+#EXTINF:0,Πανελλαδικά: SKAI (2)
 http://38.140.63.250:1935/gr-live/skai.sdp/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/hj9a4eo2b/skai.png",SKAI WEB
+#EXTINF:0,Πανελλαδικά: SKAI WEB
 https://manifest.googlevideo.com/api/manifest/hls_variant/ip/84.63.12.39/expire/1470764216/signature/05B7F9338C64FB4777C2A3EE729A1042F2D60B16.62AE6E41F3C5B1E733A599994E81E7A19A143CFD/id/1LU3T8FYnYc.1/upn/25TLk3FBcIU/tx/9436985/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ipbits/0/gcr/de/itag/0/requiressl/yes/source/yt_live_broadcast/ei/V8CpV6KMOIuzWdTXtOAM/keepalive/yes/hfr/1/playlist_type/DVR/maudio/1/sver/3/ratebypass/yes/fexp/9406127%2C9422596%2C9428398%2C9431012%2C9433096%2C9433380%2C9433946%2C9434250%2C9435526%2C9436050%2C9436985%2C9437553%2C9437948%2C9438327%2C9438662%2C9438805%2C9439539%2C9439580%2C9441115%2C9441161%2C9441463%2C9441604%2C9442424%2C9442735%2C9443263%2C9443404%2C9443866/key/yt6/txs/9436982%2C9436983%2C9436984%2C9436985%2C9436986/go/1/file/index.m3u8?cpn=4VVyiTOvCBhiF4l2&ibw=1369843&ptk=youtube_none&pltype=contentugclive&c=WEB&cver=1.20160808
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/hj9a4eo2b/skai.png",SKAI WEB
+#EXTINF:0,Πανελλαδικά: SKAI WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/1LU3T8FYnYc.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D135/hls_chunk_host/r5---sn-4g5e6ne6.googlevideo.com/gcr/de/playlist_type/DVR/mm/32/mn/sn-4g5e6ne6/ms/lv/mv/u/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/fexp/9413142,9416313,9419452,9422596,9424134,9426270,9428398,9431012,9433096,9433223,9433946,9435526,9436617,9437142,9437552,9438327,9438662,9438804,9438970,9439415,9439580,9440389,9441341,9441454,9442027,9442073,9442424,9442517,9443560/sver/3/upn/LckPWPUCkS4/mt/1470741832/ip/84.63.12.39/ipbits/0/expire/1470764221/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/769DFDF6BE224055E057D74481C6285E6268E584.5EDE60B517F4D66BFCF4A08967FD597115086274/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/ov601u8gj/Epsilon.png",E TV 
+#EXTINF:0,Πανελλαδικά: E TV 
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/ov601u8gj/Epsilon.png",E TV (2)
+#EXTINF:0,Πανελλαδικά: E TV (2)
 http://38.140.63.250:1935/gr-live/otesport5.sdp/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/ov601u8gj/Epsilon.png",E TV (3)
+#EXTINF:0,Πανελλαδικά: E TV (3)
 http://176.9.30.75:1935/live/epsilon/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/dh654saqb/m_tv.png",Macedonia TV 
-http://136.243.89.70/m_tv_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/dh654saqb/m_tv.png",Macedonia TV (2)
+#EXTINF:0,Πανελλαδικά: Macedonia TV  
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/ez5dlkjmb/ART.png",ART (ΤΗΛΕΑΣΤΥ) 
-http://136.243.89.70/r_art_gr
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/ez5dlkjmb/ART.png",ART (ΤΗΛΕΑΣΤΥ) (2)
+#EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ) 
 https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/ez5dlkjmb/ART.png",ART (ΤΗΛΕΑΣΤΥ) (3)
+#EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ) (2)
 http://104.200.159.58:1935/app/artthleorashs-channel/playlist.m3u8	
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/ez5dlkjmb/ART.png",ART (ΤΗΛΕΑΣΤΥ) (4)
-https://www.plugin://plugin.video.youtube.com/watch?v=b3OP-35Pc50
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/ez5dlkjmb/ART.png",ART WEB
+#EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ) (3)
+plugin://plugin.video.youtube.com/watch?v=b3OP-35Pc50
+#EXTINF:0,Πανελλαδικά: ART WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/b3OP-35Pc50.5/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D134/hls_chunk_host/r8---sn-i5h7ln76.googlevideo.com/gcr/de/playlist_type/LIVE/mm/32/mn/sn-i5h7ln76/ms/lv/mv/m/pl/15/dover/3/upn/SHi4B_nDubc/sver/3/fexp/9405961,9416891,9419452,9422596,9425619,9428398,9431012,9433096,9433221,9433424,9433508,9433946,9435526,9435876,9437066,9437553,9438663,9438870,9439652,9440140,9440233,9440491,9440546,9440651,9440799,9441686,9442255,9442425/mt/1468994896/ip/178.6.170.220/ipbits/0/expire/1469016567/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,pl/signature/978860F1688A565F4D535D6A26EBB1A550A760F6.51DC807EC9AA6D6C555920560075CB2124366C71/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/70f9lnh8z/vouli.png",VOULI 
+#EXTINF:0,Πανελλαδικά: VOULI 
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/70f9lnh8z/vouli.png",VOULI (2)
+#EXTINF:0,Πανελλαδικά: VOULI (2)
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/70f9lnh8z/vouli.png",VOULI (3)
+#EXTINF:0,Πανελλαδικά: VOULI (3)
 mms://media19.internet.gr/ParliamentTV-HQ
-#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="http://s19.postimg.org/70f9lnh8z/vouli.png",VOULI (4)
+#EXTINF:0,Πανελλαδικά: VOULI (4)
 rtmp://streamer0.grnet.gr/parliament/parltv.sdp
 
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/m2q8l0c9f/alpha_cy.png",Alpha CYPRUS
+#EXTINF:0,Κυπριακά:  Alpha CYPRUS
 plugin://plugin.video.youtube.com/watch?v=0khKa0_RnXk
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/m2q8l0c9f/alpha_cy.png",Alpha CYPRUS WEB
+#EXTINF:0,Κυπριακά: Alpha CYPRUS WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/0khKa0_RnXk.46/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r4---sn-4g5e6n7d.googlevideo.com/playlist_type/LIVE/gcr/de/mm/32/mn/sn-4g5e6n7d/ms/lv/mv/u/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/sver/3/upn/6RY52Zhg0Io/fexp/9412913,9415951,9419452,9422596,9428398,9431012,9433096,9433223,9433946,9435526,9436101,9437552,9438051,9438140,9438327,9438525,9438662,9438805,9438973,9439580,9440143,9440546,9441121,9441535,9441650,9441850,9441945,9442255,9442424,9442734,9443068,9443350,9443604,9444028/mt/1470742723/ip/84.63.12.39/ipbits/0/expire/1470764619/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/17A3442CE9F10CE420845B7E98022145943F5494.67E592A4172427A2946CE1B151134B603BF2B188/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="http://s19.postimg.org/8c4c56fdf/ant1.png",ANT1 CYPRUS 
-http://136.243.89.70/antena_1_cy
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="http://s19.postimg.org/8c4c56fdf/ant1.png",ANT1 CYPRUS (2)
+#EXTINF:0,Κυπριακά: ANT1 CYPRUS 
 http://l2.cloudskep.com/antl2/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMTYgODoxOTozNiBBTSZoYXNoX3ZhbHVlPWFEN0FSN1ZsWnhVY0RtSm55blZ2eEE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="http://s19.postimg.org/8c4c56fdf/ant1.png",ANT1 CYPRUS (3	)
+#EXTINF:0,Κυπριακά: ANT1 CYPRUS (2)
 http://l2.cloudskep.com/antl2/abr/playlist.m3u8
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/fa5e6iw7n/capital.png",CAPITAL
-http://136.243.89.70/capital_cy
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/6r1jedatv/extra_tv.png",EXTRA
-http://136.243.89.70/extra_cy
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/wh1ziaidv/mad.png",MAD CYPRUS 
+#EXTINF:0,Κυπριακά: MAD CYPRUS 
 rtmp://144.76.2.213/live/livestream
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/wh1ziaidv/mad.png",MAD CYPRUS (2)
+#EXTINF:0,Κυπριακά: MAD CYPRUS (2)
 rtmp://eradio.networksolutions.com.cy/live/livestream
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/wh1ziaidv/mad.png",MAD CYPRUS (3)
+#EXTINF:0,Κυπριακά: MAD CYPRUS (3)
 rtmp://144.76.2.213:1935/live/livestream
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/wh1ziaidv/mad.png",MAD CYPRUS (4)
+#EXTINF:0,Κυπριακά: MAD CYPRUS (4)
 http://144.76.2.213:1935/live/livestream/playlist.m3u8
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/9d4kuawcz/mega.png",MEGA CYPRUS 
-http://136.243.89.70/m_mega_cy
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/9d4kuawcz/mega.png",MEGA CYPRUS 
+#EXTINF:0,Κυπριακά: MEGA CYPRUS 
 http://138.201.124.160/hlive/abr/l1/m1/chunks.m3u8?nimblesessionid=419911&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTYgMTE6NDU6NDIgQU0maGFzaF92YWx1ZT1NZjBST09aV0ZQNVUrbW9XN0xyT3Z3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/9d4kuawcz/mega.png",MEGA CYPRUS (2)
+#EXTINF:0,Κυπριακά: MEGA CYPRUS (2)
 http://l1.cs-cdn.net/hlive/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTYgMTE6NDY6MzUgQU0maGFzaF92YWx1ZT12UkZKTW13SkpXYTV3ZVdCRzJBU2d3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/9d4kuawcz/mega.png",MEGA CYPRUS (3)
+#EXTINF:0,Κυπριακά: MEGA CYPRUS (3)
 http://138.201.124.160/hlive/abr/l1/b1/chunks.m3u8?nimblesessionid=419920&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTYgMTE6NDY6MzUgQU0maGFzaF92YWx1ZT12UkZKTW13SkpXYTV3ZVdCRzJBU2d3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/fyiu37kb7/rik1.png",RIK 1
-http://136.243.89.70/rik_1_cy
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/bdwnoa0lv/rik2.png",RIK 2
-http://136.243.89.70/rik2_cy
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/mst4swcyb/riksat.png",RIK SAT
+#EXTINF:0,Κυπριακά: RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/mst4swcyb/riksat.png",RIK SAT (2)
+#EXTINF:0,Κυπριακά: RIK SAT (2)
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/mst4swcyb/riksat.png",RIK SAT (3)
+#EXTINF:0,Κυπριακά: RIK SAT (3)
 http://live-1192.gv2.edge.filmon.com/live/1732.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea6d5f1d6c5934321d04fe079464b9256d0aae606c457cbf235cdee5fe60d39fb034f84120badafd13f46b0f836c71751ed3bcfbba3edf7436b85354b54a0f718a688b105ddb6f7bb1dc64a047af78c4fa2e5b2c50ef423c3dd7175fce247be874e7cb2e3c83e390610db21f3e96d3603d9f88f43333ecc6842e75593dc5e667380d4fcc47d535786799d258859a629e2
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/ini86zf6b/SIGMA.png",SIGMA CYPRUS 
-http://136.243.89.70/sigma_cy
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/ini86zf6b/SIGMA.png",SIGMA CYPRUS 
+#EXTINF:0,Κυπριακά: SIGMA CYPRUS 
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:0, group-title="Κυπριακά" tvg-logo="https://s19.postimg.org/ini86zf6b/SIGMA.png",SIGMA CYPRUS (2)
+#EXTINF:0,Κυπριακά: SIGMA CYPRUS (2)
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="",Alpha Sat
-http://136.243.89.70/r_alpha_sat_usa_gr
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="",EBS
+#EXTINF:0, Λοιπά Ελληνικά: EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="",EBS (2)
+#EXTINF:0, Λοιπά Ελληνικά: EBS (2)
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="",EBS PLUS
+#EXTINF:0, Λοιπά Ελληνικά: EBS PLUS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="",EBS PLUS (2)
+#EXTINF:0, Λοιπά Ελληνικά: EBS PLUS (2)
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="http://s19.postimg.org/wxlnvky1f/ert_world.png",ERT World
+#EXTINF:0, Λοιπά Ελληνικά: ERT World
 http://nerit3-lh.akamaihd.net/i/ertworld_1@48667/master.m3u8
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="http://s19.postimg.org/wxlnvky1f/ert_world.png",ERT World (2)
+#EXTINF:0, Λοιπά Ελληνικά: ERT World (2)
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="http://s19.postimg.org/wxlnvky1f/ert_world.png",ERT World (3)
+#EXTINF:0, Λοιπά Ελληνικά: ERT World (3)
 plugin://plugin.video.youtube.com/watch?v=rdlulSBQPp8
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="http://s19.postimg.org/wxlnvky1f/ert_world.png",ERT World WEB
+#EXTINF:0, Λοιπά Ελληνικά: ERT World WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/rdlulSBQPp8.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r1---sn-4g57kn7e.googlevideo.com/playlist_type/DVR/gcr/de/mm/32/mn/sn-4g57kn7e/ms/lv/mv/m/nh/IgpwcjA0LmZyYTE2KgkxMjcuMC4wLjE/pl/16/dover/3/sver/3/fexp/9419452,9422596,9428398,9431012,9433096,9433221,9433946,9435394,9435526,9436275,9436835,9437553,9437982,9438327,9438662,9438805,9439580,9439603,9440832,9441382,9442252,9442424,9442466,9443003,9443402,9443479/upn/H0Cx31tbMLs/mt/1470741796/ip/84.63.12.39/ipbits/0/expire/1470763473/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/4AC1770664C78FFAA1B2D6A06C8ABD28CEF36469.95B768B9A176EE71FE4C62051B530582D7EEB6E3/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="https://s19.postimg.org/cja8v0h03/Euronews.png",Euronews
+#EXTINF:0, Λοιπά Ελληνικά: Euronews
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="https://s19.postimg.org/cja8v0h03/Euronews.png",Euronews (2)
+#EXTINF:0, Λοιπά Ελληνικά: Euronews (2)
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="",Euronews GR
-http://136.243.89.70/r_euronews_gr
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="",Mega Cosmos
-http://136.243.89.70/r_maga_cosmos_gr
-#EXTINF:0, group-title="Λοιπά Ελληνικά" tvg-logo="",Nickelodeon GR
-http://136.243.89.70/r_nickelodeon_gr
 
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",114News 
+#EXTINF:0,Διαδικτυακά: 114News 
 http://x114newsx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/6e4ycgkr7/image.png",4E 
+#EXTINF:0,Περιφερειακά: 4E 
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/6e4ycgkr7/image.png",4E (2)
+#EXTINF:0,Περιφερειακά: 4E (2)
 rtmp://82.192.84.30:1935/live/myStream.sdp
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/6e4ycgkr7/image.png",4E (3)
+#EXTINF:0,Περιφερειακά: 4E (3)
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Achaia News - Best TV
+#EXTINF:0,Περιφερειακά:", Achaia News - Best TV
 http://78.129.184.15:23319/streaming/stream/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/5ylgo76hf/action_24.png",Action 24
+#EXTINF:0,Περιφερειακά: Action 24
 http://stream-13.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/5ylgo76hf/action_24.png",Action 24 (2)
+#EXTINF:0,Περιφερειακά: Action 24 (2)
 https://stream-07.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",ALFA OMEGA EVIA WEB TV
+#EXTINF:0,Διαδικτυακά: ALFA OMEGA EVIA WEB TV
 http://xalfaomegaeviawebtvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/h9rqu2gb7/aigaio.png",AIGAIO TV
+#EXTINF:0,Περιφερειακά: AIGAIO TV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/h9rqu2gb7/aigaio.png",AIGAIO TV (2)
+#EXTINF:0,Περιφερειακά: AIGAIO TV (2)
 rtmp://cp86438.live.edgefcs.net/live/livestream_11@17528
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Akrites Web TV
+#EXTINF:0,Διαδικτυακά: Akrites Web TV
 http://xakritesx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Alert TV
+#EXTINF:0,Περιφερειακά:", Alert TV
 plugin://plugin.video.youtube.com/watch?v=4TxS3Je89Iw
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Alert TV WEB
+#EXTINF:0,Περιφερειακά:", Alert TV WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/4TxS3Je89Iw.68/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D134/hls_chunk_host/r9---sn-4g57knzd.googlevideo.com/gcr/de/playlist_type/LIVE/mm/32/mn/sn-4g57knzd/ms/lv/mv/m/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/sver/3/fexp/9406128,9419452,9422342,9422596,9427543,9428398,9431012,9431838,9433096,9433221,9433946,9435526,9435666,9437552,9438327,9438662,9438805,9439540,9439580,9439824,9439854,9439880,9440369,9441141,9442424,9443685,9444082/upn/DbbNq-y78oo/mt/1470743299/ip/84.63.12.39/ipbits/0/expire/1470764953/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/34DE951427A59F350A660AF523D9D6F354F03DC3.4C6E830766D9F05190C194A2497BA04EFAE9018A/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Αλήθεια TV Χίος
+#EXTINF:0,Περιφερειακά:", Αλήθεια TV Χίος
 plugin://plugin.video.youtube.com/watch?v=QtMd52I3Sgk
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Αλήθεια TV Χίος WEB
+#EXTINF:0,Περιφερειακά:", Αλήθεια TV Χίος WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/QtMd52I3Sgk.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D135/hls_chunk_host/r4---sn-i5h7ln7s.googlevideo.com/playlist_type/LIVE/gcr/de/mm/32/mn/sn-i5h7ln7s/ms/lv/mv/m/nh/IgpwcjAxLmhhbTA0KgkxMjcuMC4wLjE/pl/14/dover/3/sver/3/fexp/9416891,9418405,9419452,9422596,9428398,9429984,9431012,9432565,9433096,9433221,9433946,9435526,9435876,9436607,9437066,9437553,9438662,9439327,9439581,9439652,9439819,9439891,9440333,9440431,9440644,9440879,9440880,9441043,9441159,9441560,9442424,9442502/upn/lKsbSwFsYUs/mt/1469386640/ip/178.6.170.220/ipbits/0/expire/1469408302/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/3C3A3D713B3ECF2E6DAE25769402FBA8B28CE6B1.6AC66DBAFDF957CF1EB246A644BCC92FA907B099/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",ART Music Web
+#EXTINF:0,Διαδικτυακά: ART Music Web
 http://xrakteox.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/swgg8xt03/astra_tv.png",ASTRA TV
+#EXTINF:0,Περιφερειακά: ASTRA TV
 http://www.astratv.gr:8090/hls/livestream.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/swgg8xt03/astra_tv.png",ASTRA TV (2)
+#EXTINF:0,Περιφερειακά: ASTRA TV (2)
 rtmp://www.astratv.gr:1935/astratv/livestream
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",ART TV ARTAS
+#EXTINF:0,Διαδικτυακά: ART TV ARTAS
 http://iphone-streaming.ustream.tv/uhls/6894275/streams/live/iphon/playlist.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Athens Deejay Web 
+#EXTINF:0,Διαδικτυακά: Athens Deejay Web 
 rtmp://91.132.6.23:1935/tv/radiodj
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Attica TV
+#EXTINF:0,Περιφερειακά:", Attica TV
 mms://wifi.dyndns.tv:8080/
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/4tzme2ccz/Axelwos.png",AXELWOS TV
+#EXTINF:0,Περιφερειακά: AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Bala
+#EXTINF:0,Διαδικτυακά: Bala
 http://xbalax.api.channel.livestream.com/3.0/playlist.m3u8 
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/mrtj9cqab/bergina.png",BERGINA
+#EXTINF:0,Περιφερειακά: BERGINA
 http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/n0miljdoz/best.png",BEST TV
+#EXTINF:0,Περιφερειακά: BEST TV
 http://138.201.57.212:1935/best/myStream/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/n0miljdoz/best.png",BEST TV (2)
+#EXTINF:0,Περιφερειακά: BEST TV (2)
 http://138.201.57.212:1935/best/myStream/chunklist_w1280788993.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/n0miljdoz/best.png",BEST TV (3)
+#EXTINF:0,Περιφερειακά: BEST TV (3)
 http://138.201.57.212:1935/best/myStream/chunklist_w288225557.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/gplwiv1ub/bhma.png",BHMA TV
+#EXTINF:0,Περιφερειακά: BHMA TV
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/40rlz6vpv/blue_sky.png",BLUE SKY
+#EXTINF:0,Περιφερειακά: BLUE SKY
 http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/40rlz6vpv/blue_sky.png",BLUE SKY (2)
+#EXTINF:0,Περιφερειακά: BLUE SKY (2)
 rtsp://136.243.200.188:1935/tvlive/tvlive
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",CANNALI
+#EXTINF:0,Διαδικτυακά: CANNALI
 rtmp://live.streams.ovh/cannali/cannali/
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/xpimavggj/Channel9.png",Channel 9
+#EXTINF:0,Περιφερειακά:  Channel 9
 http://xchannel9grx.api.channel.livestream.com/3.0/playlist.m3u8 
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/xpimavggj/Channel9.png",Channel 9 (2)
+#EXTINF:0,Περιφερειακά: Channel 9 (2)
 rtsp://mobilestr3.livestream.com/livestreamiphone/channel9gr
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/oih5okx77/corfu.png",Corfu Channel
+#EXTINF:0,Περιφερειακά: Corfu Channel
 http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/oih5okx77/corfu.png",Corfu Channel (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/oih5okx77/corfu.png",Corfu Channel (2)
 http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphon/playlist.m3u8
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/ny0o0lo9b/cosmos_fm.png",Cosmos FM
 http://iphone-streaming.ustream.tv/uhls/10039219/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/7cpwshngz/creta_tv.png",Creta TV
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/7cpwshngz/creta_tv.png",Creta TV
 rtmp://94.23.218.186:1935/cretatv/cretatv
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/ol11bf0ur/delta_tv.png",Delta TV
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/ol11bf0ur/delta_tv.png",Delta TV
 mms://deltatv1.dyndns.org:1194
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Διαβατά TV
+#EXTINF:0,Διαδικτυακά:Διαβατά TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/t873d6o7n/diktyo.png",Diktyo TV
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/t873d6o7n/diktyo.png",Diktyo TV
 http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/j0n3fhma7/diras.png",Diras TV
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/j0n3fhma7/diras.png",Diras TV
 http://www.cityofkos.gr:1935/diras/livetv/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/j0n3fhma7/diras.png",Diras TV (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/j0n3fhma7/diras.png",Diras TV (2)
 http://www.cityofkos.gr:1935/live/livetv/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",DR TV
+#EXTINF:0,Περιφερειακά:",DR TV
 plugin://plugin.video.youtube.com/watch?v=txPl0fKQqrc
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/45zymlser/ellinikos_fm.png",Ellinikos FM
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
@@ -280,69 +232,69 @@ http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 rtmp://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos
 #EXTINF:0, group-title="Cinema" tvg-logo="",Ellinikes Tainies FF
 http://xelinikestainiesx.api.channel.livestream.com/3.0/playlist.m3u8 
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/7s5rz8ys3/ena_channel.png",ENA CHANNEL
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/7s5rz8ys3/ena_channel.png",ENA CHANNEL
 http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Ένα Λαμίας
+#EXTINF:0,Περιφερειακά:",Ένα Λαμίας
 rtmp://204.77.214.14/mogulus-stream-edge/lamiaenatv/rtmp://212-169.livestream.com/affiliateStream/lamiaenatv/6c69766572657065617465723a72746d703a2f2f3231322d3136392e6c69766573747265616d2e636f6d2f6d6f67756c75732f6c616d6961656e6174762f6c69766573747265616d
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/gd3p45yc3/epirus.png",EPIRUS TV1
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/gd3p45yc3/epirus.png",EPIRUS TV1
 http://xepirustv1livex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/gd3p45yc3/epirus.png",EPIRUS TV1 (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/gd3p45yc3/epirus.png",EPIRUS TV1 (2)
 http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/gd3p45yc3/epirus.png",EPIRUS TV1 (3)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/gd3p45yc3/epirus.png",EPIRUS TV1 (3)
 http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Ergazomenoi Alter
+#EXTINF:0,Διαδικτυακά:Ergazomenoi Alter
 http://xergazomenoialterlivex.api.channel.livestream.com/3.0/playlist.m3u8 
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",EUROPE ONE
+#EXTINF:0,Περιφερειακά:",EUROPE ONE
 http://iphone-streaming.ustream.tv/uhls/12548227/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/pxeqhjrbn/extra.png",EXTRA CHANNEL
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/pxeqhjrbn/extra.png",EXTRA CHANNEL
 http://213.16.167.186:1935/live/mpegts_256.stream/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/pxeqhjrbn/extra.png",EXTRA CHANNEL (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/pxeqhjrbn/extra.png",EXTRA CHANNEL (2)
 rtmp://213.16.167.186/live/mpegts_256.stream
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/pxeqhjrbn/extra.png",EXTRA CHANNEL (3)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/pxeqhjrbn/extra.png",EXTRA CHANNEL (3)
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",FILOPOLI TV
+#EXTINF:0,Διαδικτυακά:FILOPOLI TV
 http://live.streams.pvh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Flash Kozani TV 
+#EXTINF:0,Περιφερειακά:",Flash Kozani TV 
 plugin://plugin.video.youtube.com/watch?v=Fcomx2jV1Cw
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Flash Kozani TV WEB
+#EXTINF:0,Περιφερειακά:",Flash Kozani TV WEB
 https://manifest.googlevideo.com/api/manifest/hls_variant/playlist_type/DVR/ipbits/0/expire/1468459971/sparams/gcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/gcr/de/upn/4MeLaE9pnZU/go/1/id/Fcomx2jV1Cw.29/source/yt_live_broadcast/keepalive/yes/requiressl/yes/fexp/9416126%2C9416891%2C9419451%2C9422596%2C9428398%2C9431012%2C9432055%2C9433096%2C9433221%2C9433946%2C9435526%2C9435876%2C9435885%2C9436099%2C9436808%2C9437066%2C9437553%2C9439253%2C9439652%2C9439742%2C9440023%2C9440305/hfr/1/maudio/1/itag/0/signature/484C89AD7BD791ED2D4F4A35CB91ECBDB24D3C0E.A83C81CC4D062EB133C5200E04BEE4CB1FDE3AD7/sver/3/ratebypass/yes/key/yt6/ip/178.6.110.114/file/index.m3u8
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/kfm4tqw43/hellas_tv.png",HELLAS TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",HELLENIC TV
+#EXTINF:0,Διαδικτυακά:HELLENIC TV
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Ionian TV
+#EXTINF:0,Περιφερειακά:",Ionian TV
 http://stream-11.vty.dailymotion.com/43/dm/1/x4hnjh6/live.isml/events(live-1470501946)/live-audio=128000-video=2000000.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",Ionian TV (2)
+#EXTINF:0,Περιφερειακά:",Ionian TV (2)
 http://stream-11.vty.dailymotion.com/02/dm/1/x4hnjh6/live.isml/live.m3u8?e=1469449112&st=CuyTKGD4BPxZW7tfgMg_MQ
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Ίριδα TV
+#EXTINF:0,Διαδικτυακά:Ίριδα TV
 mms://212.251.44.111:27030
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/5xoxlr4sz/itv.png.png",Ιωάννινα TV
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/5xoxlr4sz/itv.png.png",Ιωάννινα TV
 http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/59g32t637/JAYZEE.png",JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/48fudop3n/kanali_6.png",Κανάλι 6
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/48fudop3n/kanali_6.png",Κανάλι 6
 http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Kissamos TV
+#EXTINF:0,Διαδικτυακά:Kissamos TV
 http://176.9.25.17:1935/kissamostv/kissamostv/playlist.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Kissamos TV (2)
+#EXTINF:0,Διαδικτυακά:Kissamos TV (2)
 rtmp://176.9.25.17:1935/kissamostv/kissamostv
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/49udkugb7/kontra.png",Kontra
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/49udkugb7/kontra.png",Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/49udkugb7/kontra.png",Kontra (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/49udkugb7/kontra.png",Kontra (2)
 rtmp://flashcloud.mediacdn.com:1935/live/kontratv
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/49udkugb7/kontra.png",Kontra (3)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/49udkugb7/kontra.png",Kontra (3)
 rtmp://flashcloud.mediacdn.com/live/kontratv
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV   
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV   
 http://live.cretetv.gr:1935/cretetv/myStream/hasbahca.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (2)
 rtmp://live.cretetv.gr/cretetv/myStream
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (3)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (3)
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (4)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (4)
 http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w22583178.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (5)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (5)
 rtsp://live.cretetv.gr:1935/cretetv/mp4:myStream
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Κοντιλιές
+#EXTINF:0,Διαδικτυακά:Κοντιλιές
 http://events.yourmedia.gr:80/kontiliestv2/kontilies_live2/playlist.m3u8
 #EXTINF:0, group-title="Cinema" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",Λάμψη TV
 http://176.9.25.17:1935/LampsiTV/LampsiTV/playlist.m3u8
@@ -350,11 +302,11 @@ http://176.9.25.17:1935/LampsiTV/LampsiTV/playlist.m3u8
 http://94.23.218.186/system/misc/jwplayer6/jwplayer.flash.swf
 #EXTINF:0, group-title="Cinema" tvg-logo="https://s19.postimg.org/ls8f9dixf/lampsi.png",Λάμψη TV (3)
 http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/dh97akn83/lepanto.png",Lepanto
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/dh97akn83/lepanto.png",Lepanto
 http://stream-03.vty.dailymotion.com/45/dm/1/x4eyjfv/live.isml/events(live-1469526420)/live-audio=128000-video=700000.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/dh97akn83/lepanto.png",Lepanto (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/dh97akn83/lepanto.png",Lepanto (2)
 https://stream-07.vty.dailymotion.com/47/dm/1/x4eyjfv/live.isml/events(live-1470390182)/live-audio=128000-video=700000.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/x7fif51cj/lychnos.png",Λύχνος
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/x7fif51cj/lychnos.png",Λύχνος
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:0, group-title="Cinema" tvg-logo="https://s19.postimg.org/69zu201sj/mpachalo.png",Μπάχαλο TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
@@ -370,74 +322,74 @@ http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3
 rtmp://176.9.123.140:1935/messinia/messinia
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/wfr34ji8j/messinia.png",Μεσσηνία TV (2)
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",MONTREAL TV
+#EXTINF:0,Διαδικτυακά:MONTREAL TV
 http://iphone-streaming.ustream.tv/uhls/22590560/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Cinema" tvg-logo="https://s19.postimg.org/bzg2mb7yr/natura.png",Natura TV HD
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/pf7opi5ub/Nea_tv.png",Νέα TV
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/pf7opi5ub/Nea_tv.png",Νέα TV
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/4gluz45n7/netv_toronto.png",NETV Toronto
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/4gluz45n7/netv_toronto.png",NETV Toronto
 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",NEW CHANNEL WEB
+#EXTINF:0,Διαδικτυακά:NEW CHANNEL WEB
 https://r20---sn-4g57knzl.googlevideo.com/videoplayback?initcwndbps=981250&mt=1470399906&dur=8570.415&sver=3&source=youtube&lmt=1458023497729642&ei=d4ikV4G-A8uLWtKOsegO&id=o-AHuBimUJC04Kckd9cTsgugdfUrnxdF0CBpcG0wKhImNM&ms=au&gcr=de&mv=m&mm=31&signature=4D2D0F53728EC0BF48138DDD1E113408BC1EA516.E03EC93B1B842C22EC546283D8C16D586C3CA3B5&mn=sn-4g57knzl&sparams=cnr%2Cdur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&key=yt6&ip=84.63.12.39&upn=VWFsxXKoctg&itag=22&fexp=9406001%2C9419451%2C9422596%2C9427833%2C9428398%2C9431012%2C9433096%2C9433223%2C9433946%2C9435526%2C9437066%2C9437552%2C9438327%2C9438662%2C9438805%2C9439535%2C9439580%2C9439745%2C9439822%2C9441604%2C9442424%2C9442501%2C9442733%2C9443243%2C9443344&expire=1470422231&pl=16&mime=video%2Fmp4&cnr=14&ratebypass=yes&ipbits=0&requiressl=yes&nh=IgpwcjA0LmZyYTE2KgkxMjcuMC4wLjE
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",NEW TV
+#EXTINF:0,Διαδικτυακά:NEW TV
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",NIKAIA CHURCH
+#EXTINF:0,Διαδικτυακά:NIKAIA CHURCH
 http://vod-03.viewer.dacast.com/i/unsecure/10736/10736_,164491.mp4,.csmil/master.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/897avf5w3/omega.png",Omega Television
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/897avf5w3/omega.png",Omega Television
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/897avf5w3/omega.png",Omega Television (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/897avf5w3/omega.png",Omega Television (2)
 rtmp://stream2.omegatv.net/livepkgr/omegatv
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",ORT
+#EXTINF:0,Περιφερειακά:",ORT
 http://www.patrisnews.com/ort-live
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",+Plus
+#EXTINF:0,Διαδικτυακά:+Plus
 http://xplustvgrx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",PONTOS TV - Dion TV
+#EXTINF:0,Διαδικτυακά:PONTOS TV - Dion TV
 http://xdiontvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/jup3mcdcj/r_channel.png",R Channel
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/jup3mcdcj/r_channel.png",R Channel
 http://edge.vidblee.com/live1013/live1013/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/jup3mcdcj/r_channel.png",R Channel (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/jup3mcdcj/r_channel.png",R Channel (2)
 rtmp://w11.streamgb.com:1935/8046/8046
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",RAMONA TV
+#EXTINF:0,Διαδικτυακά:RAMONA TV
 http://176.9.123.140:1935/savate/mp4:stream/master.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",RYTHMOS 94.3 WEB TV
+#EXTINF:0,Διαδικτυακά:RYTHMOS 94.3 WEB TV
 rtmp://rythmoscam.dyndns.org:1935/live/myStream
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/s7ush0ck3/samiaki.png",Samiaki TV
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/s7ush0ck3/samiaki.png",Samiaki TV
 http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/s7ush0ck3/samiaki.png",Samiaki TV (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/s7ush0ck3/samiaki.png",Samiaki TV (2)
 rtmp://94.23.218.186/samiaki/samiaki
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Sat-Lux TV
+#EXTINF:0,Διαδικτυακά:Sat-Lux TV
 http://xsatluxtvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/nah7vwakz/sbc.png",SBC
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/nah7vwakz/sbc.png",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Διαδικτυακά" tvg-logo="",Soccer Box
+#EXTINF:0,Διαδικτυακά:Soccer Box
 http://xlivesbxx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/hst7lu4r7/star_k_e.png",Star Κεντρικής Ελλάδος
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/hst7lu4r7/star_k_e.png",Star Κεντρικής Ελλάδος
 http://stream-02.vty.dailymotion.com/38/dm/1/xqjey2/live.isml/events(live-1470236143)/live-audio=128000-video=700000.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/hst7lu4r7/star_k_e.png",Star Κεντρικής Ελλάδος (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/hst7lu4r7/star_k_e.png",Star Κεντρικής Ελλάδος (2)
 https://stream-11.vty.dailymotion.com/38/dm/1/xqjey2/live.isml/events(live-1470236143)/live-audio=128000-video=2000000.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/c5wuod28j/star_dramas.png",Star Δράμας
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/c5wuod28j/star_dramas.png",Star Δράμας
 mmsh://radiofeeds1.mediabox.gr/startv
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/mu0ln7c7n/start.png",Start TV
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/mu0ln7c7n/start.png",Start TV
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/7t7hxf89f/super_b.png",Super B
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/7t7hxf89f/super_b.png",Super B
 http://iphone-streaming.ustream.tv/uhls/13351318/streams/live/iphon/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/7t7hxf89f/super_b.png",Super B (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/7t7hxf89f/super_b.png",Super B (2)
 http://36b161bb-lp-beta.ums.ustream.tv/playlist/channel/13351318/playlist.m3u8?token=387550725_1469856572571&appType=11&appVersion=2&ts=1469856572&cdn=uhs_akamai&geo=DE&sgn=7efda8fe785af3cb9cbd846ee3f9be0a9229f71f
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",SUPER TV
+#EXTINF:0,Περιφερειακά:",SUPER TV
 http://iphone-streaming.ustream.tv/uhls/11946358/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/afn0eczgz/thema.png",Θέμα TV
 http://5.196.92.57/webtv/medium.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/xv4xjpj83/thraki.png",Θράκη NET 
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/xv4xjpj83/thraki.png",Θράκη NET 
 rtmp://hls.onestreaming.com:1935/live/thrakinettv
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/xv4xjpj83/thraki.png",Θράκη NET (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/xv4xjpj83/thraki.png",Θράκη NET (2)
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",TINOS TV
+#EXTINF:0,Περιφερειακά:",TINOS TV
 https://stream-06.vty.dailymotion.com/48/dm/1/x49eqwt/live_src.isml/events(live_src-1470806666)/live_src-audio=95232-video=649216.m3u8
 https://stream-05.vty.dailymotion.com/48/dm/1/x49eqwt/live.isml/events(live-1470806666)/live-audio=128000-video=1200000.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",TINOS TV (2)
+#EXTINF:0,Περιφερειακά:",TINOS TV (2)
 http://iphone-streaming.ustream.tv/uhls/20905250/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/ucsxnbic3/tilemousiki.png",Τηλεμουσική
 http://wpso.com:200/music
@@ -445,37 +397,37 @@ http://wpso.com:200/music
 http://iphone-streaming.ustream.tv/uhls/18655753/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/ucsxnbic3/tilemousiki.png",Τηλεμουσική (3)
 mmsh://wpso.com:200/music
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/4jt2qyk5v/top.png",Top Channel
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/4jt2qyk5v/top.png",Top Channel
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/72errn5w3/trt.png",Trt TV
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/72errn5w3/trt.png",Trt TV
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/61j4g9eab/syros_tv1.png",Syros TV 1
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/61j4g9eab/syros_tv1.png",Syros TV 1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/cgi5cxl03/tv_100.png",TV-100 
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/cgi5cxl03/tv_100.png",TV-100 
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/cgi5cxl03/tv_100.png",TV-100 (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/cgi5cxl03/tv_100.png",TV-100 (2)
 http://178.62.176.153:1935/TV100/myStream/media_w952118404_4859.ts?time=1467519772362 
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/m7ei6nx1v/tv_creta.png",TV CRETA
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/m7ei6nx1v/tv_creta.png",TV CRETA
 rtmp://srv.viiideo.gr:1935/tvcreta/live
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/m7ei6nx1v/tv_creta.png",TV CRETA (2)
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/m7ei6nx1v/tv_creta.png",TV CRETA (2)
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",TV Δράμα WEB
+#EXTINF:0,Περιφερειακά:",TV Δράμα WEB
 plugin://plugin.video.youtube.com/watch?v=rOBW6DJwlv0
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/qo7u1kxoz/tv_epiloges.png",TV Επιλογές
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/qo7u1kxoz/tv_epiloges.png",TV Επιλογές
 http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Cinema" tvg-logo="https://s19.postimg.org/cj20zronn/tv_gold.png",TV Gold
 mms://tvgold.webcast.mediacdn.com/tvgold
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",TV Kosmos
+#EXTINF:0,Περιφερειακά:",TV Kosmos
 rtmp://edge.vidblee.com/tvkosmos/tvkosmos.mp4
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/pbq4zp09f/tv_mytilini.png",TV Μυτιλήνη
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/pbq4zp09f/tv_mytilini.png",TV Μυτιλήνη
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",TV12 Τηλεόραση Δωδεκανήσου
+#EXTINF:0,Περιφερειακά:",TV12 Τηλεόραση Δωδεκανήσου
 http://xtv12dodekanisoux.api.channel.livestream.com/3.0/playlist.m3u8 
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",TVS
+#EXTINF:0,Περιφερειακά:",TVS
 http://iphone-streaming.ustream.tv/uhls/16623631/streams/live/iphone/playlist.m3u8 / http://www.serrestv.gr/tv/index.php
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="",VOLCANO
+#EXTINF:0,Περιφερειακά:",VOLCANO
 rtmp://176.9.123.140:1935/santorini/santorini
-#EXTINF:0, group-title="Περιφερειακά" tvg-logo="https://s19.postimg.org/bw34a8rrn/West_Channel.png",West Channel
+#EXTINF:0,Περιφερειακά:https://s19.postimg.org/bw34a8rrn/West_Channel.png",West Channel
 http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
 #EXTINF:0, group-title="Διαδικτυακά" tvg-logo="https://s19.postimg.org/9g1awe9oz/WZRA.png",WZRA 
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
@@ -1187,8 +1139,6 @@ http://www.arenafm.gr:45054/;stream.mp3
 http://radio.ertopen.com/erasport
 
 #EXTINF:0, group-title="video" tvg-logo="",playlist
-https://www.youtube.com/watch?v=NwL98zzdEXo&index&feature=PlayList&p=PLPdAAwYcAwHeUcBQPoooOukJfsaJfTm-N&playnext_from=PL&index=0&playnext=1
+plugin://plugin.video.youtube.com/watch?v=NwL98zzdEXo&index&feature=PlayList&p=PLPdAAwYcAwHeUcBQPoooOukJfsaJfTm-N&playnext_from=PL&index=0&playnext=1
 #EXTINF:0, group-title="video" tvg-logo="",ταινίες
-https://www.youtube.com/watch?v=LZJAG1k4Rns&feature=PlayList&p=PLPdAAwYcAwHc8d2cP7-nRcq_9KwsZbVwa&playnext_from=PL&index=0&playnext=1
-
-plugin://plugin.video.youtube
+plugin://plugin.video.youtube.com/watch?v=LZJAG1k4Rns&feature=PlayList&p=PLPdAAwYcAwHc8d2cP7-nRcq_9KwsZbVwa&playnext_from=PL&index=0&playnext=1
