@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Πανελλαδικά:  ERT1 
+#EXTINF:0,Πανελλαδικά: ERT1 
 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live.m3u8
 #EXTINF:0,Πανελλαδικά: ERT1 (2)
 plugin://plugin.video.youtube.com/watch?v=wyBm8cFiUp0
@@ -35,7 +35,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/id/2Y8qsS_xH2Y.2/itag
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0,Πανελλαδικά: ANT1 (2)
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
-#EXTINF:0,Πανελλαδικά:http://s19.postimg.org/8c4c56fdf/ant1.png",ANT1 (3)
+#EXTINF:0,Πανελλαδικά: ANT1 (3)
 http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ALPHA 
 http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
@@ -84,7 +84,7 @@ mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0,Πανελλαδικά: VOULI (4)
 rtmp://streamer0.grnet.gr/parliament/parltv.sdp
 
-#EXTINF:0,Κυπριακά:  Alpha CYPRUS
+#EXTINF:0,Κυπριακά: Alpha CYPRUS
 plugin://plugin.video.youtube.com/watch?v=0khKa0_RnXk
 #EXTINF:0,Κυπριακά: Alpha CYPRUS WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/0khKa0_RnXk.46/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r4---sn-4g5e6n7d.googlevideo.com/playlist_type/LIVE/gcr/de/mm/32/mn/sn-4g5e6n7d/ms/lv/mv/u/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/sver/3/upn/6RY52Zhg0Io/fexp/9412913,9415951,9419452,9422596,9428398,9431012,9433096,9433223,9433946,9435526,9436101,9437552,9438051,9438140,9438327,9438525,9438662,9438805,9438973,9439580,9440143,9440546,9441121,9441535,9441650,9441850,9441945,9442255,9442424,9442734,9443068,9443350,9443604,9444028/mt/1470742723/ip/84.63.12.39/ipbits/0/expire/1470764619/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/17A3442CE9F10CE420845B7E98022145943F5494.67E592A4172427A2946CE1B151134B603BF2B188/key/dg_yt0/playlist/index.m3u8
@@ -146,7 +146,7 @@ http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 rtmp://82.192.84.30:1935/live/myStream.sdp
 #EXTINF:0,Περιφερειακά: 4E (3)
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:0,Περιφερειακά:", Achaia News - Best TV
+#EXTINF:0,Περιφερειακά: Achaia News - Best TV
 http://78.129.184.15:23319/streaming/stream/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Action 24
 http://stream-13.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
@@ -160,13 +160,13 @@ http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 rtmp://cp86438.live.edgefcs.net/live/livestream_11@17528
 #EXTINF:0,Διαδικτυακά: Akrites Web TV
 http://xakritesx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,Περιφερειακά:", Alert TV
+#EXTINF:0,Περιφερειακά: Alert TV
 plugin://plugin.video.youtube.com/watch?v=4TxS3Je89Iw
-#EXTINF:0,Περιφερειακά:", Alert TV WEB
+#EXTINF:0,Περιφερειακά: Alert TV WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/4TxS3Je89Iw.68/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D134/hls_chunk_host/r9---sn-4g57knzd.googlevideo.com/gcr/de/playlist_type/LIVE/mm/32/mn/sn-4g57knzd/ms/lv/mv/m/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/sver/3/fexp/9406128,9419452,9422342,9422596,9427543,9428398,9431012,9431838,9433096,9433221,9433946,9435526,9435666,9437552,9438327,9438662,9438805,9439540,9439580,9439824,9439854,9439880,9440369,9441141,9442424,9443685,9444082/upn/DbbNq-y78oo/mt/1470743299/ip/84.63.12.39/ipbits/0/expire/1470764953/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/34DE951427A59F350A660AF523D9D6F354F03DC3.4C6E830766D9F05190C194A2497BA04EFAE9018A/key/dg_yt0/playlist/index.m3u8
-#EXTINF:0,Περιφερειακά:", Αλήθεια TV Χίος
+#EXTINF:0,Περιφερειακά: Αλήθεια TV Χίος
 plugin://plugin.video.youtube.com/watch?v=QtMd52I3Sgk
-#EXTINF:0,Περιφερειακά:", Αλήθεια TV Χίος WEB
+#EXTINF:0,Περιφερειακά: Αλήθεια TV Χίος WEB
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/QtMd52I3Sgk.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D135/hls_chunk_host/r4---sn-i5h7ln7s.googlevideo.com/playlist_type/LIVE/gcr/de/mm/32/mn/sn-i5h7ln7s/ms/lv/mv/m/nh/IgpwcjAxLmhhbTA0KgkxMjcuMC4wLjE/pl/14/dover/3/sver/3/fexp/9416891,9418405,9419452,9422596,9428398,9429984,9431012,9432565,9433096,9433221,9433946,9435526,9435876,9436607,9437066,9437553,9438662,9439327,9439581,9439652,9439819,9439891,9440333,9440431,9440644,9440879,9440880,9441043,9441159,9441560,9442424,9442502/upn/lKsbSwFsYUs/mt/1469386640/ip/178.6.170.220/ipbits/0/expire/1469408302/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/3C3A3D713B3ECF2E6DAE25769402FBA8B28CE6B1.6AC66DBAFDF957CF1EB246A644BCC92FA907B099/key/dg_yt0/playlist/index.m3u8
 #EXTINF:0,Διαδικτυακά: ART Music Web
 http://xrakteox.api.channel.livestream.com/3.0/playlist.m3u8
@@ -178,7 +178,7 @@ rtmp://www.astratv.gr:1935/astratv/livestream
 http://iphone-streaming.ustream.tv/uhls/6894275/streams/live/iphon/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: Athens Deejay Web 
 rtmp://91.132.6.23:1935/tv/radiodj
-#EXTINF:0,Περιφερειακά:", Attica TV
+#EXTINF:0,Περιφερειακά: Attica TV
 mms://wifi.dyndns.tv:8080/
 #EXTINF:0,Περιφερειακά: AXELWOS TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
@@ -200,7 +200,7 @@ http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
 rtsp://136.243.200.188:1935/tvlive/tvlive
 #EXTINF:0,Διαδικτυακά: CANNALI
 rtmp://live.streams.ovh/cannali/cannali/
-#EXTINF:0,Περιφερειακά:  Channel 9
+#EXTINF:0,Περιφερειακά: Channel 9
 http://xchannel9grx.api.channel.livestream.com/3.0/playlist.m3u8 
 #EXTINF:0,Περιφερειακά: Channel 9 (2)
 rtsp://mobilestr3.livestream.com/livestreamiphone/channel9gr
@@ -208,11 +208,11 @@ rtsp://mobilestr3.livestream.com/livestreamiphone/channel9gr
 http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Corfu Channel (2)
 http://iphone-streaming.ustream.tv/uhls/5317295/streams/live/iphon/playlist.m3u8
-#EXTINF:0,Διαδικτυακά:  Cosmos FM
+#EXTINF:0,Διαδικτυακά: Cosmos FM
 http://iphone-streaming.ustream.tv/uhls/10039219/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Creta TV
 rtmp://94.23.218.186:1935/cretatv/cretatv
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/ol11bf0ur/delta_tv.png",Delta TV
+#EXTINF:0,Περιφερειακά: Delta TV
 mms://deltatv1.dyndns.org:1194
 #EXTINF:0,Διαδικτυακά: Διαβατά TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
@@ -272,7 +272,7 @@ mms://212.251.44.111:27030
 http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/48fudop3n/kanali_6.png",Κανάλι 6
+#EXTINF:0,Περιφερειακά: Κανάλι 6
 http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: Kissamos TV
 http://176.9.25.17:1935/kissamostv/kissamostv/playlist.m3u8
@@ -296,9 +296,9 @@ http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w22583178.m3u8
 rtsp://live.cretetv.gr:1935/cretetv/mp4:myStream
 #EXTINF:0,Διαδικτυακά: Κοντιλιές
 http://events.yourmedia.gr:80/kontiliestv2/kontilies_live2/playlist.m3u8
-#EXTINF:0,Cinema:  Λάμψη TV
+#EXTINF:0,Cinema: Λάμψη TV
 http://176.9.25.17:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:0,Cinema:  Λάμψη TV (2)
+#EXTINF:0,Cinema: Λάμψη TV (2)
 http://94.23.218.186/system/misc/jwplayer6/jwplayer.flash.swf
 #EXTINF:0,Cinema: Λάμψη TV (3)
 http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
@@ -306,13 +306,13 @@ http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 http://stream-03.vty.dailymotion.com/45/dm/1/x4eyjfv/live.isml/events(live-1469526420)/live-audio=128000-video=700000.m3u8
 #EXTINF:0,Περιφερειακά: Lepanto (2)
 https://stream-07.vty.dailymotion.com/47/dm/1/x4eyjfv/live.isml/events(live-1470390182)/live-audio=128000-video=700000.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/x7fif51cj/lychnos.png",Λύχνος
+#EXTINF:0,Περιφερειακά: Λύχνος
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:0,Cinema: Μπάχαλο TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: Μακελειό TV
 http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/9vreq1n2r/makeleio.png",Μακελειό TV (2)
+#EXTINF:0,Διαδικτυακά: Μακελειό TV (2)
 http://makeliolive-lh.akamaihd.net/i/event_1@167269/index_500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,Διαδικτυακά: Μακελειό TV (3)
 plugin://plugin.video.youtube.com/watch?v=OVecTWv-xXw
@@ -388,7 +388,6 @@ rtmp://hls.onestreaming.com:1935/live/thrakinettv
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
 #EXTINF:0,Περιφερειακά: TINOS TV
 https://stream-06.vty.dailymotion.com/48/dm/1/x49eqwt/live_src.isml/events(live_src-1470806666)/live_src-audio=95232-video=649216.m3u8
-https://stream-05.vty.dailymotion.com/48/dm/1/x49eqwt/live.isml/events(live-1470806666)/live-audio=128000-video=1200000.m3u8
 #EXTINF:0,Περιφερειακά: TINOS TV (2)
 http://iphone-streaming.ustream.tv/uhls/20905250/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: Τηλεμουσική
