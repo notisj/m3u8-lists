@@ -258,220 +258,210 @@ http://live.streams.pvh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 plugin://plugin.video.youtube.com/watch?v=Fcomx2jV1Cw
 #EXTINF:0,Περιφερειακά: Flash Kozani TV WEB
 https://manifest.googlevideo.com/api/manifest/hls_variant/playlist_type/DVR/ipbits/0/expire/1468459971/sparams/gcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/gcr/de/upn/4MeLaE9pnZU/go/1/id/Fcomx2jV1Cw.29/source/yt_live_broadcast/keepalive/yes/requiressl/yes/fexp/9416126%2C9416891%2C9419451%2C9422596%2C9428398%2C9431012%2C9432055%2C9433096%2C9433221%2C9433946%2C9435526%2C9435876%2C9435885%2C9436099%2C9436808%2C9437066%2C9437553%2C9439253%2C9439652%2C9439742%2C9440023%2C9440305/hfr/1/maudio/1/itag/0/signature/484C89AD7BD791ED2D4F4A35CB91ECBDB24D3C0E.A83C81CC4D062EB133C5200E04BEE4CB1FDE3AD7/sver/3/ratebypass/yes/key/yt6/ip/178.6.110.114/file/index.m3u8
-#EXTINF:0,Διαδικτυακά:  HELLAS TV
+#EXTINF:0,Διαδικτυακά: HELLAS TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:0,Διαδικτυακά: HELLENIC TV
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0,Περιφερειακά:",Ionian TV
+#EXTINF:0,Περιφερειακά: Ionian TV
 http://stream-11.vty.dailymotion.com/43/dm/1/x4hnjh6/live.isml/events(live-1470501946)/live-audio=128000-video=2000000.m3u8
-#EXTINF:0,Περιφερειακά:",Ionian TV (2)
+#EXTINF:0,Περιφερειακά: Ionian TV (2)
 http://stream-11.vty.dailymotion.com/02/dm/1/x4hnjh6/live.isml/live.m3u8?e=1469449112&st=CuyTKGD4BPxZW7tfgMg_MQ
-#EXTINF:0,Διαδικτυακά:Ίριδα TV
+#EXTINF:0,Διαδικτυακά: Ίριδα TV
 mms://212.251.44.111:27030
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/5xoxlr4sz/itv.png.png",Ιωάννινα TV
+#EXTINF:0,Περιφερειακά: Ιωάννινα TV
 http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/59g32t637/JAYZEE.png",JAYZEE
+#EXTINF:0,Διαδικτυακά: JAYZEE
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0,Περιφερειακά:https://s19.postimg.org/48fudop3n/kanali_6.png",Κανάλι 6
 http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Διαδικτυακά:Kissamos TV
+#EXTINF:0,Διαδικτυακά: Kissamos TV
 http://176.9.25.17:1935/kissamostv/kissamostv/playlist.m3u8
-#EXTINF:0,Διαδικτυακά:Kissamos TV (2)
+#EXTINF:0,Διαδικτυακά: Kissamos TV (2)
 rtmp://176.9.25.17:1935/kissamostv/kissamostv
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/49udkugb7/kontra.png",Kontra
+#EXTINF:0,Περιφερειακά: Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/49udkugb7/kontra.png",Kontra (2)
+#EXTINF:0,Περιφερειακά: Kontra (2)
 rtmp://flashcloud.mediacdn.com:1935/live/kontratv
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/49udkugb7/kontra.png",Kontra (3)
+#EXTINF:0,Περιφερειακά: Kontra (3)
 rtmp://flashcloud.mediacdn.com/live/kontratv
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV   
+#EXTINF:0,Περιφερειακά: Κρήτη TV   
 http://live.cretetv.gr:1935/cretetv/myStream/hasbahca.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (2)
+#EXTINF:0,Περιφερειακά: Κρήτη TV (2)
 rtmp://live.cretetv.gr/cretetv/myStream
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (3)
+#EXTINF:0,Περιφερειακά: Κρήτη TV (3)
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (4)
+#EXTINF:0,Περιφερειακά: Κρήτη TV (4)
 http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w22583178.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/fbzgjaadv/Krhth_TV.png",Κρήτη TV (5)
+#EXTINF:0,Περιφερειακά: Κρήτη TV (5)
 rtsp://live.cretetv.gr:1935/cretetv/mp4:myStream
-#EXTINF:0,Διαδικτυακά:Κοντιλιές
+#EXTINF:0,Διαδικτυακά: Κοντιλιές
 http://events.yourmedia.gr:80/kontiliestv2/kontilies_live2/playlist.m3u8
-#EXTINF:0,Cinema: https://s19.postimg.org/ls8f9dixf/lampsi.png",Λάμψη TV
+#EXTINF:0,Cinema:  Λάμψη TV
 http://176.9.25.17:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:0,Cinema: https://s19.postimg.org/ls8f9dixf/lampsi.png",Λάμψη TV (2)
+#EXTINF:0,Cinema:  Λάμψη TV (2)
 http://94.23.218.186/system/misc/jwplayer6/jwplayer.flash.swf
-#EXTINF:0,Cinema: https://s19.postimg.org/ls8f9dixf/lampsi.png",Λάμψη TV (3)
+#EXTINF:0,Cinema: Λάμψη TV (3)
 http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/dh97akn83/lepanto.png",Lepanto
+#EXTINF:0,Περιφερειακά: Lepanto
 http://stream-03.vty.dailymotion.com/45/dm/1/x4eyjfv/live.isml/events(live-1469526420)/live-audio=128000-video=700000.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/dh97akn83/lepanto.png",Lepanto (2)
+#EXTINF:0,Περιφερειακά: Lepanto (2)
 https://stream-07.vty.dailymotion.com/47/dm/1/x4eyjfv/live.isml/events(live-1470390182)/live-audio=128000-video=700000.m3u8
 #EXTINF:0,Περιφερειακά:https://s19.postimg.org/x7fif51cj/lychnos.png",Λύχνος
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:0,Cinema: https://s19.postimg.org/69zu201sj/mpachalo.png",Μπάχαλο TV
+#EXTINF:0,Cinema: Μπάχαλο TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/9vreq1n2r/makeleio.png",Μακελειό TV
+#EXTINF:0,Διαδικτυακά: Μακελειό TV
 http://makeliolive-lh.akamaihd.net/i/event_1@167269/master.m3u8
 #EXTINF:0,Διαδικτυακά: https://s19.postimg.org/9vreq1n2r/makeleio.png",Μακελειό TV (2)
 http://makeliolive-lh.akamaihd.net/i/event_1@167269/index_500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/9vreq1n2r/makeleio.png",Μακελειό TV (3)
+#EXTINF:0,Διαδικτυακά: Μακελειό TV (3)
 plugin://plugin.video.youtube.com/watch?v=OVecTWv-xXw
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/hzzius9hv/mana_ellada.png",MANA ELLADA TV
+#EXTINF:0,Διαδικτυακά: MANA ELLADA TV
 http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/wfr34ji8j/messinia.png",Μεσσηνία TV 
+#EXTINF:0,Διαδικτυακά: Μεσσηνία TV 
 rtmp://176.9.123.140:1935/messinia/messinia
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/wfr34ji8j/messinia.png",Μεσσηνία TV (2)
+#EXTINF:0,Διαδικτυακά: Μεσσηνία TV (2)
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:0,Διαδικτυακά:MONTREAL TV
+#EXTINF:0,Διαδικτυακά: MONTREAL TV
 http://iphone-streaming.ustream.tv/uhls/22590560/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Cinema: https://s19.postimg.org/bzg2mb7yr/natura.png",Natura TV HD
+#EXTINF:0,Cinema: Natura TV HD
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/pf7opi5ub/Nea_tv.png",Νέα TV
+#EXTINF:0,Περιφερειακά: Νέα TV
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/4gluz45n7/netv_toronto.png",NETV Toronto
+#EXTINF:0,Διαδικτυακά: NETV Toronto
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/4gluz45n7/netv_toronto.png",NETV Toronto
+#EXTINF:0,Διαδικτυακά: NETV Toronto (2)
 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
-#EXTINF:0,Διαδικτυακά:NEW CHANNEL WEB
+#EXTINF:0,Διαδικτυακά: NEW CHANNEL WEB
 https://r20---sn-4g57knzl.googlevideo.com/videoplayback?initcwndbps=981250&mt=1470399906&dur=8570.415&sver=3&source=youtube&lmt=1458023497729642&ei=d4ikV4G-A8uLWtKOsegO&id=o-AHuBimUJC04Kckd9cTsgugdfUrnxdF0CBpcG0wKhImNM&ms=au&gcr=de&mv=m&mm=31&signature=4D2D0F53728EC0BF48138DDD1E113408BC1EA516.E03EC93B1B842C22EC546283D8C16D586C3CA3B5&mn=sn-4g57knzl&sparams=cnr%2Cdur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&key=yt6&ip=84.63.12.39&upn=VWFsxXKoctg&itag=22&fexp=9406001%2C9419451%2C9422596%2C9427833%2C9428398%2C9431012%2C9433096%2C9433223%2C9433946%2C9435526%2C9437066%2C9437552%2C9438327%2C9438662%2C9438805%2C9439535%2C9439580%2C9439745%2C9439822%2C9441604%2C9442424%2C9442501%2C9442733%2C9443243%2C9443344&expire=1470422231&pl=16&mime=video%2Fmp4&cnr=14&ratebypass=yes&ipbits=0&requiressl=yes&nh=IgpwcjA0LmZyYTE2KgkxMjcuMC4wLjE
-#EXTINF:0,Διαδικτυακά:NEW TV
+#EXTINF:0,Διαδικτυακά: NEW TV
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
-#EXTINF:0,Διαδικτυακά:NIKAIA CHURCH
+#EXTINF:0,Διαδικτυακά: NIKAIA CHURCH
 http://vod-03.viewer.dacast.com/i/unsecure/10736/10736_,164491.mp4,.csmil/master.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/897avf5w3/omega.png",Omega Television
+#EXTINF:0,Περιφερειακά: Omega Television
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/897avf5w3/omega.png",Omega Television (2)
+#EXTINF:0,Περιφερειακά: Omega Television (2)
 rtmp://stream2.omegatv.net/livepkgr/omegatv
-#EXTINF:0,Περιφερειακά:",ORT
+#EXTINF:0,Περιφερειακά: ORT
 http://www.patrisnews.com/ort-live
-#EXTINF:0,Διαδικτυακά:+Plus
+#EXTINF:0,Διαδικτυακά: +Plus
 http://xplustvgrx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,Διαδικτυακά:PONTOS TV - Dion TV
+#EXTINF:0,Διαδικτυακά: PONTOS TV - Dion TV
 http://xdiontvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/jup3mcdcj/r_channel.png",R Channel
+#EXTINF:0,Περιφερειακά: R Channel
 http://edge.vidblee.com/live1013/live1013/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/jup3mcdcj/r_channel.png",R Channel (2)
+#EXTINF:0,Περιφερειακά: R Channel (2)
 rtmp://w11.streamgb.com:1935/8046/8046
-#EXTINF:0,Διαδικτυακά:RAMONA TV
+#EXTINF:0,Διαδικτυακά: RAMONA TV
 http://176.9.123.140:1935/savate/mp4:stream/master.m3u8
-#EXTINF:0,Διαδικτυακά:RYTHMOS 94.3 WEB TV
+#EXTINF:0,Διαδικτυακά: RYTHMOS 94.3 WEB TV
 rtmp://rythmoscam.dyndns.org:1935/live/myStream
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/s7ush0ck3/samiaki.png",Samiaki TV
+#EXTINF:0,Περιφερειακά: Samiaki TV
 http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/s7ush0ck3/samiaki.png",Samiaki TV (2)
+#EXTINF:0,Περιφερειακά: Samiaki TV (2)
 rtmp://94.23.218.186/samiaki/samiaki
-#EXTINF:0,Διαδικτυακά:Sat-Lux TV
+#EXTINF:0,Διαδικτυακά: Sat-Lux TV
 http://xsatluxtvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/nah7vwakz/sbc.png",SBC
+#EXTINF:0,Περιφερειακά: SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,Διαδικτυακά:Soccer Box
+#EXTINF:0,Διαδικτυακά: Soccer Box
 http://xlivesbxx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/hst7lu4r7/star_k_e.png",Star Κεντρικής Ελλάδος
+#EXTINF:0,Περιφερειακά: Star Κεντρικής Ελλάδος
 http://stream-02.vty.dailymotion.com/38/dm/1/xqjey2/live.isml/events(live-1470236143)/live-audio=128000-video=700000.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/hst7lu4r7/star_k_e.png",Star Κεντρικής Ελλάδος (2)
+#EXTINF:0,Περιφερειακά: Star Κεντρικής Ελλάδος (2)
 https://stream-11.vty.dailymotion.com/38/dm/1/xqjey2/live.isml/events(live-1470236143)/live-audio=128000-video=2000000.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/c5wuod28j/star_dramas.png",Star Δράμας
+#EXTINF:0,Περιφερειακά: Star Δράμας
 mmsh://radiofeeds1.mediabox.gr/startv
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/mu0ln7c7n/start.png",Start TV
+#EXTINF:0,Περιφερειακά: Start TV
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/7t7hxf89f/super_b.png",Super B
+#EXTINF:0,Περιφερειακά: Super B
 http://iphone-streaming.ustream.tv/uhls/13351318/streams/live/iphon/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/7t7hxf89f/super_b.png",Super B (2)
+#EXTINF:0,Περιφερειακά: Super B (2)
 http://36b161bb-lp-beta.ums.ustream.tv/playlist/channel/13351318/playlist.m3u8?token=387550725_1469856572571&appType=11&appVersion=2&ts=1469856572&cdn=uhs_akamai&geo=DE&sgn=7efda8fe785af3cb9cbd846ee3f9be0a9229f71f
-#EXTINF:0,Περιφερειακά:",SUPER TV
+#EXTINF:0,Περιφερειακά: SUPER TV
 http://iphone-streaming.ustream.tv/uhls/11946358/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/afn0eczgz/thema.png",Θέμα TV
+#EXTINF:0,Διαδικτυακά: Θέμα TV
 http://5.196.92.57/webtv/medium.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/xv4xjpj83/thraki.png",Θράκη NET 
+#EXTINF:0,Περιφερειακά: Θράκη NET 
 rtmp://hls.onestreaming.com:1935/live/thrakinettv
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/xv4xjpj83/thraki.png",Θράκη NET (2)
+#EXTINF:0,Περιφερειακά: Θράκη NET (2)
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
-#EXTINF:0,Περιφερειακά:",TINOS TV
+#EXTINF:0,Περιφερειακά: TINOS TV
 https://stream-06.vty.dailymotion.com/48/dm/1/x49eqwt/live_src.isml/events(live_src-1470806666)/live_src-audio=95232-video=649216.m3u8
 https://stream-05.vty.dailymotion.com/48/dm/1/x49eqwt/live.isml/events(live-1470806666)/live-audio=128000-video=1200000.m3u8
-#EXTINF:0,Περιφερειακά:",TINOS TV (2)
+#EXTINF:0,Περιφερειακά: TINOS TV (2)
 http://iphone-streaming.ustream.tv/uhls/20905250/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/ucsxnbic3/tilemousiki.png",Τηλεμουσική
+#EXTINF:0,Διαδικτυακά: Τηλεμουσική
 http://wpso.com:200/music
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/ucsxnbic3/tilemousiki.png",Τηλεμουσική (2)
+#EXTINF:0,Διαδικτυακά: Τηλεμουσική (2)
 http://iphone-streaming.ustream.tv/uhls/18655753/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/ucsxnbic3/tilemousiki.png",Τηλεμουσική (3)
+#EXTINF:0,Διαδικτυακά: Τηλεμουσική (3)
 mmsh://wpso.com:200/music
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/4jt2qyk5v/top.png",Top Channel
+#EXTINF:0,Περιφερειακά: Top Channel
 http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/72errn5w3/trt.png",Trt TV
+#EXTINF:0,Περιφερειακά: Trt TV
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/61j4g9eab/syros_tv1.png",Syros TV 1
+#EXTINF:0,Περιφερειακά: Syros TV 1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/cgi5cxl03/tv_100.png",TV-100 
+#EXTINF:0,Διαδικτυακά: Tilesport 
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+#EXTINF:0,Διαδικτυακά: Tilesport (2)
+rtmp://78.47.151.114/tilesport/movie1
+#EXTINF:0,Διαδικτυακά: Tilesport (3)
+rtmp://tv1.streampulse.eu/tilesport/movie1
+#EXTINF:0,Περιφερειακά: TV-100 
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/cgi5cxl03/tv_100.png",TV-100 (2)
+#EXTINF:0,Περιφερειακά: TV-100 (2)
 http://178.62.176.153:1935/TV100/myStream/media_w952118404_4859.ts?time=1467519772362 
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/m7ei6nx1v/tv_creta.png",TV CRETA
+#EXTINF:0,Περιφερειακά: TV CRETA
 rtmp://srv.viiideo.gr:1935/tvcreta/live
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/m7ei6nx1v/tv_creta.png",TV CRETA (2)
+#EXTINF:0,Περιφερειακά: TV CRETA (2)
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
-#EXTINF:0,Περιφερειακά:",TV Δράμα WEB
+#EXTINF:0,Περιφερειακά: TV Δράμα WEB
 plugin://plugin.video.youtube.com/watch?v=rOBW6DJwlv0
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/qo7u1kxoz/tv_epiloges.png",TV Επιλογές
+#EXTINF:0,Περιφερειακά: TV Επιλογές
 http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Cinema: https://s19.postimg.org/cj20zronn/tv_gold.png",TV Gold
+#EXTINF:0,Cinema:  TV Gold
 mms://tvgold.webcast.mediacdn.com/tvgold
-#EXTINF:0,Περιφερειακά:",TV Kosmos
+#EXTINF:0,Περιφερειακά: TV Kosmos
 rtmp://edge.vidblee.com/tvkosmos/tvkosmos.mp4
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/pbq4zp09f/tv_mytilini.png",TV Μυτιλήνη
+#EXTINF:0,Περιφερειακά: TV Μυτιλήνη
 rtmp://cp77174.live.edgefcs.net/live/123456@19937
-#EXTINF:0,Περιφερειακά:",TV12 Τηλεόραση Δωδεκανήσου
+#EXTINF:0,Περιφερειακά: TV12 Τηλεόραση Δωδεκανήσου
 http://xtv12dodekanisoux.api.channel.livestream.com/3.0/playlist.m3u8 
-#EXTINF:0,Περιφερειακά:",TVS
+#EXTINF:0,Περιφερειακά: TVS
 http://iphone-streaming.ustream.tv/uhls/16623631/streams/live/iphone/playlist.m3u8 / http://www.serrestv.gr/tv/index.php
-#EXTINF:0,Περιφερειακά:",VOLCANO
+#EXTINF:0,Περιφερειακά: VOLCANO
 rtmp://176.9.123.140:1935/santorini/santorini
-#EXTINF:0,Περιφερειακά:https://s19.postimg.org/bw34a8rrn/West_Channel.png",West Channel
+#EXTINF:0,Περιφερειακά: West Channel
 http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/9g1awe9oz/WZRA.png",WZRA 
+#EXTINF:0,Διαδικτυακά: WZRA 
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/9g1awe9oz/WZRA.png",WZRA (2) 
+#EXTINF:0,Διαδικτυακά: WZRA (2) 
 http://stream.ssh101.com:1935/live/greekvoice/chunklist.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/9g1awe9oz/WZRA.png",WZRA (3)
+#EXTINF:0,Διαδικτυακά: WZRA (3)
 http://sjc-uhls-proxy110.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=1989576&stream=3&connectionId=oldurl-0c202de9af73f522dd2da82795d2194b186d3c33&group=iphone
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/kgwg1f1xv/WZRA_Kids.png",WZRA Kids
+#EXTINF:0,Διαδικτυακά: WZRA Kids
 mmsh://wpso.com:200/kids
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/o1sbkn6hf/zougla.png",Zougla TV
+#EXTINF:0,Διαδικτυακά: Zougla TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/o1sbkn6hf/zougla.png",Zougla TV (2)
+#EXTINF:0,Διαδικτυακά: Zougla TV (2)
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 
-
-
-
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/cb9spiob7/tilesport.png",Tilesport 
-http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/cb9spiob7/tilesport.png",Tilesport (2)
-rtmp://78.47.151.114/tilesport/movie1
-#EXTINF:0,Διαδικτυακά: https://s19.postimg.org/cb9spiob7/tilesport.png",Tilesport (3)
-rtmp://tv1.streampulse.eu/tilesport/movie1
-
-
-#EXTINF:0, group-title="Web Cam",AGIOS GEORGIOS HUDSON WebCam
+#EXTINF:0, AGIOS GEORGIOS HUDSON WebCam
 http://iphone-streaming.ustream.tv/uhls/20366895/streams/live/iphone/playlist.m3u8
-#EXTINF:0, group-title="Web Cam",AGIOS NIKOLAOS CINCINATI WebCam
+#EXTINF:0, AGIOS NIKOLAOS CINCINATI WebCam
 rtmp://fls.8.c3.audiovideoweb.com:443/live/il81flslive3150
-#EXTINF:0, group-title="Web Cam",AGIOS NIKOLAOS MICHIGAN WebCam
+#EXTINF:0, AGIOS NIKOLAOS MICHIGAN WebCam
 http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
-#EXTINF:0, group-title="Web Cam" tvg-logo="",Caldera Santorini WebCam
+#EXTINF:0, Caldera Santorini WebCam
 http://37.187.169.72/live.m3u8?a=m9625rnvqnptboo1kupsrp8rf7
-#EXTINF:0, group-title="Web Cam",Chania Phliou WebCam
+#EXTINF:0, Chania Phliou WebCam
 http://xastratv3gx.api.channel.livestream.com/3.0/playlist.m3u8 
-#EXTINF:0, group-title="Web Cam",Crete Greece - Analipsi Hersonisos 2ch WebCam
+#EXTINF:0, Crete Greece - Analipsi Hersonisos 2ch WebCam
 http://iphone-streaming.ustream.tv/uhls/8814831/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0, group-title="βίντεο",Ο φαλακρός μαθητής
-https://r19---sn-4g57knes.googlevideo.com/videoplayback?ipbits=0&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&signature=6FE42CB0D98A12E25BADB75C649D5BF16426C0D4.904D2F9750FBA3FD293182ECFF4A5D607EE06175&upn=21xSaDiRVho&dur=0.000&expire=1470923548&ip=84.63.12.39&key=yt6&lmt=1456568769935891&sver=3&id=o-AHJurVv8SMa8KPPRiwHM1W7Yr_PrsBEVZ3ccwv9oL5sB&source=youtube&initcwndbps=966250&mm=31&mn=sn-4g57knes&ratebypass=yes&requiressl=yes&ei=vC6sV8SWGsa4WLTqoeAO&ms=au&mt=1470901500&mv=m&itag=43&pl=16&mime=video%2Fwebm&fexp=9405960%2C9417580%2C9419452%2C9422596%2C9428398%2C9429854%2C9431012%2C9433096%2C9433223%2C9433946%2C9435526%2C9436606%2C9436617%2C9437553%2C9438327%2C9438662%2C9438804%2C9439580%2C9439893%2C9441843%2C9442173%2C9442424%2C9442426%2C9442658%2C9443184%2C9443423%2C9443913&nh=IgpwcjA0LmZyYTE2KgkxMjcuMC4wLjE
-#EXTINF:0, group-title="βίντεο",Τρελός παλαβός και Βέγγος
-https://r9---sn-4g57knzz.googlevideo.com/videoplayback?ms=au&fexp=9405963%2C9419451%2C9422596%2C9428398%2C9431012%2C9433096%2C9433221%2C9433946%2C9434339%2C9435310%2C9435526%2C9436270%2C9437552%2C9438327%2C9438481%2C9438662%2C9438804%2C9438822%2C9439356%2C9439433%2C9439567%2C9439580%2C9439832%2C9439887%2C9439982%2C9440853%2C9441560%2C9441707%2C9442424%2C9442426%2C9443259&mt=1470901111&mv=m&ip=84.63.12.39&requiressl=yes&ipbits=0&mime=video%2Fwebm&id=o-AHEfdNbo3ZzUYSyv3VfEfbWOGs-8-63kIx1n9u33o3OW&pl=16&mm=31&mn=sn-4g57knzz&itag=43&key=yt6&lmt=1454691566064034&ratebypass=yes&signature=D8C08D6EF34E37B8999FCA0898C6051170A3AECA.B7496DBAD90FE3BD362B475B831635C337B05A37&upn=49o5jzB4k7c&nh=IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE&source=youtube&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&expire=1470923316&sver=3&ei=1C2sV-2CEIbzWuHEmYgC&initcwndbps=1513750&dur=0.000
-
-#EXTINF:0, group-title="Ξένα",1HD
+#EXTINF:0,1HD
 http://109.172.11.85:1234/udp/224.0.42.161:5000
 #EXTINF:0,24 TV
 http://176.114.202.140:7781/udp/239.255.11.104:1234
@@ -856,287 +846,282 @@ http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?dw=0
 #EXTINF:-1, ZDF Neo
 http://api.iptv.ink/pl.m3u8?ch=83251092
 
-#EXTINF:0, group-title="Παιδικά",Boomerang 
+#EXTINF:0,Boomerang 
 http://77.120.118.235:8085
-#EXTINF:0, group-title="Παιδικά",Camp Cartoon (classics) 
+#EXTINF:0,Camp Cartoon (classics) 
 mms://72.13.93.186/campcartoon
-#EXTINF:0, group-title="Παιδικά",Cartoon Network
+#EXTINF:0,Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:0, group-title="Παιδικά",JimJam
+#EXTINF:0,JimJam
 http://77.120.118.235:8089
-#EXTINF:0, group-title="Παιδικά",KIDS PLAY  
+#EXTINF:0,KIDS PLAY  
 http://123.108.164.71/etv2sb/phd507/lihattv.m3u8
-#EXTINF:0, group-title="Παιδικά",King of the Hill
+#EXTINF:0,King of the Hill
 http://veetle.com/index.php/hls/streamMbrFast/4f9436ece56e2_/stream.m3u8
-#EXTINF:0, group-title="Παιδικά",Simpsons
+#EXTINF:0,Simpsons
 http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
-#EXTINF:0, group-title="Παιδικά",Smile of a Child
+#EXTINF:0,Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-#EXTINF:0, group-title="Παιδικά",South Park - Uncensored
+#EXTINF:0,South Park - Uncensored
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
-#EXTINF:0, group-title="Παιδικά",SpongeBob
+#EXTINF:0,SpongeBob
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
-#EXTINF:0, group-title="Παιδικά",Wild Toons (classics)
+#EXTINF:0,Wild Toons (classics)
 mmsh://72.13.93.186/3stooges?MSWMExt=.asf
-#EXTINF:0, group-title="Παιδικά",KIKA
+#EXTINF:0,KIKA
 http://live-1183.gv2.edge.filmon.com/live/2756.high.stream/playlist.m3u8
-#EXTINF:0, group-title="Παιδικά",KIKA
+#EXTINF:0,KIKA
 http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
-#EXTINF:0, group-title="Παιδικά",KIKA
+#EXTINF:0,KIKA
 http://live-1183.gv2.edge.filmon.com/live/2756.low.stream/playlist.m3u8
-#EXTINF:0, group-title="Παιδικά",KIKA HD
+#EXTINF:0,KIKA HD
 http://api.iptv.ink/pl.m3u8?ch=14807581
-#EXTINF:0, group-title="Παιδικά",RiC
+#EXTINF:0,RiC
 http://80.237.191.228:1935/live/_definst_/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
-#EXTINF:0, group-title="Παιδικά",RiC
+#EXTINF:0,RiC
 http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/HasBahCa.m3u8
 
-#EXTINF:0, group-title="Music" tvg-logo="",DJing Ibiza Live
+#EXTINF:0,Music: DJing Ibiza Live
 http://us.djing.com/tv/d-03.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",DJing Hits
+#EXTINF:0,Music: DJing Hits
 http://www.djing.com/tv/04.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",VEVO Deutschland
+#EXTINF:0,Music: VEVO Deutschland
 http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/05/prog_index.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Vevo TV 1 HD
+#EXTINF:0,Music: Vevo TV 1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",VEVO TV 1
+#EXTINF:0,Music: VEVO TV 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Vevo TV 2 HD
+#EXTINF:0,Music: Vevo TV 2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",VEVO TV 2
+#EXTINF:0,Music: VEVO TV 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Vevo TV 3
+#EXTINF:0,Music: Vevo TV 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Vevo TV 3 HD
+#EXTINF:0,Music: Vevo TV 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Ocko 
+#EXTINF:0,Music: Ocko 
 http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Ocko Express
+#EXTINF:0,Music: Ocko Express
 http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Ocko Gold
+#EXTINF:0,Music: Ocko Gold
 http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",OTTO 8 FM TV
+#EXTINF:0,Music: OTTO 8 FM TV
 http://live.youiptv.ch:1935/8FM/8FM/livestream.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",VOX OLDS COOL TV
+#EXTINF:0,Music: VOX OLDS COOL TV
 http://stream.smcloud.net/tv/vox/vox_360p/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",VOX TV
+#EXTINF:0,Music: VOX TV
 http://stream.smcloud.net/live/vox2/stream1/VOX Music TV.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Radio Capital TV
+#EXTINF:0,Music: Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Heart TV
+#EXTINF:0,Music: Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",CAPITAL FM TV
+#EXTINF:0,Music: CAPITAL FM TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Dot Dance
+#EXTINF:0,Music: Dot Dance
 http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",M2O
+#EXTINF:0,Music: M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="Music" tvg-logo="",NRJ Hits Belgique
+#EXTINF:0,Music: NRJ Hits Belgique
 rtsp://5.196.138.6:1935/live/nrjbelgique_720p
-#EXTINF:0, group-title="Music" tvg-logo="",Europa Plus
+#EXTINF:0,Music: Europa Plus
 http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Slam TV
+#EXTINF:0,Music: Slam TV
 http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",City TV
+#EXTINF:0,Music: City TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",TV 538
+#EXTINF:0,Music: TV 538
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",VIRGIN TV
+#EXTINF:0,Music: VIRGIN TV
 http://wow01.105.net/live/virgin1/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",HIT TV
+#EXTINF:0,Music: HIT TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Si TV
+#EXTINF:0,Music: Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Radio 105 TV
+#EXTINF:0,Music: Radio 105 TV
 http://fms.105.net:1935/live/105Test1/livestream.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",RTL 102.5 TV
+#EXTINF:0,Music: RTL 102.5 TV
 http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/radiovisione/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",RADIO MONTE CARLO TV
+#EXTINF:0,Music: RADIO MONTE CARLO TV
 http://fms.105.net:1935/live/rmc1/livestream.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Radionorba Tv
+#EXTINF:0,Music: Radionorba Tv
 http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Radio Taormina TV
+#EXTINF:0,Music: Radio Taormina TV
 http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",VISUAL RADIO
+#EXTINF:0,Music: VISUAL RADIO
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",FOR MUSIC TV
+#EXTINF:0,Music: FOR MUSIC TV
 http://wowza1.top-ix.org:1935/quartaretetv1/formusicweb/live.m3u8
 #EXTINF:0,ESKA TV
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",ESKA BEST
+#EXTINF:0,Music: ESKA BEST
 http://stream.smcloud.net/tv/best/best_360p/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",KroneHIT
+#EXTINF:0,Music: KroneHIT
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",CMC tv
+#EXTINF:0,Music: CMC tv
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",FRESH TV MUSIC
+#EXTINF:0,Music: FRESH TV MUSIC
 http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",WAWA TV
+#EXTINF:0,Music: WAWA TV
 http://stream.smcloud.net/tv/wawa/wawa_360p/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Ru.TV
+#EXTINF:0,Music: Ru.TV
 http://live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Music Box
+#EXTINF:0,Music: Music Box
 http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Music Box UA
+#EXTINF:0,Music: Music Box UA
 http://212.26.132.86/hls/mb_ua_2500.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",HIT Channel
+#EXTINF:0,Music: HIT Channel
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",HITV
+#EXTINF:0,Music: HITV
 http://live.rmg.cdnvideo.ru/rmg/rmg1.sdp/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Dream TV
+#EXTINF:0,Music: Dream TV
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",AMAZING
+#EXTINF:0,Music: AMAZING
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",M6 MUSIC
+#EXTINF:0,Music: M6 MUSIC
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",MFM TV
+#EXTINF:0,Music: MFM TV
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",RADIOU TV
+#EXTINF:0,Music: RADIOU TV
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1/chunklist_w1182659521.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Polo TV
+#EXTINF:0,Music: Polo TV
 http://stream.smcloud.net/live/polotv/index.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",MuzTV
+#EXTINF:0,Music: MuzTV
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",HARD LIFE
+#EXTINF:0,Music: HARD LIFE
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Klipkar TV
+#EXTINF:0,Music: Klipkar TV
 http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Nebiset TV
+#EXTINF:0,Music: Nebiset TV
 http://hls.nebiset.tv/nebiset.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Enorme TV
+#EXTINF:0,Music: Enorme TV
 http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",MIMUSICA
+#EXTINF:0,Music: MIMUSICA
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",SUPERSONIC TV
+#EXTINF:0,Music: SUPERSONIC TV
 http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Sonus FM
+#EXTINF:0,Music: Sonus FM
 http://www.electrosound.tv:1935/public/stream/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",HEAVY METAL TELEVISION
+#EXTINF:0,Music: HEAVY METAL TELEVISION
 http://70.166.98.130:1935/hmtv/myStream/live.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",TOP MUSIC
+#EXTINF:0,Music: TOP MUSIC
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",CineStreamTV
+#EXTINF:0,Music: CineStreamTV
 http://68.71.42.179/live/livestream1/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",SPIRIT TELEVISION
+#EXTINF:0,Music: SPIRIT TELEVISION
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",Melody Channel TV
+#EXTINF:0,Music: Melody Channel TV
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:0, group-title="Music" tvg-logo="",RIX TV
+#EXTINF:0,Music: RIX TV
 http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
 
-#EXTINF:0, group-title="Sports" tvg-logo="",Sport Time 1
+#EXTINF:0,Sports: Sport Time 1
 http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Sport Time 2
+#EXTINF:0,Sports: Sport Time 2
 http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/playlist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Sport Time 3
+#EXTINF:0,Sports: Sport Time 3
 http://sporttimelive1.content-cdn.net/livechannel3/smil:switch3.smil/playlist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Sport Time 4
+#EXTINF:0,Sports: Sport Time 4
 http://sporttimelive1.content-cdn.net/livechannel4/smil:switch4.smil/playlist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Eurosport 1 ENG
+#EXTINF:0,Sports: Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Eurosport 1
+#EXTINF:0,Sports: Eurosport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Eurosport 2
+#EXTINF:0,Sports: Eurosport 2
 http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Real Madrid TV
+#EXTINF:0,Sports: Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Real Madrid TV
+#EXTINF:0,Sports: Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="Sports" tvg-logo="",Redbull TV
+#EXTINF:0,Sports: Redbull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",NBA TV
+#EXTINF:0,Sports: NBA TV
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",NFL Now
+#EXTINF:0,Sports: NFL Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",NFL Now
+#EXTINF:0,Sports: NFL Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",NFL Now HD
+#EXTINF:0,Sports: NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_h.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",NFL Now SD
+#EXTINF:0,Sports: NFL Now SD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_d.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",CDO - Canal del Deporte Olimpico
+#EXTINF:0,Sports: CDO - Canal del Deporte Olimpico
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",FIGHT Sport
+#EXTINF:0,Sports: FIGHT Sport
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",FIGHT Sport
+#EXTINF:0,Sports: FIGHT Sport
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Poker Central
+#EXTINF:0,Sports: Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",TYCSPORTS ARG
+#EXTINF:0,Sports: TYCSPORTS ARG
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",USA-PAC 12 Net. (Arizona) 1080P
+#EXTINF:0,Sports: USA-PAC 12 Net. (Arizona) 1080P
 http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",USA-PAC 12 Oregon (HD)
+#EXTINF:0,Sports: USA-PAC 12 Oregon (HD)
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Arizona HD
+#EXTINF:0,Sports: PAC 12 Arizona HD
 http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Bay Area HD
+#EXTINF:0,Sports: PAC 12 Bay Area HD
 http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Los Angeles HD
+#EXTINF:0,Sports: PAC 12 Los Angeles HD
 http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Oregon HD
+#EXTINF:0,Sports: PAC 12 Oregon HD
 http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Mountain HD
+#EXTINF:0,Sports: PAC 12 Mountain HD
 http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 Washington HD
+#EXTINF:0,Sports: PAC 12 Washington HD
 http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",PAC 12 National
+#EXTINF:0,Sports: PAC 12 National
 http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Gol TV USA
+#EXTINF:0,Sports: Gol TV USA
 http://live-823.gv2.edge.filmon.com/live/374.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d395c1aa710e57109caccc17aec839c9fb85fd9ddc9f60a202afd6fd93cd97f609f42c9f36aa1a5fd82e41f476ea9cb226161dcf2ebc4da3c8a6e55f794113f80ee2d93f6cf8df864b8651a6f1e9de35c265c244928fff155b706a5eb86cb0ca31576580942a5048b73525eab4e255b9c7922cf3cbafb1dbf5
-#EXTINF:0, group-title="Sports" tvg-logo="",Gol TV 
+#EXTINF:0,Sports: Gol TV 
 http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Fox Soccer USA
+#EXTINF:0,Sports: Fox Soccer USA
 http://live-1124.la2.edge.filmon.com/live/3557.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d395c1aa710e57109ccacef28b2afa29e81998f350fba152b63088566163edee9fa4371e9d087bb10162fabc67f94998f4b7376883fc6b2ce3526f4d1ea6b12881336d11673883789b8b3a0b09da1df6315addd5acfd6191b398759976abf0aa11d232bcb99d38547ccf9c5412431ff6ab0df0b9e7e679fc28
-#EXTINF:0, group-title="Sports" tvg-logo="",Sharjah Sport AR
+#EXTINF:0,Sports: Sharjah Sport AR
 rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
-#EXTINF:0, group-title="Sports" tvg-logo="",Telekanal Futbol RU
+#EXTINF:0,Sports: Telekanal Futbol RU
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Fox Sports 506 HD
+#EXTINF:0,Sports: Fox Sports 506 HD
 http://motorsport.hopto.org:8080/
-#EXTINF:0, group-title="Sports" tvg-logo="",AutoSport TV
+#EXTINF:0,Sports: AutoSport TV
 mms://100automoto.tv/100livesport
-#EXTINF:0, group-title="Sports" tvg-logo="",MMA BAY TV
+#EXTINF:0,Sports: MMA BAY TV
 rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-#EXTINF:0, group-title="Sports" tvg-logo="",PORSCHE CHANNEL
+#EXTINF:0,Sports: PORSCHE CHANNEL
 rtsp://100automoto.tv/channel_porsche
-#EXTINF:0, group-title="Sports" tvg-logo="",LEQUIPE 21
+#EXTINF:0,Sports: LEQUIPE 21
 http://streaming-hub.com/stream/lequipe21.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",UFC Network
+#EXTINF:0,Sports: UFC Network
 http://grilla.gigared.com.ar/streams/166V3/6/1.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",CBC SPORT
+#EXTINF:0,Sports: CBC SPORT
 http://149.255.152.110/cbcsport/index.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",SUPER TENNIS
+#EXTINF:0,Sports: SUPER TENNIS
 http://bit.do/b2tWA
-#EXTINF:0, group-title="Sports" tvg-logo="",TRUE SPORT 2
+#EXTINF:0,Sports: TRUE SPORT 2
 rtmp://216.185.103.158/live2/chthaipremier31
-#EXTINF:0, group-title="Sports" tvg-logo="",FOX SPORTS
+#EXTINF:0,Sports: FOX SPORTS
 http://213.163.65.9:8081/live/foxsportk/playlist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",TV ALL SPORT
+#EXTINF:0,Sports: TV ALL SPORT
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",TV ESPORTE MAIS
+#EXTINF:0,Sports: TV ESPORTE MAIS
 http://srv7.zoeweb.tv:1935/esportemais/esportemais.smil/chunklist_b1200000.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",DXTV
+#EXTINF:0,Sports: DXTV
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",NFL Network
+#EXTINF:0,Sports: NFL Network
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",TVJ SPORTS (JAMAICA)
+#EXTINF:0,Sports: TVJ SPORTS (JAMAICA)
 http://univ-i.akamaihd.net/hls/live/222635/HLS12/chunklist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",Dubai Sports
+#EXTINF:0,Sports: Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",BFM SPORT
+#EXTINF:0,Sports: BFM SPORT
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-1.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",RETE SPORT 8
+#EXTINF:0,Sports: RETE SPORT 8
 http://rm-edge-1.cdn2.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",TV Mas HD
+#EXTINF:0,Sports: TV Mas HD
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-#EXTINF:0, group-title="Sports" tvg-logo="",COMBATE
+#EXTINF:0,Sports: COMBATE
 http://213.163.65.9:8081/live/combatez/playlist.m3u8
-
-#EXTINF:0, group-title="Ραδιόφωνα" tvg-logo="", arena fm 89.4
-http://www.arenafm.gr:45054/;stream.mp3
-#EXTINF:0, group-title="Ραδιόφωνα" tvg-logo="", ertopen
-http://radio.ertopen.com/erasport
 
 #EXTINF:0, group-title="video" tvg-logo="",playlist
 plugin://plugin.video.youtube.com/watch?v=NwL98zzdEXo&index&feature=PlayList&p=PLPdAAwYcAwHeUcBQPoooOukJfsaJfTm-N&playnext_from=PL&index=0&playnext=1
