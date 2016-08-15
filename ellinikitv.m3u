@@ -40,7 +40,7 @@ http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0,Πανελλαδικά: STAR (2)
 http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: SKAI 
-plugin://plugin.video.youtube/play/?video_id=1LU3T8FYnYc
+plugin://plugin.video.skai.gr/play/?action=live
 #EXTINF:0,Πανελλαδικά: SKAI WEB
 https://manifest.googlevideo.com/api/manifest/hls_variant/ip/84.63.12.39/expire/1470764216/signature/05B7F9338C64FB4777C2A3EE729A1042F2D60B16.62AE6E41F3C5B1E733A599994E81E7A19A143CFD/id/1LU3T8FYnYc.1/upn/25TLk3FBcIU/tx/9436985/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ipbits/0/gcr/de/itag/0/requiressl/yes/source/yt_live_broadcast/ei/V8CpV6KMOIuzWdTXtOAM/keepalive/yes/hfr/1/playlist_type/DVR/maudio/1/sver/3/ratebypass/yes/fexp/9406127%2C9422596%2C9428398%2C9431012%2C9433096%2C9433380%2C9433946%2C9434250%2C9435526%2C9436050%2C9436985%2C9437553%2C9437948%2C9438327%2C9438662%2C9438805%2C9439539%2C9439580%2C9441115%2C9441161%2C9441463%2C9441604%2C9442424%2C9442735%2C9443263%2C9443404%2C9443866/key/yt6/txs/9436982%2C9436983%2C9436984%2C9436985%2C9436986/go/1/file/index.m3u8?cpn=4VVyiTOvCBhiF4l2&ibw=1369843&ptk=youtube_none&pltype=contentugclive&c=WEB&cver=1.20160808
 #EXTINF:0,Πανελλαδικά: E TV 
