@@ -49,13 +49,9 @@ mms://media19.internet.gr/ParliamentTV-HQ
 rtmp://streamer0.grnet.gr/parliament/parltv.sdp
 
 #EXTINF:0,Κυπριακά: Alpha CYPRUS
-plugin://plugin.video.youtube.com/watch?v=0khKa0_RnXk
-#EXTINF:0,Κυπριακά: Alpha CYPRUS WEB
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/0khKa0_RnXk.46/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r4---sn-4g5e6n7d.googlevideo.com/playlist_type/LIVE/gcr/de/mm/32/mn/sn-4g5e6n7d/ms/lv/mv/u/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/sver/3/upn/6RY52Zhg0Io/fexp/9412913,9415951,9419452,9422596,9428398,9431012,9433096,9433223,9433946,9435526,9436101,9437552,9438051,9438140,9438327,9438525,9438662,9438805,9438973,9439580,9440143,9440546,9441121,9441535,9441650,9441850,9441945,9442255,9442424,9442734,9443068,9443350,9443604,9444028/mt/1470742723/ip/84.63.12.39/ipbits/0/expire/1470764619/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/17A3442CE9F10CE420845B7E98022145943F5494.67E592A4172427A2946CE1B151134B603BF2B188/key/dg_yt0/playlist/index.m3u8
+plugin://plugin.video.youtube.com/watch?v=0khKa0_RnXk 
 #EXTINF:0,Κυπριακά: ANT1 CYPRUS 
-http://l2.cloudskep.com/antl2/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMTYgODoxOTozNiBBTSZoYXNoX3ZhbHVlPWFEN0FSN1ZsWnhVY0RtSm55blZ2eEE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:0,Κυπριακά: ANT1 CYPRUS (2)
-http://l2.cloudskep.com/antl2/abr/playlist.m3u8
+http://l2.cloudskep.com/antl2/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE2IDc6Mzg6MDEgQU0maGFzaF92YWx1ZT13aGhGY2NFb2hjUkVPTW5WTjN5MFlBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,Κυπριακά: MAD CYPRUS 
 rtmp://144.76.2.213/live/livestream
 #EXTINF:0,Κυπριακά: MAD CYPRUS (2)
@@ -65,11 +61,9 @@ rtmp://144.76.2.213:1935/live/livestream
 #EXTINF:0,Κυπριακά: MAD CYPRUS (4)
 http://144.76.2.213:1935/live/livestream/playlist.m3u8
 #EXTINF:0,Κυπριακά: MEGA CYPRUS 
-http://138.201.124.160/hlive/abr/l1/m1/chunks.m3u8?nimblesessionid=419911&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTYgMTE6NDU6NDIgQU0maGFzaF92YWx1ZT1NZjBST09aV0ZQNVUrbW9XN0xyT3Z3PT0mdmFsaWRtaW51dGVzPTIw
+http://l1.cs-cdn.net/hlive/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE2IDg6MDY6MDIgQU0maGFzaF92YWx1ZT1HQTJLeEpEenM0bFg3aWIzWFZyRHVnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,Κυπριακά: MEGA CYPRUS (2)
-http://l1.cs-cdn.net/hlive/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTYgMTE6NDY6MzUgQU0maGFzaF92YWx1ZT12UkZKTW13SkpXYTV3ZVdCRzJBU2d3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:0,Κυπριακά: MEGA CYPRUS (3)
-http://138.201.124.160/hlive/abr/l1/b1/chunks.m3u8?nimblesessionid=419920&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTYgMTE6NDY6MzUgQU0maGFzaF92YWx1ZT12UkZKTW13SkpXYTV3ZVdCRzJBU2d3PT0mdmFsaWRtaW51dGVzPTIw
+http://138.201.22.165/hlive/abr/l1/b1/chunks.m3u8?nimblesessionid=746769&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE2IDg6MDY6MDIgQU0maGFzaF92YWx1ZT1HQTJLeEpEenM0bFg3aWIzWFZyRHVnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,Κυπριακά: RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,Κυπριακά: RIK SAT (2)
@@ -78,8 +72,6 @@ rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3
 http://live-1192.gv2.edge.filmon.com/live/1732.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea6d5f1d6c5934321d04fe079464b9256d0aae606c457cbf235cdee5fe60d39fb034f84120badafd13f46b0f836c71751ed3bcfbba3edf7436b85354b54a0f718a688b105ddb6f7bb1dc64a047af78c4fa2e5b2c50ef423c3dd7175fce247be874e7cb2e3c83e390610db21f3e96d3603d9f88f43333ecc6842e75593dc5e667380d4fcc47d535786799d258859a629e2
 #EXTINF:0,Κυπριακά: SIGMA CYPRUS 
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:0,Κυπριακά: SIGMA CYPRUS (2)
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 
 #EXTINF:0, Λοιπά Ελληνικά: EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
@@ -95,8 +87,6 @@ http://nerit3-lh.akamaihd.net/i/ertworld_1@48667/master.m3u8
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0, Λοιπά Ελληνικά: ERT World (3)
 plugin://plugin.video.youtube/play/?video_id=rdlulSBQPp8
-#EXTINF:0, Λοιπά Ελληνικά: ERT World WEB
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/rdlulSBQPp8.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r1---sn-4g57kn7e.googlevideo.com/playlist_type/DVR/gcr/de/mm/32/mn/sn-4g57kn7e/ms/lv/mv/m/nh/IgpwcjA0LmZyYTE2KgkxMjcuMC4wLjE/pl/16/dover/3/sver/3/fexp/9419452,9422596,9428398,9431012,9433096,9433221,9433946,9435394,9435526,9436275,9436835,9437553,9437982,9438327,9438662,9438805,9439580,9439603,9440832,9441382,9442252,9442424,9442466,9443003,9443402,9443479/upn/H0Cx31tbMLs/mt/1470741796/ip/84.63.12.39/ipbits/0/expire/1470763473/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/4AC1770664C78FFAA1B2D6A06C8ABD28CEF36469.95B768B9A176EE71FE4C62051B530582D7EEB6E3/key/dg_yt0/playlist/index.m3u8
 #EXTINF:0, Λοιπά Ελληνικά: Euronews
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, Λοιπά Ελληνικά: Euronews (2)
