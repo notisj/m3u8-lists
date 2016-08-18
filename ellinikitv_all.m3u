@@ -3,60 +3,42 @@
 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live.m3u8
 #EXTINF:0,Πανελλαδικά: ERT1 (2)
 plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
-#EXTINF:0,Πανελλαδικά: ERT1 WEB
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/wyBm8cFiUp0.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r3---sn-4g57knkk.googlevideo.com/playlist_type/DVR/gcr/de/mm/32/mn/sn-4g57knkk/ms/lv/mv/m/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/upn/aGao3RuAhG8/fexp/9422596,9428398,9431012,9433096,9433221,9433946,9435526,9436963,9437553,9438327,9438662,9438805,9439580,9442424/sver/3/mt/1470741496/ip/84.63.12.39/ipbits/0/expire/1470763154/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/1CA2C7E30FA566F3636CF49F86A4AB9CB3793154.47145CF89B8C2CDB39B061B7A738D16245D65ABC/key/dg_yt0/playlist/index.m3u8
 #EXTINF:0,Πανελλαδικά: ERT2 
 http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live.m3u8
 #EXTINF:0,Πανελλαδικά: ERT2 (2)
 plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI
-#EXTINF:0,Πανελλαδικά: ERT2 WEB 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/Zjbwf5QE7aI.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r1---sn-4g57knlz.googlevideo.com/gcr/de/playlist_type/DVR/mm/32/mn/sn-4g57knlz/ms/lv/mv/m/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/fexp/9415950,9417828,9418403,9418778,9419452,9422596,9427833,9428398,9431012,9433096,9433221,9433946,9435526,9436725,9437553,9438327,9438479,9438662,9438804,9439580,9439699,9439881,9439890,9440009,9441213,9441536,9441560,9441911,9442424,9443420,9443841,9443913,9444003/upn/umm0DolG328/sver/3/mt/1470741555/ip/84.63.12.39/ipbits/0/expire/1470763238/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,nh,pl/signature/24B570860CE766A9AEEBFD1A21DC6DEDC118DBDD.295E7A9C6D74E7BD66F5F3612E4A30C4640C33C0/key/dg_yt0/playlist/index.m3u8
 #EXTINF:0,Πανελλαδικά: ERT3 
 http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ERT3 (2)
-plugin://plugin.video.youtube.com/watch?v=TAPQISON4YM
-#EXTINF:0,Πανελλαδικά: ERT3 WEB
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/nxebm_-DkF0.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D136/hls_chunk_host/r12---sn-4g57kned.googlevideo.com/playlist_type/DVR/gcr/de/mm/32/mn/sn-4g57kned/ms/lv/mv/m/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/fexp/9407157,9419452,9422596,9427833,9428398,9431012,9431477,9432564,9433096,9433221,9433946,9435526,9436565,9437552,9438313,9438327,9438662,9438805,9438969,9439580,9439597,9439882,9440848,9440928,9442424,9444056,9444369/upn/XCEDzjHSulk/sver/3/mt/1470741620/ip/84.63.12.39/ipbits/0/expire/1470763303/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/04977E0697517879CBF7B4218A1939E4F84BF2EC.1D576E174EF0E1117080D47138EAEF24F05F17B2/key/dg_yt0/playlist/index.m3u8
+plugin://plugin.video.youtube.com/watch?v=TAPQISON4YM 
 #EXTINF:0,Πανελλαδικά: MEGA 
 http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: MEGA (2)
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0,Πανελλαδικά: MEGA (3)
 plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
-#EXTINF:0,Πανελλαδικά: MEGA WEB
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/2Y8qsS_xH2Y.2/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D135/hls_chunk_host/r19---sn-4g57kn7e.googlevideo.com/playlist_type/LIVE/gcr/de/mm/32/mn/sn-4g57kn7e/ms/lv/mv/m/nh/IgpwcjA2LmZyYTE1KgkxMjcuMC4wLjE/pl/16/dover/3/upn/OG1KaEVxsYI/fexp/9419452,9422596,9428398,9431012,9431890,9433096,9433223,9433946,9435039,9435526,9435667,9435672,9437553,9438327,9438662,9438804,9439414,9439581,9439605,9440141,9440334,9440927,9441143,9441159,9441226,9441740,9441920,9442424,9442710,9442733,9443941/sver/3/mt/1470742340/ip/84.63.12.39/ipbits/0/expire/1470764021/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,gcr,mm,mn,ms,mv,nh,pl/signature/4C38415F5E7DFB873055ED7A9CE3CCA9CFEB07D0.51BF7D6F359980E7B15DCFCF3A295A8C0A3DDA26/key/dg_yt0/playlist/index.m3u8
 #EXTINF:0,Πανελλαδικά: ANT1 
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0,Πανελλαδικά: ANT1 (2)
 http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ALPHA 
-http://193.92.37.235:1935/liveedge/live@720/chunklist_w518635263_DVR.m3u8
-#EXTINF:0,Πανελλαδικά: ALPHA (2)
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
+#EXTINF:0,Πανελλαδικά: ALPHA (2)
+http://193.92.37.235:1935/liveedge/live@720/manifest.m3u8?DVR
 #EXTINF:0,Πανελλαδικά: ALPHA (3)
-http://193.92.37.235:1935/liveedge/live@720/manifest.m3u8
+http://193.92.37.235:1935/liveedge/live@720/chunklist_w1594717954_DVR.m3u8
 #EXTINF:0,Πανελλαδικά: STAR 
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0,Πανελλαδικά: STAR (2)
-http://94.23.218.186:1935/galanos2/galanos2/playlist.m3u8
+http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: SKAI 
 plugin://plugin.video.skai.gr/play/?action=live
-#EXTINF:0,Πανελλαδικά: SKAI WEB
-https://manifest.googlevideo.com/api/manifest/hls_variant/ip/84.63.12.39/expire/1470764216/signature/05B7F9338C64FB4777C2A3EE729A1042F2D60B16.62AE6E41F3C5B1E733A599994E81E7A19A143CFD/id/1LU3T8FYnYc.1/upn/25TLk3FBcIU/tx/9436985/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ipbits/0/gcr/de/itag/0/requiressl/yes/source/yt_live_broadcast/ei/V8CpV6KMOIuzWdTXtOAM/keepalive/yes/hfr/1/playlist_type/DVR/maudio/1/sver/3/ratebypass/yes/fexp/9406127%2C9422596%2C9428398%2C9431012%2C9433096%2C9433380%2C9433946%2C9434250%2C9435526%2C9436050%2C9436985%2C9437553%2C9437948%2C9438327%2C9438662%2C9438805%2C9439539%2C9439580%2C9441115%2C9441161%2C9441463%2C9441604%2C9442424%2C9442735%2C9443263%2C9443404%2C9443866/key/yt6/txs/9436982%2C9436983%2C9436984%2C9436985%2C9436986/go/1/file/index.m3u8?cpn=4VVyiTOvCBhiF4l2&ibw=1369843&ptk=youtube_none&pltype=contentugclive&c=WEB&cver=1.20160808
 #EXTINF:0,Πανελλαδικά: E TV 
 http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:0,Πανελλαδικά: E TV (2)
-http://176.9.30.75:1935/live/epsilon/master.m3u8
 #EXTINF:0,Πανελλαδικά: Macedonia TV  
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ) 
-https://video02-atl.streamup.com/app/artthleorashs-channel/playlist.m3u8
-#EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ) (2)
-http://104.200.159.58:1935/app/artthleorashs-channel/playlist.m3u8	
-#EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ) (3)
-plugin://plugin.video.youtube/play/?video_id=b3OP-35Pc50
-#EXTINF:0,Πανελλαδικά: ART WEB
-https://manifest.googlevideo.com/api/manifest/hls_playlist/id/b3OP-35Pc50.5/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/itag%3D140/sgovp/itag%3D134/hls_chunk_host/r8---sn-i5h7ln76.googlevideo.com/gcr/de/playlist_type/LIVE/mm/32/mn/sn-i5h7ln76/ms/lv/mv/m/pl/15/dover/3/upn/SHi4B_nDubc/sver/3/fexp/9405961,9416891,9419452,9422596,9425619,9428398,9431012,9433096,9433221,9433424,9433508,9433946,9435526,9435876,9437066,9437553,9438663,9438870,9439652,9440140,9440233,9440491,9440546,9440651,9440799,9441686,9442255,9442425/mt/1468994896/ip/178.6.170.220/ipbits/0/expire/1469016567/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,gcr,playlist_type,mm,mn,ms,mv,pl/signature/978860F1688A565F4D535D6A26EBB1A550A760F6.51DC807EC9AA6D6C555920560075CB2124366C71/key/dg_yt0/playlist/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=b3OP-35Pc50 
 #EXTINF:0,Πανελλαδικά: VOULI 
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:0,Πανελλαδικά: VOULI (2)
