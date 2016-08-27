@@ -11,8 +11,10 @@ plugin://plugin.video.youtube/play/?video_id=f7ISZRsgztY
 http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ERT3 (2)
 plugin://plugin.video.youtube.com/watch?v=NdrihJS8-5g 
+#EXTINF:0,Πανελλαδικά: ERT3 (2)
+plugin://plugin.video.youtube.com/watch?v=nxebm_-DkF0
 #EXTINF:0,Πανελλαδικά: MEGA 
-http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
+http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: MEGA (2)
 http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
 #EXTINF:0,Πανελλαδικά: MEGA (3)
@@ -20,7 +22,7 @@ plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
 #EXTINF:0,Πανελλαδικά: ANT1 
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 #EXTINF:0,Πανελλαδικά: ANT1 (2)
-http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
+http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ALPHA 
 http://193.92.37.235:1935/liveedge/live@720/master.m3u8?DVR
 #EXTINF:0,Πανελλαδικά: ALPHA (2)
@@ -30,7 +32,7 @@ http://193.92.37.235:1935/liveedge/live@720/chunklist_w1594717954_DVR.m3u8
 #EXTINF:0,Πανελλαδικά: STAR 
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0,Πανελλαδικά: STAR (2)
-http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
+http://94.23.218.186:1935/galanos58/galanos58/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: SKAI 
 plugin://plugin.video.skai.gr/play/?action=live
 #EXTINF:0,Πανελλαδικά: E TV 
