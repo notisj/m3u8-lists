@@ -2,15 +2,15 @@
 #EXTINF:0,Πανελλαδικά: ERT1 
 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live.m3u8
 #EXTINF:0,Πανελλαδικά: ERT1 (2)
-plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
+plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4
 #EXTINF:0,Πανελλαδικά: ERT2 
 http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live.m3u8
 #EXTINF:0,Πανελλαδικά: ERT2 (2)
-plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI
+plugin://plugin.video.youtube/play/?video_id=f7ISZRsgztY
 #EXTINF:0,Πανελλαδικά: ERT3 
 http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ERT3 (2)
-plugin://plugin.video.youtube.com/watch?v=TAPQISON4YM 
+plugin://plugin.video.youtube.com/watch?v=NdrihJS8-5g 
 #EXTINF:0,Πανελλαδικά: MEGA 
 http://94.23.218.186:1935/galanos3/galanos3/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: MEGA (2)
