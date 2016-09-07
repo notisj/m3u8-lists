@@ -145,9 +145,7 @@ http://138.201.57.212:1935/best/myStream/chunklist_w288225557.m3u8
 #EXTINF:0,Περιφερειακά: BHMA TV
 http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Περιφερειακά: BLUE SKY
-http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
-#EXTINF:0,Περιφερειακά: BLUE SKY (2)
-rtsp://136.243.200.188:1935/tvlive/tvlive
+http://176.9.175.244:1935/bluesky/tvlive/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: CANNALI
 rtmp://live.streams.ovh/cannali/cannali/
 #EXTINF:0,Περιφερειακά: Channel 9
