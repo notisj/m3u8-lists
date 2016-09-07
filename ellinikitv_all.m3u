@@ -1,23 +1,17 @@
 #EXTM3U
 #EXTINF:0,Πανελλαδικά: ERT1 
-http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live.m3u8
-#EXTINF:0,Πανελλαδικά: ERT1 (2)
 plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4
+#EXTINF:0,Πανελλαδικά: ERT1 (2)
+plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
 #EXTINF:0,Πανελλαδικά: ERT2 
-http://ert2-geo-live.hls.adaptive.level3.net/hls-live/ert-channel02geo/_definst_/live.m3u8
-#EXTINF:0,Πανελλαδικά: ERT2 (2)
 plugin://plugin.video.youtube/play/?video_id=f7ISZRsgztY
+#EXTINF:0,Πανελλαδικά: ERT2 (2)
+plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI
 #EXTINF:0,Πανελλαδικά: ERT3 
-http://live.ert.gr:1935/Live-Edge/smil:ert3-live.smil/playlist.m3u8
-#EXTINF:0,Πανελλαδικά: ERT3 (2)
 plugin://plugin.video.youtube.com/watch?v=NdrihJS8-5g 
 #EXTINF:0,Πανελλαδικά: ERT3 (2)
 plugin://plugin.video.youtube.com/watch?v=nxebm_-DkF0
-#EXTINF:0,Πανελλαδικά: MEGA 
-http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
-#EXTINF:0,Πανελλαδικά: MEGA (2)
-http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
-#EXTINF:0,Πανελλαδικά: MEGA (3)
+#EXTINF:0,Πανελλαδικά: MEGA
 plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
 #EXTINF:0,Πανελλαδικά: ANT1 
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
@@ -36,7 +30,7 @@ http://94.23.218.186:1935/galanos58/galanos58/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: SKAI 
 plugin://plugin.video.skai.gr/play/?action=live
 #EXTINF:0,Πανελλαδικά: E TV 
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
+https://57c821d91eac3.streamlock.net/live/epsilontv/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: Macedonia TV  
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ) 
