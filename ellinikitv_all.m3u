@@ -24,8 +24,10 @@ http://193.92.37.235:1935/liveedge/live@720/manifest.m3u8?DVR
 #EXTINF:0,Πανελλαδικά: ALPHA (3)
 http://193.92.37.235:1935/liveedge/live@720/chunklist_w1594717954_DVR.m3u8
 #EXTINF:0,Πανελλαδικά: STAR 
-http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1437.m3u8
 #EXTINF:0,Πανελλαδικά: STAR (2)
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:0,Πανελλαδικά: STAR (3)
 http://94.23.218.186:1935/galanos21/galanos21/chunklist_w688169004.m3u8
 #EXTINF:0,Πανελλαδικά: SKAI 
 plugin://plugin.video.skai.gr/play/?action=live
