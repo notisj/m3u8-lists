@@ -115,6 +115,8 @@ http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,Περιφερειακά: AIGAIO TV (2)
 rtmp://cp86438.live.edgefcs.net/live/livestream_11@17528
 #EXTINF:0,Διαδικτυακά: Akrites Web TV
+http://iphone-streaming.ustream.tv/uhls/20021565/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Διαδικτυακά: Akrites Web TV (2)
 http://xakritesx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Alert TV
 plugin://plugin.video.youtube/play/?video_id=4TxS3Je89Iw
@@ -234,6 +236,8 @@ http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3
 http://176.9.25.17:1935/kissamostv/kissamostv/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: Kissamos TV (2)
 rtmp://176.9.25.17:1935/kissamostv/kissamostv
+#EXTINF:0,Διαδικτυακά: Klik FM WEB TV
+http://smooth2.istoikona.net:1935/live/klikfm/master.m3u8
 #EXTINF:0,Περιφερειακά: Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:0,Περιφερειακά: Kontra (2)
@@ -306,6 +310,8 @@ http://edge.vidblee.com/live1013/live1013/playlist.m3u8
 rtmp://w11.streamgb.com:1935/8046/8046
 #EXTINF:0,Διαδικτυακά: RAMONA TV
 http://176.9.123.140:1935/savate/mp4:stream/master.m3u8
+#EXTINF:0,Περιφερειακά: Radio Vereniki WEB TV
+http://iphone-streaming.ustream.tv/uhls/7948248/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: RYTHMOS 94.3 WEB TV
 rtmp://rythmoscam.dyndns.org:1935/live/myStream
 #EXTINF:0,Περιφερειακά: Samiaki TV
@@ -336,6 +342,8 @@ http://5.196.92.57/webtv/medium.m3u8
 rtmp://hls.onestreaming.com:1935/live/thrakinettv
 #EXTINF:0,Περιφερειακά: Θράκη NET (2)
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
+#EXTINF:0,Περιφερειακά: Θράκη NET (3)
+http://hls.onestreaming.com:1935/live/thrakinettv/playlist.m3u8
 #EXTINF:0,Περιφερειακά: TINOS TV
 https://stream-06.vty.dailymotion.com/48/dm/1/x49eqwt/live_src.isml/events(live_src-1470806666)/live_src-audio=95232-video=649216.m3u8
 #EXTINF:0,Περιφερειακά: TINOS TV (2)
