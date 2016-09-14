@@ -240,6 +240,8 @@ http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 rtmp://flashcloud.mediacdn.com:1935/live/kontratv
 #EXTINF:0,Περιφερειακά: Kontra (3)
 rtmp://flashcloud.mediacdn.com/live/kontratv
+#EXTINF:0,Περιφερειακά: Kontra (4)
+http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Κρήτη TV   
 http://live.cretetv.gr:1935/cretetv/myStream/hasbahca.m3u8
 #EXTINF:0,Περιφερειακά: Κρήτη TV (2)
