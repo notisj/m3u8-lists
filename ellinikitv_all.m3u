@@ -29,20 +29,20 @@ http://193.92.37.235:1935/liveedge/live@720/chunklist_w1594717954_DVR.m3u8
 http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1437.m3u8
 #EXTINF:0,Πανελλαδικά: STAR (2)
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
-#EXTINF:0,Πανελλαδικά: STAR (3)
-http://94.23.218.186:1935/galanos21/galanos21/chunklist_w688169004.m3u8
 #EXTINF:0,Πανελλαδικά: SKAI 
 plugin://plugin.video.skai.gr/play/?action=live
 #EXTINF:0,Πανελλαδικά: SKAI (2)
 http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: E TV 
 https://57c821d91eac3.streamlock.net/live/epsilontv/playlist.m3u8
+#EXTINF:0,Πανελλαδικά: E TV (2)
+https://57c821d91eac3.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:0,Πανελλαδικά: Macedonia TV  
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ) 
-https://stream-01.vty.dailymotion.com/03/dm/1/x4pvzft/live.isml/events(live-1473390014)/live-audio=128000-video=700000.m3u8
+https://stream-06.vty.dailymotion.com/43/dm/1/x4sxo2v/live.isml/events(live-1473908417)/live-audio=128000-video=700000.m3u8
 #EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ)(2)
-https://stream-11.vty.dailymotion.com/03/dm/1/x4pvzft/live.isml/events(live-1473390014)/live-audio=128000-video=700000.m3u8http://nerit3-lh.akamaihd.net/i/ertworld_1@48667/master.m3u8
+https://stream-11.vty.dailymotion.com/03/dm/1/x4pvzft/live.isml/events(live-1473390014)/live-audio=128000-video=700000.m3u8
 #EXTINF:0,Πανελλαδικά: VOULI 
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:0,Πανελλαδικά: VOULI (2)
@@ -72,8 +72,6 @@ http://138.201.22.165/hlive/abr/l1/b1/chunks.m3u8?nimblesessionid=746769&wmsAuth
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,Κυπριακά: RIK SAT (2)
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0,Κυπριακά: RIK SAT (3)
-http://live-1192.gv2.edge.filmon.com/live/1732.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea6d5f1d6c5934321d04fe079464b9256d0aae606c457cbf235cdee5fe60d39fb034f84120badafd13f46b0f836c71751ed3bcfbba3edf7436b85354b54a0f718a688b105ddb6f7bb1dc64a047af78c4fa2e5b2c50ef423c3dd7175fce247be874e7cb2e3c83e390610db21f3e96d3603d9f88f43333ecc6842e75593dc5e667380d4fcc47d535786799d258859a629e2
 #EXTINF:0,Κυπριακά: SIGMA CYPRUS 
 http://81.21.47.74/hls/live.m3u8
 
@@ -105,9 +103,9 @@ http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Achaia News
 http://78.129.184.15:23319/streaming/stream/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Action 24
-http://stream-05.vty.dailymotion.com/30/dm/1/x2p626q/live.isml/events(live-1473031516)/live-audio=64000-video=400000.m3u8
+http://stream-03.vty.dailymotion.com/47/dm/1/x2p626q/live.isml/events(live-1473892767)/live-audio=64000-video=400000.m3u8
 #EXTINF:0,Περιφερειακά: Action 24 (2)
-https://stream-07.vty.dailymotion.com/06/dm/1/x2p626q/live.isml/events(live-1468827636)/live-audio=64000-video=400000.m3u8
+https://stream-10.vty.dailymotion.com/47/dm/1/x2p626q/live.isml/events(live-1473892767)/live-audio=64000-video=400000.m3u8
 #EXTINF:0,Διαδικτυακά: ALFA OMEGA EVIA WEB TV
 http://xalfaomegaeviawebtvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,Περιφερειακά: AIGAIO TV
