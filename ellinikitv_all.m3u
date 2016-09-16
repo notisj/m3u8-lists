@@ -528,28 +528,26 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
 #EXTINF:0,Ξένα Γερμανόφωνα: Donau TV 
 rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2
-#EXTINF:-1,DoughyGuy Broadcast System
-http://65.60.19.42:8380/;stream.nsv 
 #EXTINF:0,Ξένα Αγγλόφωνα: Dr. Fab Show
 http://live-1264.la2.edge.filmon.com/live/4100.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe93abd4ec72b1bf67f1f185bcf32a518613d1aa9b930dc8a27585b052f66c9fe73b4626c4f396fcd515d5f3a0aaf7979a5f827e5304209b531384132b25be07ce97e5c3e993beeb00df36762b523ba5f7bfcee9d871d4baff0974f86375f009075f6fffaa95769f1e1e0d760fddb19cd71b8f2f4280ff5df2fba7e6be826145d83b69e17b152c934b453618ec1e87e558
-#EXTINF:-1,Dresden Fernsehen 
+#EXTINF:0,Ξένα Γερμανόφωνα: Dresden Fernsehen 
 rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
 #EXTINF:0,Ξένα Αγγλόφωνα: E4
 http://live-1180.gv2.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe39d38f8928d6627ce51fe0d842aeb6ca42756614d642f40c83ebcb78384b00c4e6645246e1268ce2f7a2dcba7e04066faf5055c57344d8521d955901208b0daa81688c370b65bf738083ad0661805e7bd126a514703ec3213b680d6a19d7a7d7a20c6cc53181a9f74a0aae3c6b03088864823889d423f13a5a7ba755743928dda414254132e995a4461e8d3db2f85664
-#EXTINF:-1,ELBE KANAL 
-rtmp://62.113.210.250/medienasa-live/elbe_higho
-#EXTINF:0,Eins Festival
-http://live-1183.gv2.edge.filmon.com/live/421.high.stream/playlist.m3u8
-#EXTINF:0,Eins Plus
-http://live-1183.gv2.edge.filmon.com/live/418.low.stream/playlist.m3u8
-#EXTINF:-1,EuroNews Deutsch
+#EXTINF:0,Ξένα Γερμανόφωνα: Elbe Kanal
+rtmp://62.113.210.250/medienasa-live/elbe_high
+#EXTINF:0,Ξένα Γερμανόφωνα: Eins Festival
+http://live-1183.gv2.edge.filmon.com/live/421.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe7d9ac0dc6d66290285958005bc360e520e5cf89036499ff802cd230ae97233e97d3207d0319c729e1be9684dbe4468b237285e0214b7ff555038a6908dbacaa5e6ec9a8b31a0ed5badb6114de25bb367a28b33aff79885f246c58f0bbb73c2662061e5fe7d3df38f071c6cc8749b0163ae16e7034c47c8aea32c1a1f2c7545170f1ff22244c675d86d3d0372591e385f
+#EXTINF:0,Ξένα Γερμανόφωνα: Eins Plus
+http://live-1183.gv2.edge.filmon.com/live/418.low.stream/playlist.m3u8?id=0ad5aac39bb13fbedf194013b994694a342ed3399d515a345ed728b1bc6d437c2229f923d31f55579e4290223b8589316583d60f8afb592bbd34a005adfda710983126f6bbc3b953e9b1c09746b0a38e506856e243168ee60a1aa3f3105afe45af8f74ecdfe3206c06f904d4c17fceb1d9b8c27cc882dbe9a9bfc8797c69a91da8831b5273fd0de6a217d12559bb5b376a62df885a542430
+#EXTINF:0,Ξένα Γερμανόφωνα: EuroNews Deutsch
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
-#EXTINF:-1,EuroNews English
+#EXTINF:0,Ξένα Γερμανόφωνα: EuroNews Deutsc (2)
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/de_vidan750_rtp.sdp
+#EXTINF:0,Ξένα Αγγλόφωνα: EuroNews English
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp
-#EXTINF:-1,FAMILY TV
-http://91.250.73.118:1935/live/_definst_/Stream3/playlist.m3u8
-#EXTINF:-1,Family TV 
-rtmp://83.169.58.36/live/Stream3
+#EXTINF:0,Ξένα Αγγλόφωνα: EuroNews English (2)
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 #EXTINF:0,Fashion TV
 http://176.114.202.140:7781/udp/239.255.11.8:1234
 #EXTINF:-1,FILSTALWELLE 
