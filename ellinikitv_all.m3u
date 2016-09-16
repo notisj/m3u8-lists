@@ -412,55 +412,41 @@ http://xastratv3gx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0, Crete Greece - Analipsi Hersonisos 2ch WebCam
 http://iphone-streaming.ustream.tv/uhls/8814831/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0,1HD
+#EXTINF:0,Ξένα Λοιπά: 1HD
 http://109.172.11.85:1234/udp/224.0.42.161:5000
-#EXTINF:0,24 TV
+#EXTINF:0,Ξένα Λοιπά: 24 TV
 http://176.114.202.140:7781/udp/239.255.11.104:1234
-#EXTINF:0,2x2
+#EXTINF:0,Ξένα Λοιπά: 2x2
 http://176.114.202.140:7781/udp/239.255.11.3:1234
 #EXTINF:0,Ξένα Αγγλόφωνα: 5*
 http://live-823.gv2.edge.filmon.com/live/851.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3c467112d468623a44ffb96c86559bd534aecd953b91dc1e1ce3e71749b317b452e95ac71ac38502d7e737033d0b8b08144f4ad9677733a30aadf988470ce360ae489f0c6bc5569b91f2644c1a372571aa1cc1130e69635f980a63a46a12bcec930b816b16a7f5ec3fb262fe2f21ca1b05d359d55daf7a9f1aa5373f2d13636953bb4c0b3b5432b6ae4816836574d688
 #EXTINF:0,Ξένα Αγγλόφωνα: 5USA
 http://live-997.ld5.edge.filmon.com/live/845.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe799e2a1f9f7b14b4aec6f9bc096e5c401d23e911dc8d53e58f82ee76961ad4fb45c7b7e9aa375ce23e27d1ddc6c0600be6257639157252888a913fc4c4aab1ee93dd819f14529d76c9c8de38abb4e8d3288b1d3da115bae7294e27a65bcbe5e9077addb35bc47e5fc391d5ee1ff05f8ea6ab2b19e9135b8a60af6e769611afa3a90d88590b5d8bdb69b7df8a1dca9538
-#EXTINF:0,A-One
-http://109.172.11.85:1234/udp/224.0.42.8:5000
-#EXTINF:-1,ABC News 
+#EXTINF:0,Ξένα Αγγλόφωνα: ABC News 
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1,ABC News (2)
+#EXTINF:0,Ξένα Αγγλόφωνα: ABC News (2)
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
-#EXTINF:-1,ABC News (3)
+#EXTINF:0,Ξένα Αγγλόφωνα: ABC News (3)
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,3Sat
+#EXTINF:0,Ξένα Γερμανόφωνα: 3Sat
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1456_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,3Sat (2)
+#EXTINF:0,Ξένα Γερμανόφωνα: 3Sat (2)
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0
-#EXTINF:-1,Alex Berlin
+#EXTINF:0,Ξένα Γερμανόφωνα: Alex Berlin
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/chunklist_w690170040_b1200000_slGER.m3u8
-#EXTINF:-1,Alex Berlin (2)
-http://api.iptv.ink/pl.m3u8?ch=65304965
-#EXTINF:-1,Alex Berlin HD
-http://api.iptv.ink/pl.m3u8?ch=65304965
-#EXTINF:-1,AMG
+#EXTINF:0,Ξένα Αγγλόφωνα: AMG
 http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
-#EXTINF:-1,Anixe
-http://api.iptv.ink/pl.m3u8?ch=70153119
-#EXTINF:-1,ARD
+#EXTINF:0,Ξένα Γερμανόφωνα: ARD
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:-1,ARD (2)
+#EXTINF:0,Ξένα Γερμανόφωνα: ARD (2)
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ARD Alpha HD
-http://api.iptv.ink/pl.m3u8?ch=36929284
-#EXTINF:-1,ARTE
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_540.m3u8
-#EXTINF:-1,ARTE (2)
-http://delive.artestras.cshls.lldns.net/artestras/delive/delive/delive_925.m3u8
-#EXTINF:-1,ARTE (3)
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
-#EXTINF:-1,ARTE (4)
-http://api.iptv.ink/pl.m3u8?ch=46301796
-#EXTINF:-1,Augsburg TV 
+#EXTINF:0,Ξένα Γερμανόφωνα: ARTE
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Ξένα Γερμανόφωνα: ARTE (2)
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Ξένα Γερμανόφωνα: Augsburg TV 
 rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
-#EXTINF:-1,AUSTRIA 24 TV 
+#EXTINF:0,Ξένα Γερμανόφωνα: Austria 24 TV
 rtmp://streaming.austria24.tv/live/stream_360p
 #EXTINF:0,Ξένα Αγγλόφωνα: BBC 
 http://109.172.11.85:1234/udp/224.0.42.28:5000
