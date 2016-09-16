@@ -548,38 +548,34 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/de_vidan750_rtp.sdp
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp
 #EXTINF:0,Ξένα Αγγλόφωνα: EuroNews English (2)
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
-#EXTINF:0,Fashion TV
+#EXTINF:0,Ξένα Αγγλόφωνα: Fashion TV
 http://176.114.202.140:7781/udp/239.255.11.8:1234
-#EXTINF:-1,FILSTALWELLE 
+#EXTINF:0,Ξένα Γερμανόφωνα: Filstalwelle 
 rtmp://62.113.210.27/filstalwelle-live/livestream
-#EXTINF:0,France 24
-http://109.172.11.85:1234/udp/224.0.42.6:5000
+#EXTINF:0,Ξένα Λοιπά: France 24
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: France 24 (EN) HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: FusionPlus TV
 http://live-1192.gv2.edge.filmon.com/live/2696.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeb624c60ee691b91270e9c461b7ffb5ec997c002504ec0c82da470ba3d0884d6908825bb8273eb933b4d5658be19adbbb0cb5b4ad57c681b3d6a71c5b9e3a28948b00d805aeaab0e5e7a407a561bb81c11b1bf4ad8de0530ff6e7ab0e56424a25d080adb7be338ded5f54714a6af342a73b9ae22f656933a8caec1a8c2a94b073b420af797e4b215f867fc848642ad5e7
-#EXTINF:-1,Halle
+#EXTINF:0,Ξένα Γερμανόφωνα: Halle
 http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
-#EXTINF:-1,Halle (2)
+#EXTINF:0,Ξένα Γερμανόφωνα: Halle (2)
 rtmp://62.113.210.250/medienasa-live/tvhalle_high
-#EXTINF:-1,Heart TV
+#EXTINF:0,Ξένα Αγγλόφωνα: Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,HipHop Music Channel
-http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
-#EXTINF:-1,Hit Tv Music
+#EXTINF:0,Ξένα Αγγλόφωνα: Hit Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,History 2 USA
+#EXTINF:0,Ξένα Αγγλόφωνα: History 2 USA
 http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
-#EXTINF:0,HL
+#EXTINF:0,Ξένα Λοιπά: HL
 http://176.114.202.140:7781/udp/239.255.11.72:1234
-#EXTINF:-1,hr 
+#EXTINF:0,Ξένα Γερμανόφωνα: hr 
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_1628_av-p.m3u8
-#EXTINF:-1,hr
+#EXTINF:0,Ξένα Γερμανόφωνα: hr (2)
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1,hr HD
+#EXTINF:0,Ξένα Γερμανόφωνα: hr HD
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-b.m3u8
-#EXTINF:-1,hr HD
-http://api.iptv.ink/pl.m3u8?ch=92038145
 #EXTINF:0,Ξένα Αγγλόφωνα: Ireland's Country TV
 http://live-1124.la2.edge.filmon.com/live/3683.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeec5f27c2a3326b03ff24e637b0a52f99545e0cfa4a5550b8567acc25fb1722357c102cff8f4d35566641b88b7f91290c5fc922d924c741de22cc273fb46cefe7e81fa54828fc15cb13980dcebecc2e986d18b6d7ac1537ac99a8b633a16494e8ae3596fb0fc5a71022c25ddc94cacf54c884bdc52e378644b0293ef5dd990b5a57d2410b09a50bc06344dc29a2e73bcd
 #EXTINF:0,Ξένα Αγγλόφωνα: itv
