@@ -458,26 +458,24 @@ http://api.iptv.ink/pl.m3u8?ch=46301796
 rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
 #EXTINF:-1,AUSTRIA 24 TV 
 rtmp://streaming.austria24.tv/live/stream_360p
-#EXTINF:0,BBC 
+#EXTINF:0,Ξένα Αγγλόφωνα: BBC 
 http://109.172.11.85:1234/udp/224.0.42.28:5000
-#EXTINF:0,BBC One
-http://live-880.ld5.edge.filmon.com/live/14.low.stream/playlist.m3u8
-#EXTINF:0,BBC News
-http://live-997.ld5.edge.filmon.com/live/27.low.stream/playlist.m3u8
-#EXTINF:0,BBC Wales
-http://live-880.ld5.edge.filmon.com/live/3227.low.stream/playlist.m3u8
-#EXTINF:0,BBC Scotland
-http://live-1192.gv2.edge.filmon.com/live/3166.low.stream/playlist.m3u8
-#EXTINF:0,BBC Nord Ireland
-http://213.200.110.119/live/361.low.stream/playlist.m3u8
-#EXTINF:0,BBC Two
-http://live-889.ld5.edge.filmon.com/live/25.low.stream/playlist.m3u8
-#EXTINF:0,BBC Three
-http://live-889.ld5.edge.filmon.com/live/113.low.stream/playlist.m3u8
-#EXTINF:0,BBC Four
-http://live-889.ld5.edge.filmon.com/live/103.low.stream/playlist.m3u8
-#EXTINF:0,BBC Parliament
-http://live-889.ld5.edge.filmon.com/live/1666.low.stream/playlist.m3u8
+#EXTINF:0,Ξένα Αγγλόφωνα: BBC One
+http://live-889.ld5.edge.filmon.com/live/14.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe14dfacacc7c18290bf85fbd2e6fdda700cc79cdba7a626f5949b3c787093def08a883837a6b12d98f7ba4913aa894513c564986850d77e8be125757e415b044105b3497d2de4915e40b8489423d3ec9b383a99f886f5eb1c61362c5875f8214daf5ecd085657fa7fbde15ad44fb7f77679195160077795051d94a096036155cd1a449eae13ceea34e31d527ed55cebe0
+#EXTINF:0,Ξένα Αγγλόφωνα: BBC News
+http://live-997.ld5.edge.filmon.com/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe87844a2c35f4178adcbbdf1a21bcf8d0fe8b0a52dff69abbd3039f5a2bb74d64d73850155c2dedb72f098bff10078a04fe564ac3613611ba471ccf5b8d8650c512121cbfce738b5b1301420505ee28d8a3c2409be640f1350a1e5f3e92550ef825d39f94659c9d44654d8205005155e47d3a92eb6601842c33c96c20fce69214b1cb2aadcd28945961fe89900ea0165c
+#EXTINF:0,Ξένα Αγγλόφωνα: BBC 1 Wales
+http://live-880.ld5.edge.filmon.com/live/3227.low.stream/playlist.m3u8?id=0ad5aac39bb13fbece04ef9c0305d0149a2b8883d00449a1b620923fe73e3c8507c21367d972e32e543496f03b4ec85ca53ba171e575eecd6fef2ba3369663d1f7903c88c3fafeb586bbeb73f0de6c955d654915599727a8fe67baf6a05b03ae8d57efad999bcd3fe0f12a6ef1d73a1aa6ed0e366a3c4fdeab489a8cd53d856308f765e3339f918cd13aa5337ceea0b1a7c15c84aee27758
+#EXTINF:0,Ξένα Αγγλόφωνα: BBC 1 Scotland
+http://live-880.ld5.edge.filmon.com/live/3227.low.stream/playlist.m3u8?id=0ad5aac39bb13fbece04ef9c0305d0149a2b8883d00449a1b620923fe73e3c8507c21367d972e32e543496f03b4ec85ca53ba171e575eecd6fef2ba3369663d1f7903c88c3fafeb586bbeb73f0de6c955d654915599727a8fe67baf6a05b03ae8d57efad999bcd3fe0f12a6ef1d73a1aa6ed0e366a3c4fdeab489a8cd53d856308f765e3339f918cd13aa5337ceea0b1a7c15c84aee27758&time=1474003005890
+#EXTINF:0,Ξένα Αγγλόφωνα: BBC 1 Nord Ireland
+http://213.200.110.119/live/361.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed7659f020dee36617c63ea185ecf8668de8dfca7062b41f8f454e8995162ffabd3b0f675057cc28d113884ebf11d61c578ed43c4ae75206ac882e23a5f579fcece15c96bdc4749849c4003387b014a9198bb16a86487965ba031160bdc174ca12ebc135bfcd846ffe9a7846fabf5b7578fb5a06dbaa8e57bda648ebf5aa4f952be20d6c43e4d9e3f8e5b55c78e44ffb5
+#EXTINF:0,Ξένα Αγγλόφωνα: BBC Two
+http://live-889.ld5.edge.filmon.com/live/25.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5a8ae29d6a367c554cef89e37fe5133e7d97a4d468b6ec0b3b62fe920149a1c1a69651207f12dc869fc57ccade1fab4266526fde2ef975ef3c696988f948a8f3c44aad492f3193f9991646eb4350f87bf9ef22db5c9afc429f90585488f8026d7aa1fa49d8f55b67872eb8582899fa3b5ee875ec974c4e43c90143bf2badec71885615e852127ee688d55b38463551e1
+#EXTINF:0,Ξένα Αγγλόφωνα: BBC Four
+http://204.107.27.38/live/103.low.stream/playlist.m3u8
+#EXTINF:0,Ξένα Αγγλόφωνα: BBC Parliament
+http://live-889.ld5.edge.filmon.com/live/1666.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeb649433d1b26d52414d1a109feb984362ed407d3d5b756c591535177b064aad25df093a57e6e2a73f57415377e82ea135446c267be54c029701ac6afdddb9d9f973c4fd817a5292f3c9f7087f32b684786670ba14b857d8d329697ac2cc15d0253a600c63eee7443c11b9d2de691444c53c5042d33100e3c57d89dc99619014017e910e7fe4464137fc9af41a423165d
 #EXTINF:-1,BFMTV  
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 #EXTINF:-1,Bibel TV
@@ -504,8 +502,8 @@ http://api.iptv.ink/pl.m3u8?ch=91032489
 http://api.iptv.ink/pl.m3u8?ch=93405226
 #EXTINF:-1,BR alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1,Britox
-http://live-1112.la2.edge.filmon.com/live/3698.low.stream/playlist.m3u8
+#EXTINF:0,Ξένα Αγγλόφωνα: Britox
+http://live-1112.la2.edge.filmon.com/live/3698.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe428bb587d81654db1c2e0e71e71dbda3e5875dff3fc278dd736455153c454b8e1a66e49b3e814b97913b88fba383898918cea8d924a8d61ffd8260981a8c3fa951a729feaa7345cfe00ae5def5ecb643ac5e7572d6c709b80a68915a838a093d1f9686ea279feee61432e1501f72b5a8be0f4366e13395e21edc68cc50d3350d20cd03a609c3be780937e7ccf0f17199
 #EXTINF:-1,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,CAPITAL TV
@@ -516,8 +514,8 @@ http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4c
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1,Cinestream TV 
 http://68.71.42.179/live/livestream1/playlist.m3u8
-#EXTINF:-1,Channel 4
-http://live-880.ld5.edge.filmon.com/live/2.low.stream/playlist.m3u8
+#EXTINF:0,Ξένα Αγγλόφωνα: Channel 4
+http://live-880.ld5.edge.filmon.com/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe949a66a0bb685285bac594a2002d89d9a9a0629ce9019046a9795973751b276ec3c6d30e7aafee932d1241a2de3d67b0b055ae68a806b64206ebd07d97407c376fdabe2b65a6068fed5cf866ef4d3da543a3892bdafe00878d5b6a4d58b3e19ee59dbf8693ea06dd628ee5189ad9995eff31645498f539a78efb85b743c512d957301ffed5db8e1a87d1f33891992edd
 #EXTINF:-1,Clubland TV
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,CNN International
@@ -540,8 +538,12 @@ http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
 rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2
 #EXTINF:-1,DoughyGuy Broadcast System
 http://65.60.19.42:8380/;stream.nsv 
+#EXTINF:0,Ξένα Αγγλόφωνα: Dr. Fab Show
+http://live-1264.la2.edge.filmon.com/live/4100.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe93abd4ec72b1bf67f1f185bcf32a518613d1aa9b930dc8a27585b052f66c9fe73b4626c4f396fcd515d5f3a0aaf7979a5f827e5304209b531384132b25be07ce97e5c3e993beeb00df36762b523ba5f7bfcee9d871d4baff0974f86375f009075f6fffaa95769f1e1e0d760fddb19cd71b8f2f4280ff5df2fba7e6be826145d83b69e17b152c934b453618ec1e87e558
 #EXTINF:-1,Dresden Fernsehen 
 rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+#EXTINF:0,Ξένα Αγγλόφωνα: E4
+http://live-1180.gv2.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe39d38f8928d6627ce51fe0d842aeb6ca42756614d642f40c83ebcb78384b00c4e6645246e1268ce2f7a2dcba7e04066faf5055c57344d8521d955901208b0daa81688c370b65bf738083ad0661805e7bd126a514703ec3213b680d6a19d7a7d7a20c6cc53181a9f74a0aae3c6b03088864823889d423f13a5a7ba755743928dda414254132e995a4461e8d3db2f85664
 #EXTINF:-1,ELBE KANAL 
 rtmp://62.113.210.250/medienasa-live/elbe_higho
 #EXTINF:0,Eins Festival
@@ -586,24 +588,26 @@ http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-b.m3u8
 #EXTINF:-1,hr HD
 http://api.iptv.ink/pl.m3u8?ch=92038145
-#EXTINF:-1,itv
-http://live-1141.fra.edge.filmon.com/live/11.low.stream/playlist.m3u8
-#EXTINF:-1,itv+1
-http://live-997.ld5.edge.filmon.com/live/1817.low.stream/playlist.m3u8
-#EXTINF:-1,itv2
-http://live-1141.fra.edge.filmon.com/live/67.low.stream/playlist.m3u8
-#EXTINF:-1,itv2+1
-http://live-997.ld5.edge.filmon.com/live/1820.low.stream/playlist.m3u8
-#EXTINF:-1,itv3
-http://live-880.ld5.edge.filmon.com/live/26.low.stream/playlist.m3u8
-#EXTINF:-1,itv3+1
-http://live-997.ld5.edge.filmon.com/live/1823.low.stream/playlist.m3u8
-#EXTINF:-1,itv4
-http://live-1141.fra.edge.filmon.com/live/101.low.stream/playlist.m3u8
-#EXTINF:-1,itv4+1
-http://live-997.ld5.edge.filmon.com/live/1826.low.stream/playlist.m3u8
-#EXTINF:-1,itv BE
-http://live-823.gv2.edge.filmon.com/live/3211.low.stream/playlist.m3u8
+#EXTINF:0,Ξένα Αγγλόφωνα: Ireland's Country TV
+http://live-1124.la2.edge.filmon.com/live/3683.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeec5f27c2a3326b03ff24e637b0a52f99545e0cfa4a5550b8567acc25fb1722357c102cff8f4d35566641b88b7f91290c5fc922d924c741de22cc273fb46cefe7e81fa54828fc15cb13980dcebecc2e986d18b6d7ac1537ac99a8b633a16494e8ae3596fb0fc5a71022c25ddc94cacf54c884bdc52e378644b0293ef5dd990b5a57d2410b09a50bc06344dc29a2e73bcd
+#EXTINF:0,Ξένα Αγγλόφωνα: itv
+http://live-1141.fra.edge.filmon.com/live/11.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee52812edb67287f531d5118a19c79df3d93a2a42eb521a4d58c33b73893cb51f136a7cbb82085f0557cdc403eb045f9a5dc7a2bd3e653bf0722a43dc7efa7ac8c17235539ece867794b8ebec86b15e604b6c49dcb2946fbbaee4b84d308095ce074ff94c2247aa07afb9454b613eea19f1007653e6ab9424e73a2127e83bbe2707b461b482f185d0c00dd45b923d16a6
+#EXTINF:0,Ξένα Αγγλόφωνα: itv+1
+http://live-997.ld5.edge.filmon.com/live/1817.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea57988d3b17a4df0dac40d06809905d848ebd5d9f7f560d6cebac44c9ddf4d6547363a771a5a0ca58f31bf424018e2093e5c7485f9bf60c6f348160e852b124c6bd2266c900b61d46d9cacfcc3cd1124d231a31c6e07edfc331fe68600c15a5379a525373933e5415991ff0b877f8999f4a2e8a7ce7e9ee990c008ffeca0e0cc72bcbc624123cbf02168690074d43984
+#EXTINF:0,Ξένα Αγγλόφωνα: itv2
+http://live-1141.fra.edge.filmon.com/live/67.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe07a4b7be5ec50367b5aaa542c9243b0f2cc00da0dab018ab1addcca8c0eada31ad16a60efd8893f0f00d20a9e7850a2267640f51647d1fd1a02ab63a7c07b7af2d7808d915cddc9228b628219b46affa76dc7f71d0ea1dc3b81af82131a7242d13e434f021e78b61abbde0c8363dcc35fb9e9411f5a0a94c8613999097f690e423e6361d8f6897d097cf46ddd98c568f
+#EXTINF:0,Ξένα Αγγλόφωνα: itv2+1
+http://live-997.ld5.edge.filmon.com/live/1820.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee5b3c40499675d7e58d919cb871f47ff97f3907ffe816d95ad07357acc6f35e947cdf44473211005be648bedcf37de8ccbef5203e9feeb9e8763ca195a6e33576e08aabeb6b46c4b1ab6d3447dbff412aab5f1119b555799b6afcbd79f48109a9950389d2c6ebb3b400ee5c2afde75315acd6a31d4c0e87fa008adf29371653c2d130a86f69cbe550d5ea199080b0ed6
+#EXTINF:0,Ξένα Αγγλόφωνα: itv3
+http://live-1141.fra.edge.filmon.com/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe78d485d1825f0725bf243c6bf5188437d700699d196db31fae7e57c8b0e5555e4bb4402654168d86e2a989964f027f4abcc6ac25d2874357ad593dd04866aeecff7dce85b37eebb1b390fa033d4d878aa139368820f45c64c007f51c61e32dad30f5147601da95efccdedab7fe7d5aca599111eb4d13836b7e2956ffeefa4fd9747d08527737693c8c7db2c226cc17d0
+#EXTINF:0,Ξένα Αγγλόφωνα: itv3+1
+http://live-1141.fra.edge.filmon.com/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe78d485d1825f0725bf243c6bf5188437d700699d196db31fae7e57c8b0e5555e4bb4402654168d86e2a989964f027f4abcc6ac25d2874357ad593dd04866aeecff7dce85b37eebb1b390fa033d4d878aa139368820f45c64c007f51c61e32dad30f5147601da95efccdedab7fe7d5aca599111eb4d13836b7e2956ffeefa4fd9747d08527737693c8c7db2c226cc17d0
+#EXTINF:0,Ξένα Αγγλόφωνα: itv4
+http://live-880.ld5.edge.filmon.com/live/101.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe089043a00e6f81abf80d2a192e5c515d8d96c5f3068260ff70cb1387030fbc555e5ef483c09d4525c44abb4d9305985d4bcef23cda94adf0221bec604e6f1d469bf9bb2efb7e158af257e147fb4b8047726bf2d8c389398be15baf0a47ed78c0ab2a9b6c107f348574d566525a5699a1e771bbe23bb08fe334a7df838408802dc26c7063f2ebfef319e44a0656136767
+#EXTINF:0,Ξένα Αγγλόφωνα: itv4+1
+http://live-997.ld5.edge.filmon.com/live/1826.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef71cc7753d49557d195355d25b866023552343f9a5e208a43b50ad3dee2495ac589162cf430f91bcd6c8adb9acd9cbd8f79accd3bd32c4169a123d6e5bb40888e95f151e0d32cbb19c50a2a122d4e6215df35a9d9109eda3ec01499132608997ae54f668f2054cfa726250a4b4c624455f0f0eee86ddd054c1edebfe3be82dca9c6c8206726cd53873f5e09b3bac56fd
+#EXTINF:0,Ξένα Αγγλόφωνα: itv BE
+http://live-823.gv2.edge.filmon.com/live/3211.low.stream/playlist.m3u8?id=0ad5aac39bb13fbedaba9de8b0f6f54476564954b11ba954e6d4e7b8b35eac5035885be434b85badc64c93bc347da5c9192a984f70d26036d9264ba9072a383ffdee660f9b161c328913941184dfba3571e5309e3387291adfefe2e5556d0ddb46fc6ec49d2a793258ee3df85e8fec06117325a87eab50d69ad12a50741d9596de04314c389ef45543931005f3140e9c0422fee22660a638
 #EXTINF:-1,JOIZ DE
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
 #EXTINF:-1,JOIZ DE HD
@@ -628,6 +632,8 @@ http://api.iptv.ink/pl.m3u8?ch=43846332
 http://api.iptv.ink/pl.m3u8?ch=62127479
 #EXTINF:-1,MELODIE TV
 http://83.169.58.40:1935/live/_definst_/Melodie/playlist.m3u8
+#EXTINF:0,Ξένα Αγγλόφωνα: My face my body
+http://live-1264.la2.edge.filmon.com/live/4154.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8d5b2bc358f874e7c741c424e8bc418e75bfee959f26f4370ea0be4be2c62ecc8f72bf7e71b10fb2872092766683790e7c976ca3c42e90f8226a781a65e4065c4c30a3f36ebfd8fc7d4cd566cc82034eab35cd5acd5a5705d56cd4fd968dddd437bafb4a585374fde3af440b7da17709b09ac3bcf628dc79118d7c2e1711f4525fcf5d4d02f4d9562b6f162e02cedc3e
 #EXTINF:-1,MUNCHEN TV 
 rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
 #EXTINF:-1,N24
@@ -690,8 +696,8 @@ http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
 #EXTINF:-1,RBB
 http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8?bkup=off&amp;__b__=875
-#EXTINF:-1,:Reality TV
-http://live-1192.gv2.edge.filmon.com/live/2798.low.stream/playlist.m3u8
+#EXTINF:0,Ξένα Αγγλόφωνα: Reality TV
+http://live-1192.gv2.edge.filmon.com/live/2798.low.stream/playlist.m3u8?id=0ad5aac39bb13fbedcddab78209e590337a4476c855354011936224a172a4754b159c5fd2fc1e875911d46f28764b2cb905075a742c9b169335f367de79c0a207495163b821981b04b26db85b1bab5702d9913e5a4055002e17861380deb54c743fade5d2d742b858023c07d0d9ebb462c616febeff4b5e6cd76475693da3b31b8bda3795ad159d550a232ad984f7b330b542a3229c6650f
 #EXTINF:-1,RBW 
 rtmp://62.113.210.250/medienasa-live/rbw_high
 #EXTINF:-1,RMC1
@@ -750,6 +756,8 @@ http://109.172.11.85:1234/udp/224.0.42.26:5000
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 #EXTINF:-1,Tv Touring 
 http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
+#EXTINF:0,Ξένα Αγγλόφωνα: V Channel
+http://live-1183.gv2.edge.filmon.com/live/4307.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeba9f2ec63f345ce8755c39572b7ed66b156f1e66580905637ba83f51d2aa4f6d54bd1e4124ce7d8432cdbfcb830539f5ce32efb9c0a21c5774624cb5232a7519dc603e463f42c82d0b657ea950530fadef8201e2a364cc302d60af1693ef3ee44952fbeded9ce68bb97fc47fb9f638810a05d53e431cbfeeac6b8d1c5b3ee2fc3aaed856def9c36c351e93bbf0879060
 #EXTINF:0,VH1 classic
 http://81.201.52.159:8024
 #EXTINF:-1,VirginTV Radio
