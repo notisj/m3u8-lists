@@ -484,13 +484,13 @@ http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: Britox
 http://live-1112.la2.edge.filmon.com/live/3698.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe428bb587d81654db1c2e0e71e71dbda3e5875dff3fc278dd736455153c454b8e1a66e49b3e814b97913b88fba383898918cea8d924a8d61ffd8260981a8c3fa951a729feaa7345cfe00ae5def5ecb643ac5e7572d6c709b80a68915a838a093d1f9686ea279feee61432e1501f72b5a8be0f4366e13395e21edc68cc50d3350d20cd03a609c3be780937e7ccf0f17199
-#EXTINF:-1,CAPITAL TV
+#EXTINF:0,Ξένα Αγγλόφωνα: Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,CAPITAL TV
+#EXTINF:0,Ξένα Αγγλόφωνα: Capital TV (2)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,CBS NEWS
+#EXTINF:0,Ξένα Αγγλόφωνα: CBS NEWS
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
-#EXTINF:-1,CBS NEWS
+#EXTINF:0,Ξένα Αγγλόφωνα: CBS NEWS (2)
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:0,Ξένα Αγγλόφωνα: CBS Reality
 http://live-997.ld5.edge.filmon.com/live/1808.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5c2c0a0795a821ac42a9df1d9067e7c96d026fda041b1fdbbfa4bf83e87de5e9d5eb56406d802ea13670bc02d0c31fa9f29e8d24f682d55aaedbc447bee6c66e9724d47f6ec7b089099a1e105612482af56b668a017020694270ab09d7dbea4412e6403adeafe7ded915faafe1fa4087c1671adff82007bdd6c36734fdfc6d76261d6a496ad65b3a9409c53a96bba956
@@ -500,31 +500,33 @@ http://live-997.ld5.edge.filmon.com/live/1811.low.stream/playlist.m3u8?id=0ad5aa
 http://live-997.ld5.edge.filmon.com/live/1805.low.stream/playlist.m3u8?id=0ad5aac39bb13fbecec53eea5a66f04badda7ae6110a5482c048af486f68f89ba656fdb3a41c9d8f7431074114db786dcb9061181e0607851bef8fb2c79750e2e34c730fa2a9bea4ad5da607c28fc0c7bb8589093a42240b9c20abb18d240bf03e67fb2fb1eec79152848c776c61783a8eaf3650c6c8be277aae9aa324a5858d17a38fee15bb25c3cf7a6d4dabd7f923a7dc71393804d0d5
 #EXTINF:0,Ξένα Αγγλόφωνα: CBS Action
 http://live-997.ld5.edge.filmon.com/live/1952.low.stream/playlist.m3u8?id=0ad5aac39bb13fbefc2b4f33b23983940413103db3abb48651d96e75942faccfe72da48131d1d8c191ca4223d96a41f1409952ab811dc02b07aee4f342b84f432a7b78ea3f4c1840f6db4566aaa01162f6ba2c48c5e947d582f389557671c270404e4c24b4f0eb9e69dd68f78009a70b22916324027a5ec7ca7d5056f748e8c9bcc5f9bd61b6658e098d703f88d55cac267862baed7cce1b
-#EXTINF:-1,Cinestream TV 
+#EXTINF:0,Ξένα Αγγλόφωνα: Cinestream TV 
 http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: Channel 4
 http://live-880.ld5.edge.filmon.com/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe949a66a0bb685285bac594a2002d89d9a9a0629ce9019046a9795973751b276ec3c6d30e7aafee932d1241a2de3d67b0b055ae68a806b64206ebd07d97407c376fdabe2b65a6068fed5cf866ef4d3da543a3892bdafe00878d5b6a4d58b3e19ee59dbf8693ea06dd628ee5189ad9995eff31645498f539a78efb85b743c512d957301ffed5db8e1a87d1f33891992edd
 #EXTINF:0,Ξένα Αγγλόφωνα: Channel 5
 http://live-1141.fra.edge.filmon.com/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5c9631d1fd5260f8dd0fe3b49d60edb3ed7e9e7fb677d033282bd3f209211feda8fd0dcb56bf06ddc9b26656e45516b2e1487704e34cd9dabc379854e1542c71598be684d00ef66c82fbe05b77f76f0d8c41b90fa8e111ea2c50aa6461df5c419849e0f2312730b9e479c1a2587ae5a7fceb791b1545b4240b43bea30fe86f2bfd88ed530b2857ee6b1b261bebd0c960
-#EXTINF:-1,Clubland TV
+#EXTINF:0,Ξένα Αγγλόφωνα: Clubland TV
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,CNN International
+#EXTINF:0,Ξένα Αγγλόφωνα: CNN International
 http://149.255.152.110/cnn/index.m3u8
-#EXTINF:-1,DAF
+#EXTINF:0,Ξένα Γερμανόφωνα: DAF
 http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
-#EXTINF:0,Dange TV
-http://109.172.11.85:1234/udp/224.0.42.110:5000
-#EXTINF:-1,DAS NEUE TV 
-rtmp://83.169.58.36/live/DasneueTV
-#EXTINF:0,Das Erste
-http://api.iptv.ink/pl.m3u8?ch=71565725
-#EXTINF:-1,DELUXE MUSIC
+#EXTINF:0,Ξένα Γερμανόφωνα: Das Erste
+http://live-lh.daserste.de/i/daserste_de@91204/index_184_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Ξένα Γερμανόφωνα: Das Erste (2)
+http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Ξένα Γερμανόφωνα: Deluxe Music
 http://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850.stream/playlist.m3u8
-#EXTINF:0,Deutsche Welle
-http://109.172.11.85:1234/udp/224.0.42.100:5000
-#EXTINF:0,Deutsche Welle
+#EXTINF:0,Ξένα Αγγλόφωνα: Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0,Ξένα Αγγλόφωνα: Deutsche Welle (USA)
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0,Ξένα Γερμανόφωνα: Deutsche Welle (DE)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:0,Ξένα Γερμανόφωνα: Deutsche Welle
 http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
-#EXTINF:-1,Donau TV 
+#EXTINF:0,Ξένα Γερμανόφωνα: Donau TV 
 rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2
 #EXTINF:-1,DoughyGuy Broadcast System
 http://65.60.19.42:8380/;stream.nsv 
