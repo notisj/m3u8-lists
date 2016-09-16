@@ -596,82 +596,60 @@ http://live-880.ld5.edge.filmon.com/live/101.low.stream/playlist.m3u8?id=0ad5aac
 http://live-997.ld5.edge.filmon.com/live/1826.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef71cc7753d49557d195355d25b866023552343f9a5e208a43b50ad3dee2495ac589162cf430f91bcd6c8adb9acd9cbd8f79accd3bd32c4169a123d6e5bb40888e95f151e0d32cbb19c50a2a122d4e6215df35a9d9109eda3ec01499132608997ae54f668f2054cfa726250a4b4c624455f0f0eee86ddd054c1edebfe3be82dca9c6c8206726cd53873f5e09b3bac56fd
 #EXTINF:0,Ξένα Αγγλόφωνα: itv BE
 http://live-823.gv2.edge.filmon.com/live/3211.low.stream/playlist.m3u8?id=0ad5aac39bb13fbedaba9de8b0f6f54476564954b11ba954e6d4e7b8b35eac5035885be434b85badc64c93bc347da5c9192a984f70d26036d9264ba9072a383ffdee660f9b161c328913941184dfba3571e5309e3387291adfefe2e5556d0ddb46fc6ec49d2a793258ee3df85e8fec06117325a87eab50d69ad12a50741d9596de04314c389ef45543931005f3140e9c0422fee22660a638
-#EXTINF:-1,JOIZ DE
+#EXTINF:0,Ξένα Γερμανόφωνα: JOIZ
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
-#EXTINF:-1,JOIZ DE HD
+#EXTINF:0,Ξένα Γερμανόφωνα: JOIZ HD
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8
-#EXTINF:-1,JOIZ DE HD
-http://api.iptv.ink/pl.m3u8?ch=76444512
-#EXTINF:-1,KTVU - fox2
+#EXTINF:0,Ξένα Αγγλόφωνα: KTVU - fox2
 http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
-#EXTINF:-1,Lifestyle
+#EXTINF:0,Ξένα Γερμανόφωνα: Lifestyle
 rtmp://stream1.lifestyletv.se/live/livestream1
-#EXTINF:-1,Light Channel TV Deutschland
+#EXTINF:0,Ξένα Γερμανόφωνα: Light Channel TV Deutschland
 rtmp://streamer1.streamhost.org/salive//lctvde
-#EXTINF:-1,LT - TV Baden Wuerttemberg
-rtmp://62.113.210.105/ltv-live/livestream
-#EXTINF:-1,MDR
+#EXTINF:0,Ξένα Γερμανόφωνα: MDR
 http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
-#EXTINF:-1,MDR Sachsenanhalt
-http://api.iptv.ink/pl.m3u8?ch=19246790
-#EXTINF:-1,MDR Sachsen
-http://api.iptv.ink/pl.m3u8?ch=43846332
-#EXTINF:-1,MDR Thüringen
-http://api.iptv.ink/pl.m3u8?ch=62127479
-#EXTINF:-1,MELODIE TV
+#EXTINF:0,Ξένα Γερμανόφωνα: Melodie TV
 http://83.169.58.40:1935/live/_definst_/Melodie/playlist.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: More4
 http://live-1180.gv2.edge.filmon.com/live/97.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe40fc15999c9342493d9633bc726d2c35e56ea2f8aa3fd3ad81c01b1b09a45e1a4283e00333aef58e620b348e0ca57fc7ce15788d994b03ccc5f06781407a7166348dfa6b1e823e299d797c8763188f1dd9e6defc3676de5b8193dfae280368d84ac60a05d4ed7ce4530919a0470afbd26a0e421b07f9a19278247f6abd90d69bdb5a81963a6c8e57f30d40e371739935
-#EXTINF:-1,MUNCHEN TV 
+#EXTINF:0,Ξένα Γερμανόφωνα: Munchen TV 
 rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
 #EXTINF:0,Ξένα Αγγλόφωνα: My face my body
 http://live-1264.la2.edge.filmon.com/live/4154.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8d5b2bc358f874e7c741c424e8bc418e75bfee959f26f4370ea0be4be2c62ecc8f72bf7e71b10fb2872092766683790e7c976ca3c42e90f8226a781a65e4065c4c30a3f36ebfd8fc7d4cd566cc82034eab35cd5acd5a5705d56cd4fd968dddd437bafb4a585374fde3af440b7da17709b09ac3bcf628dc79118d7c2e1711f4525fcf5d4d02f4d9562b6f162e02cedc3e
-#EXTINF:-1,N24
+#EXTINF:0,Ξένα Γερμανόφωνα: N24
 http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
-#EXTINF:-1,N24 (2)
+#EXTINF:0,Ξένα Γερμανόφωνα: N24 (2)
 http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
-#EXTINF:-1, NASA TV
+#EXTINF:0,Ξένα Αγγλόφωνα: NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:-1, NASA Space Station 1
+#EXTINF:0,Ξένα Αγγλόφωνα: NASA Space Station 1
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,NDR HD
+#EXTINF:0,Ξένα Γερμανόφωνα: NDR HD
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
-#EXTINF:-1,NDR HD
+#EXTINF:0,Ξένα Γερμανόφωνα: NDR HD (2)
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
-#EXTINF:-1,NDR Hamburg HD
-http://api.iptv.ink/pl.m3u8?ch=97998370
-#EXTINF:-1,NDR Meck.-Vorp. HD
-http://api.iptv.ink/pl.m3u8?ch=37960481
-#EXTINF:-1,NDR Niedersachsen HD
-http://api.iptv.ink/pl.m3u8?ch=66725953
-#EXTINF:-1,NDR Schleswig-Hol. HD
-http://api.iptv.ink/pl.m3u8?ch=68869115
-#EXTINF:-1,NRW
+#EXTINF:0,Ξένα Γερμανόφωνα: NRW
 rtmp://streaming001.broadcast.tneg.de/nrwtv/nrwtv.stream
-#EXTINF:-1,NRW
+#EXTINF:0,Ξένα Γερμανόφωνα: NRW (2)
 http://streaming001.broadcast.tneg.de:1935/nrwtv/_definst_/nrwtv.stream/playlist.m3u8
-#EXTINF:-1,OK Dessau 
+#EXTINF:0,Ξένα Γερμανόφωνα: OK Dessau 
 rtmp://62.113.210.250/medienasa-live/ok-dessau_high
-#EXTINF:-1,OK MAGDEBURG  720*576
+#EXTINF:0,Ξένα Γερμανόφωνα: OK Magdeburg  
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/HasBahCa.m3u8?bitrate=800
-#EXTINF:-1,OK Magdeburg 
+#EXTINF:0,Ξένα Γερμανόφωνα: OK Magdeburg (2)
 rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
-#EXTINF:-1,OK SALZWEDEL   720*576
+#EXTINF:0,Ξένα Γερμανόφωνα: OK Salzwedel
 http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
-#EXTINF:-1,OK Stendal 
+#EXTINF:0,Ξένα Γερμανόφωνα: OK Stendal 
 rtmp://62.113.210.250/medienasa-live/ok-stendal_high
-#EXTINF:-1,OK Wernigerode 
+#EXTINF:0,Ξένα Γερμανόφωνα: OK Wernigerode 
 rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
-#EXTINF:-1,ORF 2
-http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1,ORF EINS
-http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1,ORF III
-http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1,ORF III
-http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1,ORF SPORT + (Austria)
-http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+#EXTINF:0,Ξένα Γερμανόφωνα: ORF EINS
+rtmp://185.85.29.16/orf1/q4a.sdp
+#EXTINF:0,Ξένα Γερμανόφωνα: ORF 2
+rtmp://185.85.29.16/orf2/q4a.sdp
+#EXTINF:0,Ξένα Γερμανόφωνα: ORF III
+rtmp://185.85.29.16/orf3/q4a.sdp
 #EXTINF:0,Ξένα Αγγλόφωνα: Pick TV
 http://live-823.gv2.edge.filmon.com/live/371.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef14d6e2c6822dfaf2258be59c440d0fe5d19a6538f85422a8b27ceed8e5fde97a711e2eec67db9ceeee47192c0c9d39c33e7fe80bfef41c23c61c0e9fd770746173235b706aab939cb13a49d53bfa8b35b0a7f21257b91522dbca6fe43c02ee12dea5b2325f8dcc65913e6aa4d42064a5593b3220517281c1e5ab48990efad2bbdcdaa75bbf02c96512beca9da511008
 #EXTINF:-1,Phoenix
