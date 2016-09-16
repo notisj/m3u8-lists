@@ -448,8 +448,6 @@ http://artelive-lh.akamaihd.net/i/artelive_de@393591/index_5_av-p.m3u8?sd=10&reb
 rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
 #EXTINF:0,Ξένα Γερμανόφωνα: Austria 24 TV
 rtmp://streaming.austria24.tv/live/stream_360p
-#EXTINF:0,Ξένα Αγγλόφωνα: BBC 
-http://109.172.11.85:1234/udp/224.0.42.28:5000
 #EXTINF:0,Ξένα Αγγλόφωνα: BBC One
 http://live-889.ld5.edge.filmon.com/live/14.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe14dfacacc7c18290bf85fbd2e6fdda700cc79cdba7a626f5949b3c787093def08a883837a6b12d98f7ba4913aa894513c564986850d77e8be125757e415b044105b3497d2de4915e40b8489423d3ec9b383a99f886f5eb1c61362c5875f8214daf5ecd085657fa7fbde15ad44fb7f77679195160077795051d94a096036155cd1a449eae13ceea34e31d527ed55cebe0
 #EXTINF:0,Ξένα Αγγλόφωνα: BBC News
@@ -466,31 +464,23 @@ http://live-889.ld5.edge.filmon.com/live/25.low.stream/playlist.m3u8?id=0ad5aac3
 http://204.107.27.38/live/103.low.stream/playlist.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: BBC Parliament
 http://live-889.ld5.edge.filmon.com/live/1666.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeb649433d1b26d52414d1a109feb984362ed407d3d5b756c591535177b064aad25df093a57e6e2a73f57415377e82ea135446c267be54c029701ac6afdddb9d9f973c4fd817a5292f3c9f7087f32b684786670ba14b857d8d329697ac2cc15d0253a600c63eee7443c11b9d2de691444c53c5042d33100e3c57d89dc99619014017e910e7fe4464137fc9af41a423165d
-#EXTINF:-1,BFMTV  
+#EXTINF:0,Ξένα Λοιπά: BFMTV  
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
-#EXTINF:-1,Bibel TV
-http://api.iptv.ink/pl.m3u8?ch=40925356
-#EXTINF:0,Bloomberg TV
+#EXTINF:0,Ξένα Αγγλόφωνα: Bloomberg TV
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
-#EXTINF:0,BLOOMBERG (USA)
+#EXTINF:0,Ξένα Αγγλόφωνα: BLOOMBERG (USA)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0,BLOOMBERG (USA) HD
+#EXTINF:0,Ξένα Αγγλόφωνα: BLOOMBERG (USA) HD
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
-#EXTINF:0,BLOOMBERG TV
+#EXTINF:0,Ξένα Αγγλόφωνα: BLOOMBERG TV
 http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M24K.m3u8
-#EXTINF:-1,blizz TV HD
-http://91.250.73.118:1935/live/_definst_/DasneueTV/playlist.m3u8
-#EXTINF:-1,blizz TV HD (2)
-http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
-#EXTINF:-1,BLK Regional TV Burgenlandkreis 
+#EXTINF:0,Ξένα Γερμανόφωνα: blizz TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5726-mbr.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Ξένα Γερμανόφωνα: BLK Regional TV Burgenlandkreis 
 rtmp://62.113.210.250/medienasa-live//BLKonline_high
-#EXTINF:-1,BR
+#EXTINF:0,Ξένα Γερμανόφωνα: BR
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1,BR Nord HD
-http://api.iptv.ink/pl.m3u8?ch=91032489
-#EXTINF:-1,BR Süd HD
-http://api.iptv.ink/pl.m3u8?ch=93405226
-#EXTINF:-1,BR alpha
+#EXTINF:0,Ξένα Γερμανόφωνα: BR alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: Britox
 http://live-1112.la2.edge.filmon.com/live/3698.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe428bb587d81654db1c2e0e71e71dbda3e5875dff3fc278dd736455153c454b8e1a66e49b3e814b97913b88fba383898918cea8d924a8d61ffd8260981a8c3fa951a729feaa7345cfe00ae5def5ecb643ac5e7572d6c709b80a68915a838a093d1f9686ea279feee61432e1501f72b5a8be0f4366e13395e21edc68cc50d3350d20cd03a609c3be780937e7ccf0f17199
