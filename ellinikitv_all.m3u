@@ -811,17 +811,15 @@ http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 #EXTINF:0,Wild Toons (classics)
 mmsh://72.13.93.186/3stooges?MSWMExt=.asf
-#EXTINF:0,KIKA
+#EXTINF:0,Παιδικά: KIKA
 http://live-1183.gv2.edge.filmon.com/live/2756.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3fb5f29eb31147e0f1174851a5f5109b693a74ec955749b3cea2a83c8475c1c8765eed0ae33246ac0d1634f56cc974700154545e6a9a83a722e7ebedc5a4b68ea00690c0118d36be963820b0e0770cf86a7cef6ecbc47f9976de5256957841cda32704f9d256e9243dbe374ab5716fcee5a7a4b990d0b4b0bb58aaedea814da44b90d25d82516dc0c3a4ac6aa9fcc382
-#EXTINF:0,KIKA
+#EXTINF:0,Παιδικά: KIKA
 http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
-#EXTINF:0,KIKA
-http://live-1183.gv2.edge.filmon.com/live/2756.low.stream/playlist.m3u8
-#EXTINF:0,KIKA HD
-http://api.iptv.ink/pl.m3u8?ch=14807581
-#EXTINF:0,RiC
+#EXTINF:0,Παιδικά: KIKA *
+http://livegeo.kika.de/z/livetvkika_de@75114/manifest.f4m?g=NKSLXPIOGHIN&hdcore=3.3.0&plugin=aasp-3.3.0.99.43
+#EXTINF:0,Παιδικά: RiC
 http://80.237.191.228:1935/live/_definst_/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
-#EXTINF:0,RiC
+#EXTINF:0,Παιδικά: RiC
 http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/HasBahCa.m3u8
 
 #EXTINF:0,Music: DJing Ibiza Live
