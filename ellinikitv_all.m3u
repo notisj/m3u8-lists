@@ -504,6 +504,8 @@ http://live-997.ld5.edge.filmon.com/live/1811.low.stream/playlist.m3u8?id=0ad5aa
 http://live-997.ld5.edge.filmon.com/live/1805.low.stream/playlist.m3u8?id=0ad5aac39bb13fbecec53eea5a66f04badda7ae6110a5482c048af486f68f89ba656fdb3a41c9d8f7431074114db786dcb9061181e0607851bef8fb2c79750e2e34c730fa2a9bea4ad5da607c28fc0c7bb8589093a42240b9c20abb18d240bf03e67fb2fb1eec79152848c776c61783a8eaf3650c6c8be277aae9aa324a5858d17a38fee15bb25c3cf7a6d4dabd7f923a7dc71393804d0d5
 #EXTINF:0,Ξένα Αγγλόφωνα: CBS Action
 http://live-997.ld5.edge.filmon.com/live/1952.low.stream/playlist.m3u8?id=0ad5aac39bb13fbefc2b4f33b23983940413103db3abb48651d96e75942faccfe72da48131d1d8c191ca4223d96a41f1409952ab811dc02b07aee4f342b84f432a7b78ea3f4c1840f6db4566aaa01162f6ba2c48c5e947d582f389557671c270404e4c24b4f0eb9e69dd68f78009a70b22916324027a5ec7ca7d5056f748e8c9bcc5f9bd61b6658e098d703f88d55cac267862baed7cce1b
+#EXTINF:0,Ξένα Γερμανόφωνα: Center TV Duesseldorf 
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8 
 #EXTINF:0,Ξένα Αγγλόφωνα: Cinestream TV 
 http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: Channel 4
@@ -532,10 +534,14 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
 #EXTINF:0,Ξένα Γερμανόφωνα: Donau TV 
 rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2
+#EXTINF:0,Ξένα Γερμανόφωνα: Donau TV 
+rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1
 #EXTINF:0,Ξένα Αγγλόφωνα: Dr. Fab Show
 http://live-1264.la2.edge.filmon.com/live/4100.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe93abd4ec72b1bf67f1f185bcf32a518613d1aa9b930dc8a27585b052f66c9fe73b4626c4f396fcd515d5f3a0aaf7979a5f827e5304209b531384132b25be07ce97e5c3e993beeb00df36762b523ba5f7bfcee9d871d4baff0974f86375f009075f6fffaa95769f1e1e0d760fddb19cd71b8f2f4280ff5df2fba7e6be826145d83b69e17b152c934b453618ec1e87e558
 #EXTINF:0,Ξένα Γερμανόφωνα: Dresden Fernsehen 
 rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+#EXTINF:0,Ξένα Γερμανόφωνα: Dresden Fernsehen 
+rtmp://video07.kanal8.de/dresdenfernsehenlive
 #EXTINF:0,Ξένα Αγγλόφωνα: E4
 http://live-1180.gv2.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe39d38f8928d6627ce51fe0d842aeb6ca42756614d642f40c83ebcb78384b00c4e6645246e1268ce2f7a2dcba7e04066faf5055c57344d8521d955901208b0daa81688c370b65bf738083ad0661805e7bd126a514703ec3213b680d6a19d7a7d7a20c6cc53181a9f74a0aae3c6b03088864823889d423f13a5a7ba755743928dda414254132e995a4461e8d3db2f85664
 #EXTINF:0,Ξένα Γερμανόφωνα: Elbe Kanal
@@ -580,6 +586,8 @@ http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_1628_av-p.m3u8
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:0,Ξένα Γερμανόφωνα: hr HD
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-b.m3u8
+#EXTINF:0,Ξένα Γερμανόφωνα: Ingolstadt tv
+http://ingolstadttv.iptv-playoutcenter.de:1935/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: Ireland's Country TV
 http://live-1124.la2.edge.filmon.com/live/3683.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeec5f27c2a3326b03ff24e637b0a52f99545e0cfa4a5550b8567acc25fb1722357c102cff8f4d35566641b88b7f91290c5fc922d924c741de22cc273fb46cefe7e81fa54828fc15cb13980dcebecc2e986d18b6d7ac1537ac99a8b633a16494e8ae3596fb0fc5a71022c25ddc94cacf54c884bdc52e378644b0293ef5dd990b5a57d2410b09a50bc06344dc29a2e73bcd
 #EXTINF:0,Ξένα Αγγλόφωνα: itv
@@ -618,6 +626,8 @@ http://83.169.58.40:1935/live/_definst_/Melodie/playlist.m3u8
 http://live-1180.gv2.edge.filmon.com/live/97.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe40fc15999c9342493d9633bc726d2c35e56ea2f8aa3fd3ad81c01b1b09a45e1a4283e00333aef58e620b348e0ca57fc7ce15788d994b03ccc5f06781407a7166348dfa6b1e823e299d797c8763188f1dd9e6defc3676de5b8193dfae280368d84ac60a05d4ed7ce4530919a0470afbd26a0e421b07f9a19278247f6abd90d69bdb5a81963a6c8e57f30d40e371739935
 #EXTINF:0,Ξένα Γερμανόφωνα: Munchen TV 
 rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
+#EXTINF:0,Ξένα Γερμανόφωνα: Munchen TV 
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: My face my body
 http://live-1264.la2.edge.filmon.com/live/4154.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8d5b2bc358f874e7c741c424e8bc418e75bfee959f26f4370ea0be4be2c62ecc8f72bf7e71b10fb2872092766683790e7c976ca3c42e90f8226a781a65e4065c4c30a3f36ebfd8fc7d4cd566cc82034eab35cd5acd5a5705d56cd4fd968dddd437bafb4a585374fde3af440b7da17709b09ac3bcf628dc79118d7c2e1711f4525fcf5d4d02f4d9562b6f162e02cedc3e
 #EXTINF:0,Ξένα Γερμανόφωνα: N24
@@ -632,6 +642,8 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
 #EXTINF:0,Ξένα Γερμανόφωνα: NDR HD (2)
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
+#EXTINF:0,Ξένα Γερμανόφωνα: Noa
+rtmp://x2908erfeic14000.f.l.f.lb.core-cdn.net/14000erf/live/2908erfeins/live_de_1500
 #EXTINF:0,Ξένα Γερμανόφωνα: NRW
 rtmp://streaming001.broadcast.tneg.de/nrwtv/nrwtv.stream
 #EXTINF:0,Ξένα Γερμανόφωνα: NRW (2)
@@ -700,8 +712,6 @@ http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&r
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Servus TV HD
 http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
-#EXTINF:-1,Servus TV HD
-http://api.iptv.ink/pl.m3u8?ch=91552152
 #EXTINF:-1,SR
 http://livestream.sr-online.de/live.m3u8
 #EXTINF:-1,SR HD
@@ -730,6 +740,8 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
 http://api.iptv.ink/pl.m3u8?ch=66943285
 #EXTINF:-1,TecTime TV
 http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream_hbb/playlist.m3u8
+#EXTINF:0,Ξένα Γερμανόφωνα: Teleregional Passau 1
+rtmp://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1
 #EXTINF:0,Ξένα Αγγλόφωνα: truTV
 http://live-1183.gv2.edge.filmon.com/live/3707.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe280caace065da4921a399c61a5f67f47d97e54a64de13c6d341a5482b8667be61f2358bb7d0cf83717b2e972129655fdf7f62da816a1a49d496d6d69eba2f83f878cea791889c35fcfe6fc933504b18c947feabb5d47dd9d1a34ed95d35a7f100b271847e7dc5918c1a424eed26af16a9f56bb808d1b377e90ec0935519b3fd2ad819758c55cd6f1e78b963b25489c02
 #EXTINF:0,TV5Monde
@@ -760,6 +772,8 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 rtmp://mf.weltderwunder.c.nmdn.net/wdwlive//WDW-HQ.stream
 #EXTINF:-1,Welt der Wunder TV
 http://api.iptv.ink/pl.m3u8?ch=84481021
+#EXTINF:0,Ξένα Γερμανόφωνα: WMZ senftenberg
+rtmp://62.67.13.53:1935/wmzsenftenberg/live.stream
 #EXTINF:-1,WGN NEWS CHICAGO (USA)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:0,World Fashion
@@ -973,6 +987,8 @@ http://213.81.153.241/live001/channel014_p3.stream/DVR.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:0,Sports: Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Sports: Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 #EXTINF:0,Sports: Redbull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:0,Sports: NBA TV
