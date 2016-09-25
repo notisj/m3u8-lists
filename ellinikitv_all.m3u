@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0,Ταινίες: ΤΕΣΤ 1
+plugin://plugin.video.youtube/embed?v=dLHhGSsuLPc&feature=PlayList&p=PLPdAAwYcAwHc8d2cP7-nRcq_9KwsZbVwa&playnext_from=PL&index=0&playnext=1
+#EXTINF:0,Ταινίες: ΤΕΣΤ 2 
+plugin://plugin.video.youtube/embed?listType=playlist&list=PLPdAAwYcAwHc8d2cP7-nRcq_9KwsZbVwa
+#EXTINF:0,Ταινίες: ΤΕΣΤ 3
+plugin://plugin.video.youtube/embed/videoseries?list=PLPdAAwYcAwHc8d2cP7-nRcq_9KwsZbVwa
+#EXTINF:0,Ταινίες: ΤΕΣΤ 4
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dLHhGSsuLPc
+#EXTINF:0,Ταινίες: ΤΕΣΤ 5
+plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=PLPdAAwYcAwHc8d2cP7-nRcq_9KwsZbVwa
+#EXTINF:0,Ταινίες: ΤΕΣΤ 6
+plugin://plugin.video.youtube/play?v=dLHhGSsuLPc&feature=PlayList&p=PLPdAAwYcAwHc8d2cP7-nRcq_9KwsZbVwa&playnext_from=PL&index=0&playnext=1
 
 #EXTINF:0,Πανελλαδικά: ERT1 
 plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4
