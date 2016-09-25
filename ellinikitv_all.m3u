@@ -628,6 +628,8 @@ http://live-1180.gv2.edge.filmon.com/live/97.low.stream/playlist.m3u8?id=0ad5aac
 rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
 #EXTINF:0,Ξένα Γερμανόφωνα: Munchen TV 
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
+#EXTINF:0,Ξένα Γερμανόφωνα: Mühlviertel TV
+mms://wmsstream22.v4.mytv.ris.at/live/stream_149
 #EXTINF:0,Ξένα Αγγλόφωνα: My face my body
 http://live-1264.la2.edge.filmon.com/live/4154.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8d5b2bc358f874e7c741c424e8bc418e75bfee959f26f4370ea0be4be2c62ecc8f72bf7e71b10fb2872092766683790e7c976ca3c42e90f8226a781a65e4065c4c30a3f36ebfd8fc7d4cd566cc82034eab35cd5acd5a5705d56cd4fd968dddd437bafb4a585374fde3af440b7da17709b09ac3bcf628dc79118d7c2e1711f4525fcf5d4d02f4d9562b6f162e02cedc3e
 #EXTINF:0,Ξένα Γερμανόφωνα: N24
