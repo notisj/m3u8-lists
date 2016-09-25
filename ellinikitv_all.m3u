@@ -67,9 +67,9 @@ rtmp://144.76.2.213:1935/live/livestream
 #EXTINF:0,Κυπριακά: MAD CYPRUS (4)
 http://144.76.2.213:1935/live/livestream/playlist.m3u8
 #EXTINF:0,Κυπριακά: MEGA CYPRUS 
-http://l1.cs-cdn.net/hlive/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE2IDg6MDY6MDIgQU0maGFzaF92YWx1ZT1HQTJLeEpEenM0bFg3aWIzWFZyRHVnPT0mdmFsaWRtaW51dGVzPTIw
+http://85.25.207.85/hlive/abr/l1/m1/chunks.m3u8?nimblesessionid=2139269&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE2IDc6MDI6MTcgQU0maGFzaF92YWx1ZT1xS0Myb2txYjJ3SEdZVUdXTjVDR3VRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,Κυπριακά: MEGA CYPRUS (2)
-http://138.201.22.165/hlive/abr/l1/b1/chunks.m3u8?nimblesessionid=746769&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE2IDg6MDY6MDIgQU0maGFzaF92YWx1ZT1HQTJLeEpEenM0bFg3aWIzWFZyRHVnPT0mdmFsaWRtaW51dGVzPTIw
+http://l1.cs-cdn.net/hlive/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE2IDc6MDM6MzIgQU0maGFzaF92YWx1ZT1UYnJiZkZxK3U4M3c0bU4wSWJXY2ZBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,Κυπριακά: RIK SAT
 http://cdnvideo.webvideocore.net/livenl/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 #EXTINF:0,Κυπριακά: RIK SAT (2)
@@ -291,7 +291,7 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: NETV Toronto (2)
 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
 #EXTINF:0,Διαδικτυακά: NEW CHANNEL WEB
-https://r20---sn-4g57knzl.googlevideo.com/videoplayback?initcwndbps=981250&mt=1470399906&dur=8570.415&sver=3&source=youtube&lmt=1458023497729642&ei=d4ikV4G-A8uLWtKOsegO&id=o-AHuBimUJC04Kckd9cTsgugdfUrnxdF0CBpcG0wKhImNM&ms=au&gcr=de&mv=m&mm=31&signature=4D2D0F53728EC0BF48138DDD1E113408BC1EA516.E03EC93B1B842C22EC546283D8C16D586C3CA3B5&mn=sn-4g57knzl&sparams=cnr%2Cdur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&key=yt6&ip=84.63.12.39&upn=VWFsxXKoctg&itag=22&fexp=9406001%2C9419451%2C9422596%2C9427833%2C9428398%2C9431012%2C9433096%2C9433223%2C9433946%2C9435526%2C9437066%2C9437552%2C9438327%2C9438662%2C9438805%2C9439535%2C9439580%2C9439745%2C9439822%2C9441604%2C9442424%2C9442501%2C9442733%2C9443243%2C9443344&expire=1470422231&pl=16&mime=video%2Fmp4&cnr=14&ratebypass=yes&ipbits=0&requiressl=yes&nh=IgpwcjA0LmZyYTE2KgkxMjcuMC4wLjE
+plugin://plugin.video.youtube/play/?video_id=JDf8xHMsrtc
 #EXTINF:0,Διαδικτυακά: NEW TV
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: NIKAIA CHURCH
