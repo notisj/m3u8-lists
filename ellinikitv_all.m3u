@@ -58,6 +58,8 @@ rtmp://streamer0.grnet.gr/parliament/parltv.sdp
 plugin://plugin.video.youtube.com/watch?v=0khKa0_RnXk 
 #EXTINF:0,Κυπριακά: ANT1 CYPRUS 
 http://l2.cloudskep.com/antl2/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDE2IDc6Mzg6MDEgQU0maGFzaF92YWx1ZT13aGhGY2NFb2hjUkVPTW5WTjN5MFlBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0,Κυπριακά: ANT1 CYPRUS (2)
+http://85.25.207.85/antl2/abr/l2/m2/chunks.m3u8?nimblesessionid=2139905&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDE2IDk6MTI6MDAgQU0maGFzaF92YWx1ZT0xZ2daQkc1ZnhxZnh1aXBHT2d1b25RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,Κυπριακά: MAD CYPRUS 
 rtmp://144.76.2.213/live/livestream
 #EXTINF:0,Κυπριακά: MAD CYPRUS (2)
@@ -170,6 +172,8 @@ http://iphone-streaming.ustream.tv/uhls/10039219/streams/live/iphone/playlist.m3
 rtmp://94.23.218.186:1935/cretatv/cretatv
 #EXTINF:0,Περιφερειακά: Delta TV
 mms://deltatv1.dyndns.org:1194
+#EXTINF:0,Περιφερειακά: Delta TV (2)
+http://www.deltatv.gr/live.asx
 #EXTINF:0,Διαδικτυακά: Διαβατά TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Diktyo TV
