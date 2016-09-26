@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,Ταινίες: ΤΕΣΤ 8 
+plugin://plugin.video.youtube/embed?listType=playlist&list=PLPdAAwYcAwHc8d2cP7-nRcq_9KwsZbVwa
 #EXTINF:0,Πανελλαδικά: ERT1 
 http://ert-live.hls.adaptive.level3.net/hls-live/ert-channel01/_definst_/live.m3u8
 #EXTINF:0,Πανελλαδικά: ERT1 (2)
