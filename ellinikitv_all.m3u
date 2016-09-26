@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,Ταινίες: ΤΕΣΤ 1
-https://www.youtube.com/embed?v=dLHhGSsuLPc&feature=PlayList&p=PLPdAAwYcAwHc8d2cP7-nRcq_9KwsZbVwa&playnext_from=PL&index=0&playnext=1
 #EXTINF:0,Πανελλαδικά: ERT1 
 plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4
 #EXTINF:0,Πανελλαδικά: ERT1 (2)
