@@ -450,6 +450,8 @@ http://artelive-lh.akamaihd.net/i/artelive_de@393591/index_5_av-p.m3u8?sd=10&reb
 rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
 #EXTINF:0,Ξένα Γερμανόφωνα: Austria 24 TV
 rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:0,Ξένα Γερμανόφωνα: Austria 24 TV
+rtmp://streaming.austria24.tv/live/stream_240p
 #EXTINF:0,Ξένα Αγγλόφωνα: BBC One
 http://...
 #EXTINF:0,Ξένα Αγγλόφωνα: BBC Four
@@ -556,6 +558,8 @@ http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8
 #EXTINF:0,Ξένα Αγγλόφωνα: KTVU - fox2
 http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+#EXTINF:0,Ξένα Γερμανόφωνα: Kronehit tv
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
 #EXTINF:0,Ξένα Γερμανόφωνα: Lifestyle
 rtmp://stream1.lifestyletv.se/live/livestream1
 #EXTINF:0,Ξένα Γερμανόφωνα: Light Channel TV Deutschland
@@ -600,6 +604,8 @@ http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
 rtmp://62.113.210.250/medienasa-live/ok-stendal_high
 #EXTINF:0,Ξένα Γερμανόφωνα: OK Wernigerode 
 rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:0,Ξένα Γερμανόφωνα: OKTO TV
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8 
 #EXTINF:0,Ξένα Γερμανόφωνα: ORF EINS
 rtmp://185.85.29.16/orf1/q4a.sdp
 #EXTINF:0,Ξένα Γερμανόφωνα: ORF 2
@@ -670,6 +676,8 @@ http://api.iptv.ink/pl.m3u8?ch=66943285
 http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream_hbb/playlist.m3u8
 #EXTINF:0,Ξένα Γερμανόφωνα: Teleregional Passau 1
 rtmp://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1
+#EXTINF:0,Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 #EXTINF:0,TV5Monde
 http://109.172.11.85:1234/udp/224.0.42.26:5000
 #EXTINF:-1,Tv Aktuelle 
