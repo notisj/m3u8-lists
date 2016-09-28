@@ -923,6 +923,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,Sports: Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:0,Sports: Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:0,Sports: Redbull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:0,Sports: NBA TV
@@ -1007,6 +1009,18 @@ http://rm-edge-1.cdn2.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 #EXTINF:0,Sports: COMBATE
 http://213.163.65.9:8081/live/combatez/playlist.m3u8
+#EXTINF:0,Sports: AyM Sports
+http://190.57.234.166/V3/5/1.m3u8
+#EXTINF:0,Sports: NFL Network
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:0,Sports: Motorstivi
+rtmp://103.194.169.135:1935/live?token=/_definst_/motorxtv
+#EXTINF:0,Sports: FILMON SPORTS
+http://198.179.31.197/live/9.high.stream/playlist.m3u8
+#EXTINF:0,Sports: NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0,Sports: PPV CELEBRITY FIGHT
+http://198.179.31.197/live/412.high.stream/playlist.m3u8
 
 #EXTINF:0, group-title="video" tvg-logo="",playlist
 plugin://plugin.video.youtube.com/watch?v=NwL98zzdEXo&index&feature=PlayList&p=PLPdAAwYcAwHeUcBQPoooOukJfsaJfTm-N&playnext_from=PL&index=0&playnext=1
