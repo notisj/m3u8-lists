@@ -765,6 +765,10 @@ http://livegeo.kika.de/z/livetvkika_de@75114/manifest.f4m?g=NKSLXPIOGHIN&hdcore=
 http://80.237.191.228:1935/live/_definst_/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8
 #EXTINF:0,Παιδικά: RiC
 http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/HasBahCa.m3u8
+#EXTINF:0,Παιδικά: 3ABN KIDS
+http://moiptvus-lh.akamaihd.net:80/i/kidslive_1@328343/index_800_av-b.m3u8
+#EXTINF:0,Παιδικά: CARTOON NETWORK
+http://31.204.152.6:8081/live/cartoonk/playlist.m3u8
 
 #EXTINF:0,Music: DJing Ibiza Live
 http://us.djing.com/tv/d-03.m3u8
