@@ -999,6 +999,8 @@ http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:0,Sports: TVJ SPORTS (JAMAICA)
 http://univ-i.akamaihd.net/hls/live/222635/HLS12/chunklist.m3u8
+#EXTINF:0,Sports: Dubai Racing
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:0,Sports: Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:0,Sports: BFM SPORT
@@ -1021,6 +1023,44 @@ http://198.179.31.197/live/9.high.stream/playlist.m3u8
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:0,Sports: PPV CELEBRITY FIGHT
 http://198.179.31.197/live/412.high.stream/playlist.m3u8
+#EXTINF:0,Sports: BMW CHANNEL Italia
+mms://100automoto.tv/bmw
+#EXTINF:0,Sports: MMA BAY TV
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+#EXTINF:0,Sports: BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:0,Sports: FUTBOL 1
+http://109.254.93.19:81/udp/238.1.1.99:1234
+#EXTINF:0,Sports: FUTBOL 2
+http://109.254.93.19:81/udp/238.1.1.100:1234
+#EXTINF:0,Sports: REDE TV2
+rtmp://evp.mm.uol.com.br/redetv2/_definst_/redetv2
+#EXTINF:0,Sports: SPORTS TV TURKEY
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:0,Sports: TVA SPORT
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,Sports: Viasat Sport
+http://alturl.com/8wi4k
+#EXTINF:0,Sports: Viasat Sport Baltik
+http://88.223.26.13:4022/udp/239.255.19.46:26495
+#EXTINF:0,Sports: Versus
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0,Sports: Rete Sport 8
+http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
+#EXTINF:0,Sports: Koweit sport
+http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
+#EXTINF:0,Sports: Koweit sport plus
+http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
+#EXTINF:0,Sports: Auto Moto TV Gaz
+mms://100automoto.tv/100gaz
+#EXTINF:0,Sports: PORSCHE CHANNEL
+mms://100automoto.tv/channel_porsche
+#EXTINF:0,Sports: Electric
+mms://100automoto.tv/channel_electric
+#EXTINF:0,Sports: Mercedes-Benz Channel
+mms://100automoto.tv/channel_mercedes
+#EXTINF:0,Sports: Auto Italia Channel
+mms://100automoto.tv/channel_italy
 
 #EXTINF:0, group-title="video" tvg-logo="",playlist
 plugin://plugin.video.youtube.com/watch?v=NwL98zzdEXo&index&feature=PlayList&p=PLPdAAwYcAwHeUcBQPoooOukJfsaJfTm-N&playnext_from=PL&index=0&playnext=1
