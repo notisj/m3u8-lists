@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0,Ελλάδα - Κύπρος Live
-http://80.82.78.6:8081/live/hrtthrthrththth19.m3u8?e=1475864836&st=hUuUo7TdQrQ1tO8OQpNRxQ
-#EXTINF:0,Ελλάδα - Κύπρος Live
-http://89.248.168.12:8081/live/mamahdvch8.m3u8?e=1475865253&st=ZWL2DWuLG372KIPeLlHBow
 #EXTINF:0,Πανελλαδικά: ERT1 
 plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4
 #EXTINF:0,Πανελλαδικά: ERT1 (2)
