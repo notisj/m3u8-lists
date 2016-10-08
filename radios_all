@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:0,88.6 UP Radio 88.6 - Αθήνα (live24)
+http://netradio.live24.gr/886up-trans?listenerid=*?*.mp3
+#EXTINF:0,A100FM 107.4 - Αθήνα
+http://bestgreek.info:8104/;stream.nsv
+#EXTINF:0,ActionFM 104.6 - Αθήνα
+http://netradio.live24.gr/actionfm?*.mp3
+#EXTINF:0,Αθήνα 98.4 - Αθήνα
+http://athenshdlive-lh.akamaihd.net/i/athina984fmlive_2@88331/master.m3u8
+#EXTINF:0,Alpha 98.9 - Αθήνα
+http://194.219.46.2:8080/live?*.mp3
+#EXTINF:0,ART FM 90.6 - Αθήνα
+http://85.25.106.137:8023/stream?*.mp3
+#EXTINF:0,Athens DJ 95.2 - Αθήνα
+http://rdj-lh.akamaihd.net/i/live_1@324558/master.m3u8
+#EXTINF:0,ATHENS TOP FM 100.6 - Αθήνα
+http://142.4.215.162:9964/;?*.mp3
+#EXTINF:0,Atlantis FM 105.2 - Αθήνα
+http://144.76.140.103:8308/;*.mp3
+#EXTINF:0,Best Radio 92.6 - Αθήνα
+http://best.live24.gr/best1222?listenerid=*?*.mp3
+#EXTINF:0,
