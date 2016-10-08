@@ -19,4 +19,13 @@ http://142.4.215.162:9964/;?*.mp3
 http://144.76.140.103:8308/;*.mp3
 #EXTINF:0,Best Radio 92.6 - Αθήνα
 http://best.live24.gr/best1222?listenerid=*?*.mp3
-#EXTINF:0,
+#EXTINF:0,BHMA FM 99.5 - Αθήνα
+http://streaming.dol.gr/vimafm
+#EXTINF:0,Church of Greece 89.5 - Αθήνα
+http://85.10.206.222:8002/
+#EXTINF:0,Church of Piraeus 91.2 - Αθήνα
+http://144.76.140.103:8310/
+#EXTINF:0,Derti 98.6 - Αθήνα
+http://derti.live24.gr/derty1000?listenerid=*?*.mp3
+#EXTINF:0,Dromos FM 89,8 - Αθήνα
+http://dromos898.live24.gr/dromos898?listenerid=*?*.mp3
