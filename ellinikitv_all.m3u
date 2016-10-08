@@ -112,6 +112,8 @@ http://stream-03.vty.dailymotion.com/47/dm/1/x2p626q/live.isml/events(live-14738
 https://stream-10.vty.dailymotion.com/47/dm/1/x2p626q/live.isml/events(live-1473892767)/live-audio=64000-video=400000.m3u8
 #EXTINF:0,Διαδικτυακά: ALFA OMEGA EVIA WEB TV
 http://xalfaomegaeviawebtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,Διαδικτυακά: Alpha 98.9
+https://www.youtube.com/watch?v=ttWmL_5jSC0
 #EXTINF:0,Περιφερειακά: AIGAIO TV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,Περιφερειακά: AIGAIO TV (2)
