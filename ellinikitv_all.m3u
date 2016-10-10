@@ -263,11 +263,7 @@ rtsp://live.cretetv.gr:1935/cretetv/mp4:myStream
 #EXTINF:0,Διαδικτυακά: Κοντιλιές
 http://events.yourmedia.gr:80/kontiliestv2/kontilies_live2/playlist.m3u8
 #EXTINF:0,Cinema: Λάμψη TV
-http://176.9.25.17:1935/LampsiTV/LampsiTV/playlist.m3u8
-#EXTINF:0,Cinema: Λάμψη TV (2)
-http://94.23.218.186/system/misc/jwplayer6/jwplayer.flash.swf
-#EXTINF:0,Cinema: Λάμψη TV (3)
-http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
+http://stream.ssh101.com:1935/live/lampsitv/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Lepanto
 http://stream-10.vty.dailymotion.com/38/dm/1/x4eyjfv/live.isml/events(live-1473968636)/live-audio=128000-video=700000.m3u8
 #EXTINF:0,Περιφερειακά: Lepanto (2)
