@@ -359,7 +359,7 @@ http://iphone-streaming.ustream.tv/uhls/18655753/streams/live/iphone/playlist.m3
 #EXTINF:0,Διαδικτυακά: Τηλεμουσική (3)
 mmsh://wpso.com:200/music
 #EXTINF:0,Περιφερειακά: Top Channel
-http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
+http://stream.ssh101.com:1935/live/topkozani/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Trt TV
 http://xelladalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Syros TV 1
