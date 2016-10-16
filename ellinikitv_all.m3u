@@ -14,6 +14,10 @@ plugin://plugin.video.youtube.com/watch?v=nxebm_-DkF0
 #EXTINF:0,Πανελλαδικά: MEGA
 plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
 #EXTINF:0,Πανελλαδικά: MEGA (2)
+http://137.74.171.115:1935/galanos/live2/playlist.m3u8
+#EXTINF:0,Πανελλαδικά: MEGA (3)
+rtmp://94.75.240.96:1935/mega/mega.sdp
+#EXTINF:0,Πανελλαδικά: MEGA (4)
 http://stream.ssh101.com:1935/live/megachannel/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ANT1 
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
@@ -28,19 +32,21 @@ http://193.92.37.235:1935/liveedge/live@720/chunklist_w754127955.m3u8
 #EXTINF:0,Πανελλαδικά: ALPHA (4)
 http://193.92.37.235:1935/liveedge/live@720/manifest.f4m
 #EXTINF:0,Πανελλαδικά: STAR 
-http://iptv.re/live/a/a/3538.m3u8
+rtmp://94.75.240.96:1935/star/star.sdp
 #EXTINF:0,Πανελλαδικά: STAR (2)
-http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
+http://137.74.171.115:1935/galanos/live1/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: STAR (3)
 http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
 #EXTINF:0,Πανελλαδικά: SKAI 
 plugin://plugin.video.skai.gr/play/?action=live
 #EXTINF:0,Πανελλαδικά: SKAI (2)
 http://stream.ssh101.com:1935/live/skaichannel/playlist.m3u8
+#EXTINF:0,Πανελλαδικά: SKAI (3)
+http://pro.satlover.com:58080/live/theglades/f7rgOuVnRH/1480.ts
 #EXTINF:0,Πανελλαδικά: E TV 
-https://57c821d91eac3.streamlock.net/live/epsilontv/playlist.m3u8
+https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:0,Πανελλαδικά: E TV (2)
-https://57c821d91eac3.streamlock.net/live/epsilontv/master.m3u8
+rtmp://94.75.240.96:1935/e/e.sdp
 #EXTINF:0,Πανελλαδικά: Macedonia TV  
 http://stream.maktv.gr/i/live_1@332903/master.m3u8
 #EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ) 
@@ -128,6 +134,14 @@ http://xakritesx.api.channel.livestream.com/3.0/playlist.m3u8
 plugin://plugin.video.youtube/play/?video_id=4TxS3Je89Iw
 #EXTINF:0,Περιφερειακά: Αλήθεια TV Χίος
 plugin://plugin.video.youtube/play/?video_id=PWDIYlrWnKg
+#EXTINF:0,Apeiro
+http://94.23.218.186:1935/galanos21/galanos21/playlist.m3u8
+#EXTINF:0,Apeiro 2
+http://137.74.171.115:1935/galanos/live3/playlist.m3u8
+#EXTINF:0,Apeiro 3
+http://137.74.171.115:1935/galanos/live4/playlist.m3u8
+#EXTINF:0,Apeiro 4
+http://137.74.171.115:1935/galanos/live5/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: ART Music Web
 http://xrakteox.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,Περιφερειακά: ASTRA TV
