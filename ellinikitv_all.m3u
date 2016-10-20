@@ -3,14 +3,22 @@
 plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4
 #EXTINF:0,Πανελλαδικά: ERT1 (2)
 plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
+#EXTINF:0,Πανελλαδικά: ERT1 (3)
+mmsh://38.99.163.111:80/net?MSWMExt=.asf
 #EXTINF:0,Πανελλαδικά: ERT2 
 plugin://plugin.video.youtube/play/?video_id=7IVPHnffeHs
 #EXTINF:0,Πανελλαδικά: ERT2 (2)
 plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI
+#EXTINF:0,Πανελλαδικά: ERT2 (3)
+mmsh://38.99.163.111:80/ERT2?MSWMExt=.asf
 #EXTINF:0,Πανελλαδικά: ERT3 
 plugin://plugin.video.youtube.com/watch?v=NdrihJS8-5g 
 #EXTINF:0,Πανελλαδικά: ERT3 (2)
 plugin://plugin.video.youtube.com/watch?v=nxebm_-DkF0
+#EXTINF:0,Πανελλαδικά: ERT3 (3)
+mmsh://38.99.163.111:80/ERTHD?MSWMExt=.asf
+#EXTINF:0, group-title="Πανελλαδικά" tvg-logo="h",ERT HD
+rtmp://stream.greekelitetv.com:1935/ert_hd/ert_hd.stream
 #EXTINF:0,Πανελλαδικά: MEGA
 plugin://plugin.video.youtube/play/?video_id=2Y8qsS_xH2Y
 #EXTINF:0,Πανελλαδικά: MEGA (2)
@@ -19,6 +27,10 @@ http://137.74.171.115:1935/galanos/live2/playlist.m3u8
 rtmp://94.75.240.96:1935/mega/mega.sdp
 #EXTINF:0,Πανελλαδικά: MEGA (4)
 http://stream.ssh101.com:1935/live/megachannel/playlist.m3u8
+#EXTINF:0,Πανελλαδικά: MEGA (5)
+rtmp://stream.greekelitetv.com:1935/mega/mega.stream
+#EXTINF:0,Πανελλαδικά: MEGA (6)
+mmsh://38.103.153.242:80/mega?MSWMExt=.asf
 #EXTINF:0,Πανελλαδικά: ANT1 
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 #EXTINF:0,Πανελλαδικά: ANT1 (2)
