@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,Πανελλαδικά: ERT HD
-rtmp://stream.greekelitetv.com:1935/ert_hd/ert_hd.stream
 #EXTINF:0,Πανελλαδικά: ERT1 
 plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4
 #EXTINF:0,Πανελλαδικά: ERT1 (2)
@@ -1089,12 +1087,3 @@ mms://100automoto.tv/channel_electric
 mms://100automoto.tv/channel_mercedes
 #EXTINF:0,Sports: Auto Italia Channel
 mms://100automoto.tv/channel_italy
-
-#EXTINF:0,Comedy Lab GR - "Το εργαστήριο της κωμωδίας"
-plugin://plugin.video.youtube/channel/UCiOkLGlj4azqep3O_J0wLkw/
-#EXTINF:0,Game Lab GR - "Το εργαστήριο του παιχνιδιού"
-plugin://plugin.video.youtube/channel/UCGQlnda3fuj6a-RNDXbv1ew/
-#EXTINF:0,Mikeius Official - Επίσημο κανάλι Μάικιους
-plugin://plugin.video.youtube/channel/UCEmy9PSZsuKouJlsurRzC1A/
-#EXTINF:0,2J
-plugin://plugin.video.youtube/channel/UCGSv9_cj9LDtF-MvXEr7-Ug/
