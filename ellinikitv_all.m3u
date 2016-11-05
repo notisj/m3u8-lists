@@ -77,6 +77,8 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 mms://media19.internet.gr/ParliamentTV-HQ
 #EXTINF:0,Πανελλαδικά: VOULI (4)
 rtmp://streamer0.grnet.gr/parliament/parltv.sdp
+#EXTINF:0,Πανελλαδικά: VOULI (5)
+http://stream.greekelitetv.com:1935/vouli_tv/vouli_tv.stream/playlist.m3u8
 
 #EXTINF:0,Κυπριακά: Alpha CYPRUS
 plugin://plugin.video.youtube.com/watch?v=5I0ScTaDvI8
