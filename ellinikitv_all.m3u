@@ -38,7 +38,7 @@ http://193.92.37.235:1935/liveedge/live@720/manifest.m3u8
 #EXTINF:0,Πανελλαδικά: ALPHA (3)
 http://193.92.37.235:1935/liveedge/live@720/chunklist_w754127955.m3u8
 #EXTINF:0,Πανελλαδικά: ALPHA (4)
-mmsh://38.99.163.111:80/alpha?MSWMExt=.asf
+http://151.80.31.94:12580/live/55E2D/553ED/3593.m3u8
 #EXTINF:0,Πανελλαδικά: STAR 
 rtmp://94.75.240.96:1935/star/star.sdp
 #EXTINF:0,Πανελλαδικά: STAR (2)
