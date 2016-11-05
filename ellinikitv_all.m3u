@@ -58,13 +58,17 @@ http://151.80.31.94:12580/live/55E2D/553ED/3581.m3u8
 #EXTINF:0,Πανελλαδικά: E TV 
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/master.m3u8
 #EXTINF:0,Πανελλαδικά: E TV (2)
+http://stream.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8
+#EXTINF:0,Πανελλαδικά: E TV (3)
 rtmp://94.75.240.96:1935/e/e.sdp
-#EXTINF:0,Πανελλαδικά: Macedonia TV  
-http://stream.maktv.gr/i/live_1@332903/master.m3u8
+#EXTINF:0,Πανελλαδικά: Macedonia TV HD
+http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
+#EXTINF:0,Πανελλαδικά: Macedonia TV 
+http://151.80.31.94:12580/live/55E2D/553ED/2753.m3u8
 #EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ) 
-https://stream-06.vty.dailymotion.com/43/dm/1/x4sxo2v/live.isml/events(live-1473908417)/live-audio=128000-video=700000.m3u8
+http://stream-12.vty.dailymotion.com/15/dm/1/x4x15qn/live.isml/events(live-1478318416)/live-audio=64000-video=400000.m3u8
 #EXTINF:0,Πανελλαδικά: ART (ΤΗΛΕΑΣΤΥ)(2)
-https://stream-11.vty.dailymotion.com/03/dm/1/x4pvzft/live.isml/events(live-1473390014)/live-audio=128000-video=700000.m3u8
+http://www.dailymotion.com/cdn/live/video/x4x15qn.m3u8?auth=1478538617-2562-woptwicf-171f1b97dc56c2d8a79b39d1b13e4aa6
 #EXTINF:0,Πανελλαδικά: VOULI 
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:0,Πανελλαδικά: VOULI (2)
@@ -324,6 +328,8 @@ plugin://plugin.video.youtube/play/?video_id=JDf8xHMsrtc
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: NIKAIA CHURCH
 http://vod-03.viewer.dacast.com/i/unsecure/10736/10736_,164491.mp4,.csmil/master.m3u8
+#EXTINF:0,Περιφερειακά: Nickelodeon
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/3648.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=PETROTV_NAC_2
 #EXTINF:0,Περιφερειακά: Omega Television
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 #EXTINF:0,Περιφερειακά: Omega Television (2)
