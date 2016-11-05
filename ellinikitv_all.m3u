@@ -121,6 +121,8 @@ plugin://plugin.video.youtube/play/?video_id=rdlulSBQPp8
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINF:0, Λοιπά Ελληνικά: Euronews (2)
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
+#EXTINF:0, Λοιπά Ελληνικά: Euronews (3)
+http://stream.greekelitetv.com:1935/euro_news/euro_news.stream/playlist.m3u8
 
 #EXTINF:0,Διαδικτυακά: 114News 
 http://x114newsx.api.channel.livestream.com/3.0/playlist.m3u8
@@ -259,9 +261,9 @@ http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:0,Διαδικτυακά: HELLENIC TV
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
 #EXTINF:0,Περιφερειακά: Ionian TV
-https://stream-11.vty.dailymotion.com/05/dm/1/x4hnjh6/live.isml/events(live-1473971009)/live-audio=128000-video=2000000.m3u8
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Ionian TV (2)
-https://stream-04.vty.dailymotion.com/05/dm/1/x4hnjh6/live.isml/events(live-1473971009)/live-audio=128000-video=2000000.m3u8
+http://stream.ssh101.com:1935/live/ionian/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: Ίριδα TV
 mms://212.251.44.111:27030
 #EXTINF:0,Περιφερειακά: Ιωάννινα TV
@@ -350,6 +352,8 @@ rtmp://w11.streamgb.com:1935/8046/8046
 http://176.9.123.140:1935/savate/mp4:stream/master.m3u8
 #EXTINF:0,Περιφερειακά: Radio Vereniki WEB TV
 http://iphone-streaming.ustream.tv/uhls/7948248/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Cinema: Reload TV
+http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: RYTHMOS 94.3 WEB TV
 rtmp://rythmoscam.dyndns.org:1935/live/myStream
 #EXTINF:0,Περιφερειακά: Samiaki TV
@@ -363,9 +367,9 @@ http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,Διαδικτυακά: Soccer Box
 http://xlivesbxx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,Περιφερειακά: Star Κεντρικής Ελλάδος
-https://stream-05.vty.dailymotion.com/18/dm/1/xqjey2/live.isml/events(live-1473707787)/live-audio=128000-video=2000000.m3u8
+http://stream-08.vty.dailymotion.com/42/dm/1/xqjey2/live.isml/events(live-1478340705)/live-audio=128000-video=1200000.m3u8
 #EXTINF:0,Περιφερειακά: Star Κεντρικής Ελλάδος (2)
-http://stream-ec2.vty.dailymotion.com/18/dm/1/xqjey2/live.isml/events(live-1473707787)/live-audio=128000-video=700000.m3u8
+http://stream-08.vty.dailymotion.com/42/dm/1/xqjey2/live.isml/live.m3u8?e=1478540217&st=UllJmCcpn83YF8mxKvGJ0w
 #EXTINF:0,Περιφερειακά: Star Δράμας
 mmsh://radiofeeds1.mediabox.gr/startv
 #EXTINF:0,Περιφερειακά: Start TV
