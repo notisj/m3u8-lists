@@ -8,9 +8,11 @@ http://stream.ssh101.com:1935/live/upgert/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ERT1 (4)
 http://s2.greekelitetv.com:1935/ert1/ert1.stream/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ERT2 
-plugin://plugin.video.youtube/play/?video_id=7IVPHnffeHs
-#EXTINF:0,Πανελλαδικά: ERT2 (2)
 plugin://plugin.video.youtube/play/?video_id=Zjbwf5QE7aI
+#EXTINF:0,Πανελλαδικά: ERT2 (2)
+plugin://plugin.video.youtube/play/?video_id=7IVPHnffeHs
+#EXTINF:0,Πανελλαδικά: ERT2 (3)
+http://s2.greekelitetv.com:1935/ert2/ert2.stream/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ERT3 
 plugin://plugin.video.youtube.com/watch?v=NdrihJS8-5g 
 #EXTINF:0,Πανελλαδικά: ERT3 (2)
