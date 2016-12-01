@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:0,Πανελλαδικά: ERT1 
-plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4
-#EXTINF:0,Πανελλαδικά: ERT1 (2)
 plugin://plugin.video.youtube/play/?video_id=wyBm8cFiUp0
+#EXTINF:0,Πανελλαδικά: ERT1 (2)
+plugin://plugin.video.youtube/play/?video_id=gnnO4TeJG-4
+#EXTINF:0,Πανελλαδικά: ERT1 (3)
+http://stream.ssh101.com:1935/live/upgert/playlist.m3u8
+#EXTINF:0,Πανελλαδικά: ERT1 (4)
+http://s2.greekelitetv.com:1935/ert1/ert1.stream/playlist.m3u8
 #EXTINF:0,Πανελλαδικά: ERT2 
 plugin://plugin.video.youtube/play/?video_id=7IVPHnffeHs
 #EXTINF:0,Πανελλαδικά: ERT2 (2)
